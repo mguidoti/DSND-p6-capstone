@@ -1,0 +1,8 @@
+# VS Code Config #
+##################
+.vscode/
+p6-capstone.code-workspace
+
+# Others #
+##########
+test.py
