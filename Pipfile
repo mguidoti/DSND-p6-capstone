@@ -11,6 +11,7 @@ numpy = "*"
 matplotlib = "*"
 ipykernel = "*"
 scrapy = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
