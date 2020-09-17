@@ -58,6 +58,16 @@ zr_fields = {
 }
 
 def zr_parser(filepath):
+    """Parse the plain text output format from Clarivate's Zoological Record
+
+    Args:
+        filepath (str): String with the filepath to the Zoological Record's
+        output file.
+
+    Returns:
+        list: List of dictionaries, each dictionary containing one record from
+        Zoological Record's output files.
+    """
 
     with open(filepath, mode='r', encoding="Utf-8") as input_file:
 
@@ -81,6 +91,14 @@ def zr_parser(filepath):
 
 
 def create_df(files_list):
+    """Return a Pandas DataFrame from Zoological Record's output file(s).
+
+    Args:
+        files_list (list): List with the output file names to be processed.
+
+    Returns:
+        pandas.DataFrame: DataFrame with all data, saved in different files, combined.
+    """
 
     all_records = list()
 
