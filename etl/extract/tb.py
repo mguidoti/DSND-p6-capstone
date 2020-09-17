@@ -12,27 +12,17 @@ def get_data():
         '%22%20%22sp%20nov.%22%20%22New%20SpecIes%22&FA-cont.treatCount=count&'
         'format=JSON')
 
+
     if r.status_code == 200:
 
         return r.json()['data']
 
     else:
-        return "Something went wrong. Status code: {}. Reason: {}".format(
-            r.status_code,
-            r.reason)
+        raise TypeError('Something went wrong. Status code: {}, reason: {}'
+            .format(r.status_code, r.reason))
 
-def create_df(data):
+def create_df():
 
-    if type(data) is str:
-        return data
+    data = get_data()
 
-    else:
-        df = pd.DataFrame(data)
-
-        df.drop(['DocArticleUuid', 'TreatStatus'], axis=1, inplace=True)
-
-        df.rename(columns={'DocCount': 'Docs', 'BibYear': 'Year', 'BibSource': 'Journal', 'ContTreatCount': 'Treatments'}, inplace=True)
-
-        df = df[['Journal', 'Year', 'Docs', 'Treatments']]
-
-        return df
+    return pd.DataFrame(data)
