@@ -2,6 +2,15 @@ import requests
 import pandas as pd
 
 def get_data():
+    """Retrieve TreatmentBank (Plazi) data from a pre-determine API call
+
+    Raises:
+        TypeError: If we got anything else but a 200, this exception will be
+        raised as we won't be able to build a pandas.DataFrame from the response
+
+    Returns:
+        dict: A dictionary containing the data from TreatmentBank API
+    """
 
     r = requests.get('http://tb.plazi.org/GgServer/dioStats/stats?outputFields='
         'doc.articleUuid+bib.year+bib.source+cont.treatCount+treat.status&'
@@ -22,6 +31,11 @@ def get_data():
             .format(r.status_code, r.reason))
 
 def create_df():
+    """Creates a pandas.DataFrame out of the data retrieved from TreatmentBank
+
+    Returns:
+        pandas.DataFrame: Dataframe contaning all information retrieved
+    """
 
     data = get_data()
 
