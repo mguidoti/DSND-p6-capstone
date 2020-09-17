@@ -3,10 +3,14 @@ import re
 import pandas as pd
 
 
-my_dir = './data/wos/'
+my_dir = './data/wos/'      # Define folder where the output files are kept
 
+# List all files in the specified folder
 my_files = [f for f in listdir(my_dir) if path.isfile(path.join(my_dir, f))]
 
+# Data dictionary based on Zoological Records documentation, used to translate
+# the output fields into meaningful columns. Link:
+# https://images.webofknowledge.com/images/help/ZOOREC/hs_zoorec_fieldtags.html
 zr_fields = {
     'FN': 'File Name',
     'VR': 'Version Number',
@@ -75,17 +79,24 @@ def zr_parser(filepath):
         record = dict()
 
         for line in input_file:
-
+            # Avoid the first two lines of the file
             if line[1:3] != 'FN' and line[:2] != 'VR':
+                # If the line means 'End of Record', then add the dict to the
+                # list, and renew the dict
                 if line[:2] == 'ER':
                     record_list.append(record)
                     record = dict()
+                # Search for lines that start with a field. If so, create the 
+                # key on the current dictionary
                 elif re.search('[A-Z]+', line[:2]) != None:
                     cur = line[:2]
                     record[zr_fields.get(cur)] = line[3:].strip()
+                # If not, check if there are two spaces at the beginning. These
+                # are associated with multi-value fields, like Authors. Plus,
+                # the lines in between records are singled spaced, which means,
+                # this also avoids them.
                 elif line[:2] == "  ":
                     record[zr_fields.get(cur)] += ", " + line[3: ].strip()
-
 
     return record_list
 
