@@ -10,4 +10,5 @@ report/
 # Others #
 ##########
 test/
+__pycache__/
 
