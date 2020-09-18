@@ -1,0 +1,12 @@
+
+2020-09-18 16:51:05 [root] WARNING: Total of 1128 records for year 2010.
+2020-09-18 16:52:39 [root] WARNING: Total of 1430 records for year 2011.
+2020-09-18 16:55:21 [root] WARNING: Total of 2482 records for year 2012.
+2020-09-18 16:59:37 [root] WARNING: Total of 4293 records for year 2013.
+2020-09-18 17:00:24 [root] WARNING: Total of 4554 records for year 2020.
+2020-09-18 17:00:39 [root] WARNING: Total of 4829 records for year 2014.
+2020-09-18 17:01:34 [root] WARNING: Total of 5552 records for year 2015.
+2020-09-18 17:01:56 [root] WARNING: Total of 5732 records for year 2016.
+2020-09-18 17:02:14 [root] WARNING: Total of 6098 records for year 2017.
+2020-09-18 17:02:25 [root] WARNING: Total of 6401 records for year 2018.
+2020-09-18 17:02:25 [root] WARNING: Total of 6386 records for year 2019.
