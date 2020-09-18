@@ -86,7 +86,7 @@ def zr_parser(filepath):
                 if line[:2] == 'ER':
                     record_list.append(record)
                     record = dict()
-                # Search for lines that start with a field. If so, create the 
+                # Search for lines that start with a field. If so, create the
                 # key on the current dictionary
                 elif re.search('[A-Z]+', line[:2]) != None:
                     cur = line[:2]
