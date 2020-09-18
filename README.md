@@ -13,7 +13,7 @@
   |--etl
     |--extract
       |--zb
-      |--setup.cfg
+      |--scrapy.cfg
       |--tb.py
       |--wos.py
     |--transform
