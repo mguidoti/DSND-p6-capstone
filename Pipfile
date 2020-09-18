@@ -12,6 +12,7 @@ matplotlib = "*"
 ipykernel = "*"
 scrapy = "*"
 requests = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
