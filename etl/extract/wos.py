@@ -101,7 +101,7 @@ def zr_parser(filepath):
     return record_list
 
 
-def create_df(files_list):
+def create_df(files_list=my_files):
     """Return a Pandas DataFrame from Zoological Record's output file(s).
 
     Args:
@@ -117,3 +117,7 @@ def create_df(files_list):
         all_records += zr_parser(path.join(my_dir, file))
 
     return pd.DataFrame(all_records)
+
+def to_pickle(df, dir=dir):
+
+    df.to_pickle(dir)
