@@ -3,6 +3,11 @@
 .vscode/
 p6-capstone.code-workspace
 
+# Report #
+##########
+report/
+
 # Others #
 ##########
-test.py
+test/
+
