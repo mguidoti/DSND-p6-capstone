@@ -5,7 +5,7 @@
 
 import scrapy
 from scrapy.loader import ItemLoader
-from itemloaders.processors import Compose, MapCompose, Join
+from itemloaders.processors import Compose, MapCompose, Join, TakeFirst
 
 import re
 
@@ -21,6 +21,7 @@ class Doc(scrapy.Item):
     issue = scrapy.Field()
     start_page = scrapy.Field()
     end_page = scrapy.Field()
+    from_year = scrapy.Field()
 
 
 def extract_bibref(string):
@@ -42,7 +43,8 @@ def extract_vol(string):
     elif '-' not in string and '–' not in string:
         return string
     else:
-        return None
+        return ''
+
 
 
 def extract_issue(string):
@@ -61,7 +63,7 @@ def extract_start_page(string):
     sep = re.search('[\-|\–]', page_range)
 
     if ':' in string and sep != None:
-        return page_range[:sep.start()]
+        return page_range[1:sep.start()].strip()
 
     elif ':' in string:
         return string[string.find(':'):].strip()
@@ -108,23 +110,16 @@ class ZbItemLoader(ItemLoader):
         Join(''),
         lambda x: x[re.search('[0-9]{4}', x).end():].strip().split('.')[1],
         lambda x: x[:re.search('[0-9]+', x).start()].strip() if re.search('[0-9]+', x) != None else x.strip()
-        #lambda x: x[re.search('[0-9]{4}', x).end():].strip()
     )
 
     bibref_details_out = Compose(
         Join(''),
         extract_bibref
-        #lambda x: x[re.search('[0-9]{4}', x).end():].strip().split('.')[1]
-        #    .strip(),
-        #lambda x: x[re.search('[0-9]+', x).start():] if re.search('[0-9]+', x) != None else ''
     )
 
     volume_out = Compose(
         Join(''),
         extract_bibref,
-        #lambda x: x[re.search('[0-9]{4}', x).end():].strip().split('.')[1]
-        #    .strip(),
-        #lambda x: x[re.search('[0-9]+', x).start():] if re.search('[0-9]+', x) != None else '',
         extract_vol
     )
 
@@ -145,3 +140,5 @@ class ZbItemLoader(ItemLoader):
         extract_bibref,
         extract_end_page
     )
+
+    from_year_out = Compose(TakeFirst())
