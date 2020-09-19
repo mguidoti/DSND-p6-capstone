@@ -1,0 +1,2984 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN ZOOR15603018933
+PM 31586688
+DT Article
+TI Phylogenetic relationships and systematics of the Amazonian poison frog
+   genus Ameerega using ultraconserved genomic elements.
+AU Guillory, Wilson X. (wilson.guillory@siu.edu) 
+   French, Connor M.
+   Twomey, Evan M.
+   Chavez, German
+   Prates, Ivan
+   von May, Rudolf
+   De la Riva, Ignacio
+   Loetters, Stefan
+   Reichle, Steffen
+   Serrano-Rojas, Shirley J.
+   Whitworth, Andrew
+   Brown, Jason L.
+SO Molecular Phylogenetics and Evolution
+VL 142
+PS 106638
+PD Jan 2020
+PY 2020
+LA English
+U1 2
+U2 8
+AB The Amazonian poison frog genus Ameerega is one of the largest yet most
+   understudied of the brightly colored genera in the anuran family
+   Dendrobatidae, with 30 described species ranging throughout tropical
+   South America. Phylogenetic analyses of Ameerega are highly discordant,
+   lacking consistency due to variation in data types and methods, and
+   often with limited coverage of species diversity in the genus. Here, we
+   present a comprehensive phylogenomic reconstruction of Ameerega,
+   utilizing state-of-the-art sequence capture techniques and phylogenetic
+   methods. We sequenced thousands of ultraconserved elements from over 100
+   tissue samples, representing almost every described Ameerega species, as
+   well as undescribed cryptic diversity. We generated topologies using
+   maximum likelihood and coalescent methods and compared the use of
+   maximum likelihood and Bayesian methods for estimating divergence times.
+   Our phylogenetic inference diverged strongly from those of previous
+   studies, and we recommend steps to bring Ameerega taxonomy in line with
+   the new phylogeny. We place several species in a phylogeny for the first
+   time, as well as provide evidence for six potential candidate species.
+   We estimate that Ameerega experienced a rapid radiation approximately
+   7-11 million years ago and that the ancestor of all Ameerega was likely
+   an aposematic, montane species. This study underscores the utility of
+   phylogenomic data in improving our understanding of the phylogeny of
+   understudied clades and making novel inferences about their evolution.
+C1 Guillory, Wilson X.; Southern Illinois Univ, Dept Zool, 1125 Lincoln Dr,
+   Carbondale, IL, 62901, USA, USA.
+EM wilson.guillory@siu.edu
+OI Whitworth, Andrew/0000-0001-6197-996X; Chavez,
+   German/0000-0002-9291-156X
+SC Zoology; Genetics &Heredity
+SN 1055-7903
+BD Systematics; Nomenclature; New taxa; Synonymy; Available name; Genetics;
+   Evolution; Evolutionary adaptation; Zoogeography; Land zones;
+   Neotropical region
+DE Ameerega [Molecular genetics / Ultraconserved elements / systematics]
+   [Adaptive radiation /  / ] [Phylogeny / Phylogenomics / ] [Zoogeography
+   / Biogeography / ] [South America /  / ]. 
+TN Amphibians; Chordates; Vertebrates
+ST Animalia, Chordata, Vertebrata, Amphibia, Lissamphibia, Anura,
+   Dendrobatidae
+OR Ameerega - Bauer 1986 (Dendrobatidae). 
+   Ameerega bassleri species group (Dendrobatidae): [New species group, P.
+   7]. 
+   Ameerega braccata species group (Dendrobatidae): [New species group, P.
+   7]. 
+   Ameerega hahneli species group (Dendrobatidae): [New species group, P.
+   5]. 
+   Ameerega macero species group (Dendrobatidae): [New species group, P.
+   6]. 
+   Ameerega parvula species group (Dendrobatidae): [New species group, P.
+   7]. 
+   Ameerega peruviridis - Bauer 1986 (Dendrobatidae): [Nomen dubium, P. 8].
+   
+   Ameerega picta - Tschudi 1838 (Dendrobatidae): [Syn nov, Ameerega
+   yungicola Loetters et al. 2005, p. 8]. 
+UT ZOOREC:ZOOR15603018933
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603018934
+PM 31605811
+DT Article
+TI Species delimitation and systematics of the green pythons (Morelia
+   viridis complex) of melanesia and Australia.
+AU Natusch, Daniel J.D. (d_natusch_14@hotmail.com) 
+   Esquerre, Damien
+   Lyons, Jessica A.
+   Hamidy, Amir
+   Lemmon, Alan R.
+   Lemmon, Emily Moriarty
+   Riyanto, Awal
+   Keogh, J. Scott
+   Donnellan, Stephen
+SO Molecular Phylogenetics and Evolution
+VL 142
+PS 106640
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 11
+AB Molecular data sets and the increasing use of integrative systematics is
+   revealing cryptic diversity in a range of taxa - particularly in remote
+   and poorly sampled landscapes like the island of New Guinea. Green
+   pythons (Morelia viridis complex) are one of the most conspicuous
+   elements of this island's fauna, with large numbers taken from the wild
+   to supply international demand for exotic pets. We test hypotheses about
+   species boundaries in green pythons from across New Guinea and Australia
+   with mitochondrial genomes, 389 nuclear exons, and comprehensive
+   assessment of morphological variation. Strong genetic structuring of
+   green python populations and species delimitation methods confirm the
+   presence of two species, broadly occurring north and south of New
+   Guinea's central mountains. Our data also support three subspecies
+   within the northern species. Subtle but consistent morphological
+   divergence among the putative taxa is concordant with patterns of
+   molecular divergence. Our extensive sampling identifies several zones of
+   hitherto unknown biogeographical significance on the island of New
+   Guinea. We revise the taxonomy of the group, discuss the relevance of
+   our findings in the context of Papuan biogeography and the implications
+   of our systematic changes for the conservation management of these taxa.
+C1 Natusch, Daniel J.D.; Macquarie Univ, Dept Biol Sci, N Ryde, NSW, 2109,
+   Australia, Australia.
+EM d_natusch_14@hotmail.com
+RI Riyanto, Awal/AAE-2791-2020; Keogh, J. Scott/C-8441-2009
+OI Lyons, Jessica A./0000-0002-7579-447X; Keogh, J.
+   Scott/0000-0002-1373-6186; , Amir/0000-0001-6426-7458
+SC Zoology; Anatomy &Morphology; Genetics &Heredity; Evolutionary Biology
+SN 1055-7903
+BD Systematics; Nomenclature; New taxa; Type material; Description;
+   Synonymy; Taxonomy; Status; Biometrics; General morphology; Colour and
+   luminescence; Genetics; Evolution; Zoogeography; Land zones;
+   Australasian region; Oriental region; Eurasia; Asia; Australasia
+DE Morelia azurea utaraensis [Indonesia /  / New subspecies] [Papua New
+   Guinea /  / ]. 
+   Morelia viridis complex [Biometrics /  / systematics] [General
+   morphology /  / ] [Colour / Coloration / ] [Molecular genetics / Nuclear
+   loci & mitochondrial genome sequences / ] [Phylogeny / Phylogenetic
+   relationships / ] [Variation /  / ] [Zoogeography / Biogeography / ]
+   [Australasia / New Guinea / ]. 
+TN Chordates; Reptiles; Vertebrates
+ST Animalia, Chordata, Vertebrata, Reptilia, Lepidosauria, Squamata,
+   Serpentes, Boidae
+OR Chondropython pulcher - Sauvage 1878 (Boidae): [Lectotype designated, P.
+   11]. 
+   Morelia azurea - (Meyer 1874) (Boidae): [Removal from synonymy, Morelia
+   pulcher (Sauvage 1878), p. 11]. 
+   Morelia azurea azurea - (Meyer 1874) (Boidae): [Redescription, P. 11]. 
+   Morelia azurea pulcher - (Sauvage 1878) (Boidae): [Downgraded from,
+   Morelia pulcher, p. 11]. 
+   Morelia azurea utaraensis (Boidae): [Subsp nov, Indonesia, P. 11]. 
+   Morelia pulcher - (Sauvage 1878) (Boidae): [Removal from synonymy, With
+   Morelia azurea (Meyer 1874), p. 11; Downgraded to, Morelia azurea
+   pulcher, p. 11]. 
+   Morelia viridis - (Schlegel 1872) (Boidae): [Redescription, P. 10]. 
+   Morelia viridis complex (Boidae). 
+UT ZOOREC:ZOOR15603018934
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020224
+DT Article
+TI A NEW SPECIES OF EUPHOLUS BOISDUVAL (COLEOPTERA: CURCULIONIDAE:
+   ENTIMINAE) FROM WEST NEW GUINEA.
+AU Grasso, Matteo (actionklavier@gmail.com) 
+SO Munis Entomology & Zoology
+VL 15
+IS 1
+PS 1-10
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB In the present paper a new species of Eupholus Boisduval 1835 from
+   Jayapura area of West New Guinea is described as new: Eupholus bhaskarai
+   sp. nov. The adults and genitalia are depicted.
+C1 Grasso, Matteo; Corso Peschiera 315-A, Turin, I-10141, Italy, Italy.
+EM actionklavier@gmail.com
+SC Zoology
+BD Systematics; Nomenclature; New taxa; Taxonomy; Key; Land zones; Oriental
+   region; Eurasia; Asia
+DE Eupholus bhaskarai [Indonesia /  / New species]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Curculionoidea,
+   Curculionidae
+OR Eupholus - Boisduval (Curculionidae): [Key to species, P. 3]. 
+   Eupholus bhaskarai (Curculionidae): [Sp nov, Indonesia, P. 3]. 
+UT ZOOREC:ZOOR15603020224
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020225
+DT Article
+TI A NEW COTTIUSCULUS FROM THE SEA OF JAPAN (TELEOSTEI: SCORPAENIFORMES:
+   COITIDAE).
+AU Prokofiev, Artem M. (prokartster@gmail.com) 
+SO Munis Entomology & Zoology
+VL 15
+IS 1
+PS 11-14
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB A new species of sculpins, Cottiusculus primoricus, is described from
+   the Sea of Japan off Far Eastern Russia. It is similar to C. gonez in
+   possession of the straight uppermost preopercular spine, short and
+   simple nasal spines and lateral line not extending onto caudal fin, but
+   differs from that species in the terminal point of the uppermost
+   preopercular spine not barbed, dorsal-fin spines in males not distinctly
+   elongated, in coloration and in some other minor details. A key for
+   identification of all known species of Cottiusculus is presented.
+C1 Prokofiev, Artem M.; Russian Acad Sci, AN Severtsov Inst Ecol & Evolut,
+   Leninsky Prospect 33, Moscow, 119071, Russia, Russia.
+EM prokartster@gmail.com
+SC Zoology
+BD Systematics; Nomenclature; New taxa; Taxonomy; Key; Marine zones;
+   Pacific Ocean
+DE Cottiusculus primoricus [North Pacific / Russia / New species]. 
+TN Chordates; Fish; Vertebrates
+ST Animalia, Chordata, Vertebrata, Pisces, Osteichthyes, Actinopterygii,
+   Scorpaeniformes, Cottidae
+OR Cottiusculus (Cottidae): [Key to species, P. 13]. 
+   Cottiusculus primoricus (Cottidae): [Sp nov, Russia (marine), P. 11]. 
+UT ZOOREC:ZOOR15603020225
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020237
+DT Article
+TI ASPTEGOPTERYX BUMBUSAE (BUCKTON, 1893) (HEMIPTERA: APHIDOIDEA): NEW TO
+   PAKISTAN! WESTERNMOST RANGE IN ASIA REDEFINED.
+AU Amin, Muhammad (mamin.edupr@gmail.com) 
+   Mahmood, Khalid
+   Bodlah, Imran
+SO Munis Entomology & Zoology
+VL 15
+IS 1
+PS 111-117
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 1
+AB Astegopteryx bambusae (Buckton, 1893) was found on Bambusa sp. L. from
+   Abbaspur, Kashmir-Pakistan in December 2015-2016. Diagnostic features,
+   morphometric data, micro-ecology and supportive images of the
+   encountered species are presented. The study also attempts to correct
+   rather anomalous distribution status, in the current aphidological
+   literature, of this species vis-a-vis present day Pakistan in the light
+   of bibliographic, geopolitical and biogeographical perspectives and
+   redefines its westernmost range in South East Asia.
+C1 Amin, Muhammad; Balochistan Agr Coll, Dept Entomol, Quetta, 87300,
+   Pakistan, Pakistan.
+EM mamin.edupr@gmail.com
+SC Anatomy &Morphology; Zoology; Parasitology
+BD Systematics; Biometrics; Parasites diseases and disorders; Hosts; Land
+   zones; Oriental region; Eurasia; Asia
+DE Astegopteryx bambusae [Biometrics / Morphometrics / new record] [Plant
+   hosts / Bambusa / ] [Pakistan /  / ]. 
+TN Arthropods; Insects; Invertebrates; True Bugs
+ST Animalia, Arthropoda, Insecta, Hemiptera, Homoptera, Sternorrhyncha,
+   Aphidoidea
+OR Astegopteryx bambusae (Aphidoidea): [Parasite; New record]. 
+UT ZOOREC:ZOOR15603020237
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020244
+DT Article
+TI A NEW SPECIES OF THE GENUS PARMENA DEJEAN, 1821 (COLEOPTERA:
+   CERAMBYCIDAE) FROM TURKEY.
+AU Ozdikmen, Huseyin (ozdikmen@gazi.edu.tr) 
+   Tezcan, Serdar
+SO Munis Entomology & Zoology
+VL 15
+IS 1
+PS 197-199
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB Parmena lodosi sp. nov. is described from Turkey (Izmir environs). The
+   new species is close to P. unifasciata (Rossi, 1790); the distinguishing
+   characters are discussed.
+C1 Ozdikmen, Huseyin; Gazi Univ, Fac Sci, Ankara, TR-06500, Turkey, Turkey.
+EM ozdikmen@gazi.edu.tr
+SC Zoology
+BD Systematics; Nomenclature; New taxa; Land zones; Palaearctic region;
+   Eurasia
+DE Parmena lodosi [Turkey /  / New species]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Chrysomeloidea,
+   Cerambycidae
+OR Parmena lodosi (Cerambycidae): [Sp nov, Turkey, P. 198]. 
+UT ZOOREC:ZOOR15603020244
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020248
+DT Article
+TI REVIEW OF THE SPECIES OF CONOMORIUM MASI (HYMENOPTERA: PTEROMALIDAE),
+   WITH DESCRIPTIONS OF NEW SPECIES FROM TURKEY.
+AU Doganlar, Miktat (mikdoganlar@yahoo.com.tr) 
+SO Munis Entomology & Zoology
+VL 15
+IS 1
+PS 235-251
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 1
+AB World species of Conomorium Masi, 1924 were studied. By this work 13
+   species of Conomorium, 7 of them as new species from Turkey, were found
+   from several regions of the world. They are Conomorium amplum (Walker,
+   1835), Conomorium patulum (Walker, 1835), Conomorium pityocampae Graham,
+   1992, Conomorium pelor Boucek, 1993, Conomorium equilaterale Xiao&Huang,
+   2000, Conomorium cuneae Yang&Baur, 2004, and the new ones: C.
+   turhalensis n. sp., C. goelbasinensis n. sp., C. guenemekensis n. sp.,
+   C. tasheayensis n. sp., C. heluaciogluae n. sp., C. kayserinensis n.
+   sp., C. hacipasanensis n. sp. The new species are described and the
+   species recorded from Turkey are given. An identification key was
+   provided for the species of the world.
+C1 Doganlar, Miktat; Biol Control Res Inst, Adana, Turkey, Turkey.
+EM mikdoganlar@yahoo.com.tr
+SC Zoology
+BD Systematics; Nomenclature; New taxa; Taxonomy; Key; Land zones;
+   Palaearctic region; Eurasia
+DE Conomorium goelbasinensis; Conomorium guenemekensis; Conomorium
+   hacipasanensis; Conomorium helvaciogluae; Conomorium kayserinensis;
+   Conomorium tashcayensis; Conomorium turhalensis [Turkey /  / New
+   species]. 
+TN Arthropods; Hymenopterans; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Hymenoptera, Apocrita, Terebrantia,
+   Chalcidoidea, Pteromalidae
+OR Conomorium - Masi 1924 (Pteromalidae): [Systematics, P. 235; Key to
+   species, Females, p. 236, males, p. 239]. 
+   Conomorium goelbasinensis (Pteromalidae): [Sp nov, Turkey, P. 242]. 
+   Conomorium guenemekensis (Pteromalidae): [Sp nov, Turkey, P. 243]. 
+   Conomorium hacipasanensis (Pteromalidae): [Sp nov, Turkey, P. 248]. 
+   Conomorium helvaciogluae (Pteromalidae): [Sp nov, Turkey, P. 245]. 
+   Conomorium kayserinensis (Pteromalidae): [Sp nov, Turkey, P. 247]. 
+   Conomorium tashcayensis (Pteromalidae): [Sp nov, Turkey, P. 244]. 
+   Conomorium turhalensis (Pteromalidae): [Sp nov, Turkey, Host unknown, p.
+   240]. 
+UT ZOOREC:ZOOR15603020248
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603022215
+DT Article
+TI NEW GENUS AND FIRST RECORD OF HYBOTINAE (DIPTERA: EMPIDOIDEA: HYBOTIDAE)
+   IN MIDDLE MIOCENE DOMINICAN AMBER.
+AU Solorzano-Kraemer, Monica M. (kraemer@senckenberg.de) 
+   Delclos, Xavier
+   Penalver, Enrique
+   Sinclair, Bradley J.
+SO Novitates Caribaea
+VL 15
+PS 1-8
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 1
+AB A new fossil genus of the family Hybotidae is described, based on male
+   and female specimens. The new genus is monotypic: Syneproctus caridadi
+   gen. et sp. nov. It belongs to the subfamily Hybotinae and shares some
+   characters with the extant genera Syneches Walker, 1852, Stenoproctus
+   Loew, 1858 and Chillcottomyia Saigusa, 1986; however, the differences,
+   principally in the wing venation (shortened cua cell, horizontal m-cu
+   crossvein) and sclerotized mouthparts, support the description of a new
+   genus. This is the first description of a new taxon of the subfamily
+   Hybotinae from specimens preserved in Dominican amber.
+C1 Solorzano-Kraemer, Monica M.; Senckaiberg Res Inst, Frankfurt, D-60325,
+   Germany, Germany.
+EM kraemer@senckenberg.de
+SC Zoology; Paleontology
+SN 2071-9841; 2079-0139
+BD Systematics; Nomenclature; New taxa; Land zones; Neotropical region;
+   Central America; West Indies; Geological time periods; Caenozoic;
+   Tertiary; Neogene
+DE Hybotinae [Dominican Republic /  / first record from Dominican amber]
+   [Miocene / Middle Miocene / ]. 
+   Syneproctus [Miocene /  / New genus]. 
+   Syneproctus caridadi [Dominican Republic /  / new species; Described
+   from amber] [Miocene /  / ]. 
+TN Arthropods; Insects; Invertebrates; True Flies
+ST Animalia, Arthropoda, Insecta, Diptera, Brachycera, Orthorrhapha,
+   Hybotidae
+OR Hybotinae (Hybotidae): [Fossil; New record]. 
+   Syneproctus (Hybotidae): [Gen nov, Of subfamily Hybotinae, Type species
+   Syneproctus caridadi, p. 3, Miocene; Fossil]. 
+   Syneproctus caridadi (Hybotidae): [Sp nov, Dominican Republic, Miocene,
+   P. 3, Described from amber; Fossil]. 
+UT ZOOREC:ZOOR15603022215
+OA DOAJ Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603022216
+DT Article
+TI Composition and diversity of wasp Agaonidae (Hymenoptera: Chalcidoidea)
+   in three species of Ficus L. (Moraceae) at Parque Mirador Sur in Santo
+   Domingo, Dominican Republic.
+FT COMPOSICION Y DIVERSIDAD DE AVISPAS AGAONIDAE (HYMENOPTERA:
+   CHALCIDOIDEA) EN TRES ESPECIES DE FICUS L. (MORACEAE) DEL PARQUE MIRADOR
+   SUR EN SANTO DOMINGO, REPUBLICA DOMINICANA.
+AU Ramirez-Perez, Candy G. (ramirez.candy@hotmail.com) 
+SO Novitates Caribaea
+VL 15
+PS 9-17
+PD Jan 2020
+PY 2020
+LA Spanish
+U1 0
+U2 0
+AB The composition and diversity of wasps species was determined in three
+   species of Ficus (Moraceae) in the Mirador Sur Park, a green area in the
+   city of Santo Domingo, from May to July 2014. We sampled 16 trees
+   corresponding to the species: F. crassinervia Desf. ex Willd (n = 8), F.
+   crocata (Miq.) Miq. (n = 6), and F. citrifolia Mill. (n = 2). 159
+   syconia were examined in which 11,452 wasp specimens, 30,256 flowers,
+   and 16,337 seeds were counted. A total of 19 wasp morpho-species were
+   indentified belonging to three families, five sub-families, and 10
+   genera. Several diversity indices were measured. The genus Pegoscapus
+   Cameron, 1906 was the unique pollinator found, recording one
+   morpho-species on each of the species of Ficus. Results revealed that
+   the dominant species was Pegoscapus sp. 2 present in F. citrifolia due
+   to its abundance. The number of individuals of pollinating wasps varied
+   between species of Ficus. The highest wasp richness was recorded on F.
+   crassinervia (17 species). The importance of each wasp morpho-species in
+   its interaction with Ficus is discussed, as well the possible reasons of
+   diffrences in wasp species richness between the species of Ficus.
+C1 Ramirez-Perez, Candy G.; Univ Autonoma Santo Domingo, Inst Invest Bot &
+   Zool Prof Rafael M Moscoso, Av Alma Mater, Santo Domingo, 10105,
+   Dominican Republic, Dominican Republic.
+EM ramirez.candy@hotmail.com
+SC Nutrition &Dietetics; Zoology; Environmental Sciences &Ecology
+SN 2071-9841; 2079-0139
+BD Nutrition; Diet; Associations; Mutualism; Ecology; Community structure;
+   Population dynamics; Land zones; Neotropical region; Central America;
+   West Indies
+DE Agaonidae [Food plants / Ficus citrifolia / ] [ / Ficus crassinervia / ]
+   [ / Ficus crocata / ] [Pollination /  / ] [ /  / ] [ /  / ] [Species
+   diversity /  / ] [Population density / Abundance / ] [Dominican Republic
+   / Santo Domingo, Mirador Sur Park / ]. 
+TN Arthropods; Hymenopterans; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Hymenoptera, Apocrita, Terebrantia,
+   Chalcidoidea
+OR Agaonidae (Chalcidoidea). 
+UT ZOOREC:ZOOR15603022216
+OA DOAJ Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603022217
+DT Article
+TI GUAJIRUS SERPENTINICUS: A NEW GENUS AND SPECIES OF MINUTE GRASSHOPPERS
+   (ORTHOPTERA: ACRIDIDAE: OMMATOLAMPIDINAE) FROM CUBA.
+AU Perez-Gelabert, Daniel E. (perezda@si.edu) 
+SO Novitates Caribaea
+VL 15
+PS 18-26
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB Guajirus serpentinicus gen. nov., sp. nov., is described from the
+   serpentine plant communities of Matanzas province located less than 100
+   km east of Havana, Cuba. The genus can be distinguished by its
+   distinctive combination of characters: very small size (<10 mm), compact
+   body, variegated coloration, large rounded eyes in a small head,
+   relatively long and tongue-like remnants of the tegminae, tympanum
+   present, furculae barely present and male subgenital plate with a wide
+   rounded concavity. These small grasshoppers appear adapted to the
+   special conditions of living in the serpentine communities of western
+   Cuba.
+C1 Perez-Gelabert, Daniel E.; Smithsonian Inst, ITIS, POB 37012,
+   Washington, DC, 37012, USA, USA.
+EM perezda@si.edu
+SC Zoology
+SN 2071-9841; 2079-0139
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Neotropical
+   region; Central America; West Indies
+DE Guajirus serpentinicus [Cuba /  / New species]. 
+TN Arthropods; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Orthoptera, Saltatoria
+OR Guajirus (Saltatoria): [Gen nov, Of subfamily Ommatolampidinae, Type
+   species Guajirus serpentinicus, p. 19]. 
+   Guajirus serpentinicus (Saltatoria): [Sp nov, Cuba, P. 20]. 
+   Ommatolampidinae (Saltatoria): [Diagnostic characters of subordinate
+   taxa, Morphological features of genera, p. 25]. 
+UT ZOOREC:ZOOR15603022217
+OA DOAJ Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603022218
+DT Article
+TI TAINACANTHUS FEROX, A REMARKABLE NEW GENUS AND SPECIES OF KATYDIDS FROM
+   THE HIGH MOUNTAINS OF HISPANIOLA (ORTHOPTERA: TETTIGONIIDAE:
+   PSEUDOPHYLLINAE: POLYANCISTRINI).
+AU Perez-Gelabert, Daniel E. (perezd@si.edu) 
+SO Novitates Caribaea
+VL 15
+PS 27-41
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB The new genus and species of Polyancistrini katydids Tainacanthus ferox
+   gen. nov., sp. nov. is described from specimens collected in the highest
+   mountains of the Dominican Republic, island of Hispaniola. This is the
+   third genus of Polyancistrini known from Hispaniola and the seventh
+   genus of the tribe. Tainacanthus is distinctive due to the unique
+   architecture of its pronotum, which is a large and bulbous shield with
+   an extended metazona that covers and protects the stridulator)/
+   apparatus surrounded by a relatively small number of large and sharp
+   spines. Additionally, all legs are armed with larger and more robust
+   spines than those of Polyancistrus Audinet-Serville, 1831, its most
+   likely closest relative. Tainacanthus inhabits the highest mountains of
+   the Dominican Cordillera Central at over 2,400 m above sea level, living
+   among hard-leaf evergreen vegetation interspersed with pine forests. The
+   type locality is included within the Armando Bermudez National Park, one
+   of the most important protected areas in the Dominican Republic.
+C1 Perez-Gelabert, Daniel E.; Smithsonian Inst, ITIS, POB 37012,
+   Washington, DC, 37012, USA, USA.
+EM perezd@si.edu
+SC Zoology
+SN 2071-9841; 2079-0139
+BD Systematics; Nomenclature; New taxa; Taxonomy; Key; Documentation;
+   Publications; Land zones; Neotropical region; Central America; West
+   Indies
+DE Polyancistrini [Checklists / Distributional checklist / Systematics]
+   [West Indies /  / Key to genera] [ / Greater Antilles / ]. 
+   Tainacanthus ferox [Dominican Republic /  / New species]. 
+TN Arthropods; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Orthoptera, Saltatoria
+OR Polyancistrini - Brunner von Wattenwyl 1878 (Saltatoria): [Key to
+   genera, West Indies, Both sexes, p. 38]. 
+   Tainacanthus (Saltatoria): [Gen nov, Of tribe Polyancistrini, Type
+   species Tainacanthus ferox, p. 30]. 
+   Tainacanthus ferox (Saltatoria): [Sp nov, Dominican Republic, P. 31]. 
+UT ZOOREC:ZOOR15603022218
+OA DOAJ Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603022219
+DT Article
+TI New species of Epimeria (Amphipoda: Epimeriidae) from the Gulf of
+   Panama.
+FT ESPECIE NUEVA DE EPIMERIA (AMPHIPODA, EPIMERIIDAE) DEL GOLFO DE PANAMA.
+AU Varela, Carlos (varela06@gmail.com) 
+SO Novitates Caribaea
+VL 15
+PS 42-50
+PD Jan 2020
+PY 2020
+LA Spanish
+U1 0
+U2 0
+AB A new species of the genus Epimeria is described based on material
+   collected in the expedition of the R/V John Elliott Pillsbury to the
+   deep waters of the Gulf of Panama. This new species could be
+   distinguished of the others in the genus by the combination of several
+   characters including: rostrum long, reaching the half of the second
+   article of the antenna 1; eyes absent; coxopodite 4 with anteroventral
+   margin almost straight down; coxopodite 5 with posteroventral corner
+   elongated backwards, reaching the pleonite 2; pleonites 5-7 with
+   dorsomedial acute teeth directed backwards; posterior margin of the
+   telson, smooth. This is the first record of a member of the family
+   Epimeriidae for the Gulf of Panama.
+C1 Varela, Carlos; Florida Int Univ, Dept Biol Sci, Biscayne Bay Campus,
+   Miami, FL, 33199, USA, USA.
+EM varela06@gmail.com
+SC Zoology
+SN 2071-9841; 2079-0139
+BD Systematics; Nomenclature; New taxa; Marine zones; Pacific Ocean
+DE Epimeria; Epimeriidae [North Pacific / Gulf of Panama / New record]. 
+   Epimeria panamensis [North Pacific / Panama / New species]. 
+TN Arthropods; Crustaceans; Invertebrates
+ST Animalia, Arthropoda, Crustacea, Malacostraca, Eumalacostraca,
+   Peracarida, Amphipoda
+OR Epimeria (Amphipoda): [New record]. 
+   Epimeria panamensis (Amphipoda): [Sp nov, Panama (marine), P. 43]. 
+   Epimeriidae (Amphipoda): [New record]. 
+UT ZOOREC:ZOOR15603022219
+OA DOAJ Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603022674
+DT Article
+TI Biodiversity of echiurans (Echiura) of the Kuril-Kamchatka Trench area.
+AU Maiorova, Anastassya S. (anastasia.mayorova@gmail.com) 
+   Adrianov, Andrey V.
+SO Progress in Oceanography
+VL 180
+PS 102216
+PD Jan 2020
+PY 2020
+LA English
+U1 2
+U2 2
+AB During KuramBio and KuramBioIl (Kuril Kamchatka Biodiversity Studies)
+   expeditions of 2012 and 2016 years, 12 sites across the Kuril-Kamchatka
+   abyssal plain and 11 sites along Kuril-Kamchatka Trench area (KKT) were
+   surveyed and sampled and benthic communities were investigated. Samples,
+   which comprised over 300 echiurans from 12 species of 11 genera
+   belonging to the family Bonelliidae and Thalassematidae, were collected.
+   The family Bonelliidae is most common in abyssal and hadal environments
+   in the world ocean with high abundances in all investigated regions,
+   while Thalassematidae is reported first time from the hadal depth.
+   Species identified as representative of the genera Maxmueileria have
+   been noted first time in Pacific. Previously known echiuran Bonellia
+   pacifica suggested to be Pseudoikedella achaeta. The description of
+   deep-water echiurans from the investigated areas is the second one based
+   on complete specimens with living colouration. The descriptions provide
+   new information on the distribution, abundance, morphology and taxonomic
+   details of the species, which were previously noted from the
+   northwestern Pacific and described from damaged or incomplete specimens.
+   The knowledge of the geographic ranges of these genera are expanded and
+   discussed.
+C1 Maiorova, Anastassya S.; Russian Acad Sci, Natl Sci Ctr Marine Biol,
+   Vladivostok, 690041, Russia, Russia.
+EM anastasia.mayorova@gmail.com
+RI Adrianov, Andrey V./O-1397-2017
+OI Adrianov, Andrey V./0000-0003-0369-5672
+SC Zoology
+SN 0079-6611
+BD Systematics; Nomenclature; Synonymy; Marine zones; Pacific Ocean
+DE Bonelliidae; Echiura; Thalassematidae [North Pacific / Kuril-Kamchatka
+   Trench / Distribution; systematics; biodiversity]. 
+   Maxmuelleria [Pacific Ocean /  / New record]. 
+TN Invertebrates
+ST Animalia, Echiura
+OR Echiura (Animalia). 
+   Bonelliidae (Echiura). 
+   Maxmuelleria (Echiura): [New record]. 
+   Pseudoikedella achaeta - Zenkevitch 1958 (Echiura): [Syn nov, Bonellia
+   pacifica Zenkevitch 1958, p. 9]. 
+   Thalassematidae (Echiura). 
+UT ZOOREC:ZOOR15603022674
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603022676
+DT Article
+TI A group of species 'Psychropotes longicauda' (Psychropotidae,
+   Elasipodida, Holothuroidea) from the Kuril-Kamchatka Trench area
+   (North-West Pacific).
+AU Gebruk, Andrey V.
+   Kremenetskaia, Antonina (antonina@ocean.ru) 
+   Rouse, Greg W.
+SO Progress in Oceanography
+VL 180
+PS 102222
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 1
+AB Collections of holothurians taken in 2012-2016 by three German-Russian
+   deep-sea expeditions to the Kuril-Kamchatka Trench area (KuramBio,
+   SokhoBio and KuramBio II) were examined. Here we present data on the
+   genus Psychropotes (Psychropotidae, Elasipodida). Based on new material
+   and some additional (mainly old) material from the North-West and East
+   Pacific, we re-describe the species Psychropotes Iongicauda Theel, 1882,
+   describe two varieties, P. longicauda var. monstrosa Theel, 1882 and P.
+   longicauda var. fuscopurpurea Theel, 1882, as separate species,
+   re-establish the species P. raripes Ludwig, 1893, P. dubiosa Ludwig,
+   1893 and P. dyscrita (Clark, 1920), and describe two new species: P.
+   moskalevi sp. nov. and P. pawsoni sp. nov.
+C1 Kremenetskaia, Antonina; Russian Acad Sci, Shirshov Inst Oceanol, 36
+   Nakhimovskiy Pr, Moscow, 117997, Russia, Russia.
+EM antonina@ocean.ru
+RI Kremenetskaia, Antonina/H-5654-2018
+OI Kremenetskaia, Antonina/0000-0001-8851-3318
+SC Zoology; Genetics &Heredity
+SN 0079-6611
+BD Systematics; Nomenclature; New taxa; Diagnosis; Description; Synonymy;
+   Genetics; Evolution; Marine zones; Pacific Ocean
+DE Psychropotes longicauda species group [Molecular genetics / mtDNA COI
+   gene sequences / systematics] [Phylogeny /  / ] [North Pacific /
+   Kuril-Kamchatka Trench / distribution]. 
+   Psychropotes moskalevi; Psychropotes pawsoni [North Pacific /  / New
+   species]. 
+TN Echinoderms; Invertebrates
+ST Animalia, Echinodermata, Holothuroidea
+OR Psychropotes - Theel 1882 (Holothuroidea): [Diagnostic characters of
+   subordinate taxa, P. 5]. 
+   Psychropotes dubiosa - Ludwig 1893 (Holothuroidea): [Emended diagnosis,
+   P. 8; Redescription, P. 8; Removal from synonymy, With Psychropotes
+   longicauda Theel 1882, p. 5]. 
+   Psychropotes dyscrita - (Clark 1920) (Holothuroidea): [Emended
+   diagnosis, P. 10; Redescription, P. 10; Removal from synonymy, With
+   Psychropotes longicauda Theel 1882, p. 5]. 
+   Psychropotes fuscopurpurea - Theel 1882 (Holothuroidea): [Emended
+   diagnosis, P. 6]. 
+   Psychropotes longicauda - Theel 1882 (Holothuroidea): [Emended
+   diagnosis, P. 2; Redescription, P. 2; Removal from synonymy,
+   Psychropotes dubiosa Ludwig 1893, p. 5; Removal from synonymy,
+   Psychropotes dyscrita (Clark 1920), p. 5; Removal from synonymy,
+   Psychropotes raripes Ludwig 1893, p. 5]. 
+   Psychropotes longicauda species group (Holothuroidea). 
+   Psychropotes monstrosa - Theel 1882 (Holothuroidea): [Emended diagnosis,
+   P. 5]. 
+   Psychropotes moskalevi - Gebruk & Kremenetskaia 2020 (Holothuroidea):
+   [Sp nov, North Pacific, P. 10]. 
+   Psychropotes pawsoni - Gebruk & Kremenetskaia 2020 (Holothuroidea): [Sp
+   nov, North Pacific, P. 12]. 
+   Psychropotes raripes - Ludwig 1893 (Holothuroidea): [Emended diagnosis,
+   P. 7; Redescription, P. 7; Removal from synonymy, With Psychropotes
+   longicauda Theel 1882, p. 5]. 
+UT ZOOREC:ZOOR15603022676
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020097
+DT Article
+TI Subfossil lemur discoveries from the Beanka Protected Area in western
+   Madagascar.
+AU Burney, David A. (dburney999@gmail.com) 
+   Andriamialison, Haingoson
+   Andrianaivoarivelo, Radosoa A.
+   Bourne, Steven
+   Crowley, Brooke E.
+   de Boer, Erik J.
+   Godfrey, Laurie R.
+   Goodman, Steven M.
+   Griffiths, Christine
+   Griffiths, Owen
+   Hume, Julian P.
+   Joyce, Walter G.
+   Jungers, William L.
+   Marciniak, Stephanie
+   Middleton, Gregory J.
+   Muldoon, Kathleen M.
+   Noromalala, Eliette
+   Perez, Ventura R.
+   Perry, George H.
+   Randalana, Roger
+   Wright, Henry T.
+SO Quaternary Research (Orlando)
+VL 93
+IS 1
+PS 187-203
+PD Jan 2020
+PY 2020
+LA English
+U1 4
+U2 7
+AB A new fossil site in a previously unexplored part of western Madagascar
+   (the Beanka Protected Area) has yielded remains of many recently extinct
+   vertebrates, including giant lemurs (Babakotia radofilai,
+   Palaeopropithecus kelyus, Pachylemur sp., and Archaeolemur edwardsi),
+   carnivores (Cryptoprocta spelea), the aardvark-like Plesiorycteropus
+   sp., and giant ground cuckoos (Coua). Many of these represent
+   considerable range extensions. Extant species that were extirpated from
+   the region (e.g., Prolemur simus) are also present. Calibrated
+   radiocarbon ages for 10 bones from extinct Primates span the last three
+   millennia. The largely undisturbed taphonomy of bone deposits supports
+   the interpretation that many specimens fell in from a rock ledge above
+   the entrance. Some Primates and other mammals may have been prey items
+   of avian predators, but human predation is also evident. Strontium
+   isotope ratios (87Sr/86Sr) suggest that fossils were local to the area.
+   Pottery sherds and bones of extinct and extant vertebrates with cut and
+   chop marks indicate human activity in previous centuries. Scarcity of
+   charcoal and human artifacts suggests only occasional visitation to the
+   site by humans. The fossil assemblage from this site is unusual in that,
+   while it contains many sloth lemurs, it lacks ratites, hippopotami, and
+   crocodiles typical of nearly all other Holocene subfossil sites on
+   Madagascar.
+C1 Burney, David A.; POB 36, Gloucester, NC, 28528, USA, USA.
+EM dburney999@gmail.com
+SC Environmental Sciences &Ecology; Zoology; Paleontology
+SN 0033-5894
+BD Ecology; Fossilization; Zoogeography; Land zones; Afrotropical region;
+   Africa; Geological time periods; Caenozoic; Quaternary
+DE Vertebrata [Ecology / Palaeoecology / new record] [Fossil assemblages / 
+   / ] [Taphonomy /  / ] [Zoogeography / Palaeobiogeographic inferences / ]
+   [Madagascar / Beanka Protected Area / ] [Holocene /  / ]. 
+TN Chordates; Vertebrates
+ST Animalia, Chordata
+OR Vertebrata (Chordata): [Fossil; New record]. 
+UT ZOOREC:ZOOR15603020097
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603023342
+DT Article
+TI Taxonomic notes on water mites of the genus Lebertia (Acari,
+   Hydrachnidiae, Lebertiidae) from China.
+AU Wang, Yu
+   Wang, Jialin
+   Jin, Daochao
+   Guo, Jianjun (jjguo@gzu.edu.cn) 
+SO Systematic and Applied Acarology
+VL 25
+IS 1
+PS 17-30
+PD Jan 2020
+PY 2020
+LA English
+U1 2
+U2 3
+AB Of the genus Lebertia Neuman, 1880 (Acari, Hydrachnidiae, Lebertiidae),
+   three subgenera, Septlebertia, Mixolebertia and Eolebertia, and the
+   species Lebertia (Septlebertia) convergella Tuzovskij, 1990 are recorded
+   for the first time from China. Four species new to science are described
+   and illustrated: Lebertia (Mixolebertia) xuanensis sp. nov., Lebertia
+   (s. str.) borealis sp. nov., Lebertia (s. str.) maolanensis sp. nov.,
+   and Lebertia (Eolebertia) exceedia sp. nov. A key is provided to the
+   known Chinese species of the genus Lebertia.
+C1 Guo, Jianjun; Guizhou Univ, Inst Entomol, Guiyang, 550025, China, China.
+EM jjguo@gzu.edu.cn
+RI Guo, Jianjun/AAP-4437-2020
+SC Zoology
+SN 1362-1971
+BD Systematics; Nomenclature; New taxa; Taxonomy; Key; Land zones;
+   Palaearctic region; Eurasia; Asia; China
+DE Lebertia [China /  / Key to species]. 
+   Lebertia (Eolebertia); Lebertia (Mixolebertia); Lebertia (Septlebertia);
+   Lebertia (Septlebertia) convergella [China /  / New record]. 
+   Lebertia (Eolebertia) exceedia; Lebertia (Lebertia) maolanensis [Guizhou
+   /  / New species]. 
+   Lebertia (Lebertia) borealis [Beijing /  / New species]. 
+   Lebertia (Mixolebertia) xuanensis [Hubei /  / New species]. 
+TN Arachnids; Arthropods; Chelicerates; Invertebrates
+ST Animalia, Arthropoda, Arachnida, Acari
+OR Lebertia - Neuman 1880 (Acari): [Key to species, China, P. 28]. 
+   Lebertia (Eolebertia) (Acari): [New record]. 
+   Lebertia (Eolebertia) exceedia (Acari): [Sp nov, Guizhou, P. 26]. 
+   Lebertia (Lebertia) borealis (Acari): [Sp nov, Beijing, P. 22]. 
+   Lebertia (Lebertia) maolanensis (Acari): [Sp nov, Guizhou, P. 24]. 
+   Lebertia (Mixolebertia) (Acari): [New record]. 
+   Lebertia (Mixolebertia) xuanensis (Acari): [Sp nov, Hubei, P. 20]. 
+   Lebertia (Septlebertia) (Acari): [New record]. 
+   Lebertia (Septlebertia) convergella (Acari): [New record]. 
+UT ZOOREC:ZOOR15603023342
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603023343
+DT Article
+TI Morphological ontogeny of Cosmochthonius oralensis sp. nov. (Acari:
+   Oribatida: Cosmochthonidae) from Kazakhstan, and comments on
+   Cosmochthonius Berlese.
+AU Seniczak, Stanislaw (stseni@ukw.edu.pl) 
+   Seniczak, Anna
+   Kaczmarek, Slawomir
+   Marquardt, Tomasz
+   Jangazieva, Bibigul
+SO Systematic and Applied Acarology
+VL 25
+IS 1
+PS 31-50
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 1
+AB The morphological ontogeny of Cosmochthonius oralensis sp. nov. from
+   West Kazakhstan is described and illustrated. The adult of this species
+   has thin cerotegument and microfoveae on the pygidium, as has C.
+   minifoveolatus Gil et al., 1991, but the latter species is smaller than
+   C. oralensis and its basal cilia on erected setae off-series are
+   distinctly longer than on setae of e-series; in C. oralensis these cilia
+   are of similar length. The juveniles of both species are similar to
+   adults, except for smaller body size and more delicate cuticle of
+   juveniles. These species also differ from each other by the number of
+   cilia on erected setae, both in the juveniles and adults. The morphology
+   of C. oralensis is compared with congeners.
+C1 Seniczak, Stanislaw; Kazimierz Wielki Univ, Fac Biol Sci, Bydgoszcz,
+   Poland, Poland.
+EM stseni@ukw.edu.pl
+OI Seniczak, Anna/0000-0003-0224-5397; Seniczak,
+   Stanislaw/0000-0001-7393-5606
+SC Zoology
+SN 1362-1971
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Palaearctic
+   region; Eurasia; Asia
+DE Cosmochthonius oralensis [Kazakhstan /  / New species]. 
+TN Arachnids; Arthropods; Chelicerates; Invertebrates
+ST Animalia, Arthropoda, Arachnida, Acari
+OR Cosmochthonius - Berlese 1910 (Acari): [Diagnostic characters of
+   subordinate taxa, Adult morphological characters of species, p. 42]. 
+   Cosmochthonius oralensis (Acari): [Sp nov, Kazakhstan, P. 32]. 
+UT ZOOREC:ZOOR15603023343
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603023345
+DT Article
+TI A new species of Dyobelba (Acari: Oribatida: Damaeidae) from Kazakhstan.
+AU Kolesnikov, Vasiliy B. (jukoman@yandex.ru) 
+SO Systematic and Applied Acarology
+VL 25
+IS 1
+PS 63-77
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB A new species of oribatid mite from Kazakhstan, belonging to the genus
+   Dyobelba Norton, 1978 (Oribatida, Damaeidae), is described based on
+   adult and tritonymphal instar. Dyobelba verae sp. nov. can be
+   distinguished from the other species of Dyobelba its the thick
+   notogastral setae, the presence prodorsal tubercles Ba and ventrosejugal
+   tubercles V, absence of Bp, Da, Dp and apophysis P, the short, broadly
+   rounded parastigmatic tubercles, and its short legs with heavily and
+   coarsely barbed leg setae. The structural features of Dyobelba
+   tritonymphs are discussed.
+C1 Kolesnikov, Vasiliy B.; VNIISS, All Russian Res Inst Protect Plants,
+   Moscow, Voronezh Region, 396030, Russia, Russia.
+EM jukoman@yandex.ru
+SC Zoology
+SN 1362-1971
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Palaearctic
+   region; Eurasia; Asia
+DE Dyobelba verae [Kazakhstan /  / New species]. 
+TN Arachnids; Arthropods; Chelicerates; Invertebrates
+ST Animalia, Arthropoda, Arachnida, Acari
+OR Dyobelba - Norton 1978 (Acari): [Diagnostic characters of subordinate
+   taxa, Tritonymph characteristics, p. 75]. 
+   Dyobelba verae (Acari): [Sp nov, Kazakhstan, P. 64]. 
+UT ZOOREC:ZOOR15603023345
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603023349
+DT Article
+TI Contribution to the knowledge of African Parakalummidae (Acari,
+   Oribatida).
+AU Ermilov, Sergey G. (ermilovacari@yandex.ru) 
+   Stary, Josef
+SO Systematic and Applied Acarology
+VL 25
+IS 1
+PS 113-124
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB Two new species of oribatid mites of the genus Neoribates (Oribatida,
+   Parakalummidae) are described based on adult specimens from leaf litter
+   in the Montagne d'Ambre National Park of North Madagascar. Neoribates
+   africanus sp. nov. and N. madagascarensis sp. nov. clearly differs from
+   all species of the genus by the absence of interlamellar seta (including
+   alveolus). An identification key and data on distribution and ecology of
+   known African species of Parakalummidae are presented.
+C1 Ermilov, Sergey G.; Tyumen State Univ, Tyumen, Russia, Russia.
+EM ermilovacari@yandex.ru
+RI Stary, Josef/G-2721-2014
+SC Zoology; Environmental Sciences &Ecology
+SN 1362-1971
+BD Systematics; Nomenclature; New taxa; Taxonomy; Key; Ecology; Land zones;
+   Afrotropical region; Africa
+DE Neoribates (Neoribates) africanus; Neoribates (Neoribates)
+   madagascarensis [Madagascar /  / New species]. 
+   Parakalummidae [Ecology /  / Systematics] [Africa /  / Key to species] [
+   /  / distribution]. 
+TN Arachnids; Arthropods; Chelicerates; Invertebrates
+ST Animalia, Arthropoda, Arachnida, Acari
+OR Neoribates (Neoribates) africanus (Acari): [Sp nov, Madagascar, P. 115].
+   
+   Neoribates (Neoribates) madagascarensis (Acari): [Sp nov, Madagascar, P.
+   119]. 
+   Parakalummidae (Acari): [Key to species, Africa, P. 123]. 
+UT ZOOREC:ZOOR15603023349
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603019247
+DT Article
+TI Morphological phylogeny and classification of Winthemiini (Diptera:
+   Tachinidae: Exoristinae).
+AU Lopes, Andre C.
+   De Carvalho, Claudio J.B.
+   Nihei, Silvio S. (silvionihei@gmail.com) 
+SO Systematic Entomology
+VL 45
+IS 1
+PS 48-59
+PD Jan 2020
+PY 2020
+LA English
+U1 8
+U2 9
+AB Winthemiini is a worldwide tribe in the subfamily Exoristinae (Diptera:
+   Tachinidae) with 200 species in 16 genera. We confirm the monophyly of
+   Winthemiini and examine relationships among the constituent genera based
+   on a parsimonious analysis of adult morphological characters for 53
+   species representing 12 out of 16 currently recognized Winthemiini
+   genera. As a result, Winthemiini is divided into three major clades,
+   with relationships as follows: ((Rhaphiochaeta (Ossidingia, Nemorilla))
+   ((Hemisturmia (Avibrissosturmia, Triodontopyga)) ((Smidtia,
+   Winthemia))). A revised classification system for Winthemiini is
+   proposed, recognizing 12 genera. Four new synonymies are proposed -
+   Diotrephes and Chesippus as junior synonyms of Smidtia, and
+   Hemisturmiella and Parachetolyga as junior synonyms of Winthemia - along
+   with four new combinations: Winthemia brasiliana (Guimaraes) comb.n., W.
+   metopia (Bischof) comb.n., Smidtia atriventris (Walker) comb.n., and S.
+   notialis (Reinhard) comb.n.
+C1 Nihei, Silvio S.; Univ Sao Paulo, Dept Zool, Rua Matao,Travessa 14,101,
+   Sao Paulo, SP, BR-05508900 BC, Brazil, Brazil.
+EM silvionihei@gmail.com
+RI de Carvalho, Claudio J B/B-6386-2013
+OI de Carvalho, Claudio J B/0000-0002-3533-6853; Nihei,
+   Silvio/0000-0002-6887-6282
+SC Anatomy &Morphology; Zoology
+SN 0307-6970
+BD Systematics; Nomenclature; Combination; Synonymy; Taxonomy; Taxonomic
+   position; General morphology; Evolution
+DE Winthemiini [General morphology / Adult morphological characters /
+   systematics] [Phylogeny /  / ]. 
+TN Arthropods; Insects; Invertebrates; True Flies
+ST Animalia, Arthropoda, Insecta, Diptera, Brachycera, Cyclorrhapha,
+   Tachinidae
+OR Chesippus notialis - Reinhard (Tachinidae): [Referred to, Smidtia, p.
+   57]. 
+   Diotrephes atriventris - Walker (Tachinidae): [Referred to, Smidtia, p.
+   57]. 
+   Hemisturmiella brasiliana - Guimaraes 1983 (Tachinidae): [Referred to,
+   Winthemia, p. 57]. 
+   Parachetolyga metopia - Bischof (Tachinidae): [Referred to, Winthemia,
+   p. 57]. 
+   Smidtia - Robineau-Desvoidy 1830 (Tachinidae): [Syn nov, Chesippus
+   Reinhard, p. 57; Syn nov, Diotrephes Reinhard, p. 57]. 
+   Smidtia atriventris - (Walker) (Tachinidae): [Comb nov, Transferred from
+   Diotrephes, p. 57]. 
+   Smidtia notialis - (Reinhard) (Tachinidae): [Comb nov, Transferred from
+   Chesippus, p. 57]. 
+   Winthemia - Robineau-Desvoidy 1830 (Tachinidae): [Syn nov,
+   Hemisturmiella Guimaraes 1983, p. 57; Syn nov, Parachetolyga Bischof
+   1904, p. 57]. 
+   Winthemia brasiliana - (Guimaraes 1983) (Tachinidae): [Comb nov,
+   Transferred from Hemisturmiella, p. 57]. 
+   Winthemia metopia - (Bischof) (Tachinidae): [Comb nov, Transferred from
+   Parachetolyga, p. 57]. 
+   Winthemiini (Tachinidae): [Classification, Revised classification, p.
+   57]. 
+UT ZOOREC:ZOOR15603019247
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603019251
+DT Article
+TI Multilocus phylogeny defines a new classification of Staphylininae
+   (Coleoptera, Staphylinidae), a rove beetle group with high lineage
+   diversity.
+AU Zylal, Dagmara (zyladagmara@gmail.com) 
+   Solodovnikov, Alexey
+SO Systematic Entomology
+VL 45
+IS 1
+PS 114-127
+PD Jan 2020
+PY 2020
+LA English
+U1 4
+U2 8
+AB We provide the first multilocus molecular phylogeny of a group
+   corresponding to the former subfamily Staphylininae. Results are
+   corroborated by the morphological, biogeographical and palaeobiological
+   evidence to serve as a baseline for an updated suprageneric
+   classification. The former subfamily Staphylininae is proven to be a
+   lineage sister to the monophyletic Paederinae and reclassified according
+   to a robust phylogeny resolving a number of long-standing controversies.
+   The subfamily Xantholininae (revised status) is reinstated to contain
+   the tribes Xantholinini, Othiini, Maorothiini and Diochini. Subfamily
+   Platyprosopinae (revised status) is reinstated for the tribes
+   Platyprosopinini, Arrowinini and [dagger]Thayeralinini. For a highly
+   peculiar genus Coomania Cameron, formerly in Diochini, a new subfamily
+   Coomaniinae subfam.n. is established and the composition of Diochini
+   (revised status) is changed accordingly. The subfamily Staphylininae
+   (revised status) is reduced to contain the former tribe Staphylinini
+   only. Elevating this mega-diverse tribe to the subfamily rank opened up
+   an opportunity for its more fractional classification by raising several
+   subtribes to the tribal level as follows: Acylophorini, Afroquediini,
+   Amblyopinini, Antimerini, [dagger]Baltognathini, Cyrtoquediini,
+   Erichsoniini, Hyptiomini, Indoquediini, Quediini and Tanygnathinini
+   (revised status for all). As a result, the most species-rich tribe
+   Staphylinini (revised status) is reduced to the more homogeneous lineage
+   containing the subtribes Algonina, Anisolinina, Philonthina,
+   Philothalpina, Staphylinina and Xanthopygina. Morphological
+   synapomorphies and diagnostic characters supporting all newly defined
+   higher taxa are provided.
+C1 Zylal, Dagmara; Zool Museum, Nat Hist Museum Denmark, Copenhagen,
+   Denmark, Denmark.
+EM zyladagmara@gmail.com
+SC Genetics &Heredity; Zoology
+SN 0307-6970
+BD Systematics; Nomenclature; New taxa; Type genus; Taxonomy; Status;
+   Genetics; Evolution; Geological time periods
+DE Staphylininae [Molecular genetics / Whole genomic DNA sequences /
+   systematics] [Phylogeny / Multilocus phylogeny / ]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Staphylinoidea,
+   Staphylinidae
+OR Acylophorina - Outerelo & Gamarra 1985 (Staphylinidae): [Raised to,
+   Acylophorini, p. 121]. 
+   Acylophorini - Outerelo & Gamarra 1985 (Staphylinidae): [Raised from,
+   Acylophorina, p. 121]. 
+   Afroquediina - Brunke, Zylaa & Solodovnikov 2019 (Staphylinidae):
+   [Raised to, Afroquediini, p. 121; Fossil]. 
+   Afroquediini - Brunke, Zylaa & Solodovnikov 2019 (Staphylinidae):
+   [Raised from, Afroquediina, p. 121]. 
+   Amblyopinina - Seevers 1944 (Staphylinidae): [Raised to, Amblyopinini,
+   p. 121]. 
+   Amblyopinini - Seevers 1944 (Staphylinidae): [Raised from, Amblyopinina,
+   p. 121]. 
+   Antimerina - Brunke, Zyla & Solodovnikov 2019 (Staphylinidae): [Raised
+   to, Antimerini, p. 121; Fossil]. 
+   Antimerini - Brunke, Zyla & Solodovnikov 2019 (Staphylinidae): [Raised
+   from, Antimerina, p. 121]. 
+   Baltognathina - Brunke, Zyla & Solodovnikov 2019 (Staphylinidae):
+   [Raised to, Baltognathini, p. 121; Fossil]. 
+   Baltognathini - Brunke, Zyla & Solodovnikov 2019 (Staphylinidae):
+   [Raised from, Baltognathina, p. 121; Fossil]. 
+   Coomania - Cameron 1939 (Staphylinidae): [Designated type genus for new
+   subfamily, Coomaniinae, p. 120]. 
+   Coomaniinae (Staphylinidae): [Subfam nov, Type genus Coomania Cameron
+   1939, p. 120]. 
+   Cyrtoquediina - Brunke & Solodovnikov 2016 (Staphylinidae): [Raised to,
+   Cyrtoquediini, p. 121]. 
+   Cyrtoquediini - Brunke & Solodovnikov 2016 (Staphylinidae): [Raised
+   from, Cyrtoquediina, p. 121]. 
+   Diochini - Casey 1906 (Staphylinidae): [Stat rev, P. 120]. 
+   Erichsoniina - Brunke & Solodovnikov 2016 (Staphylinidae): [Raised to,
+   Erichsoniini, p. 121]. 
+   Erichsoniini - Brunke & Solodovnikov 2016 (Staphylinidae): [Raised from,
+   Erichsoniina, p. 121]. 
+   Hyptiomina - Casey 1906 (Staphylinidae): [Raised to, Hyptiomini, p.
+   121]. 
+   Hyptiomini - Casey 1906 (Staphylinidae): [Raised from, Hyptiomina, p.
+   121]. 
+   Indoquediina - Brunke & Solodovnikov 2016 (Staphylinidae): [Raised to,
+   Indoquediini, p. 121]. 
+   Indoquediini - Brunke & Solodovnikov 2016 (Staphylinidae): [Raised from,
+   Indoquediina, p. 121]. 
+   Platyprosopinae - Lynch 1884 (Staphylinidae): [Stat rev, P. 120]. 
+   Quediina - Kraatz 1857 (Staphylinidae): [Raised to, Quediini, p. 121]. 
+   Quediini - Kraatz 1857 (Staphylinidae): [Raised from, Quediina, p. 121].
+   
+   Staphylininae - Latreille 1802 (Staphylinidae): [Stat rev, P. 120;
+   Classification, Revised classification, p. 127]. 
+   Staphylinini - Latreille 1802 (Staphylinidae): [Stat rev, P. 120]. 
+   Tanygnathinina - Reitter 1909 (Staphylinidae): [Raised to,
+   Tanygnathinini, p. 121]. 
+   Tanygnathinini - Reitter 1909 (Staphylinidae): [Raised from,
+   Tanygnathinina, p. 121]. 
+   Xantholininae - Erichson 1839 (Staphylinidae): [Stat rev, P. 120]. 
+UT ZOOREC:ZOOR15603019251
+OA Other Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603019254
+DT Article
+TI A molecular phylogeny of Cochylina, with confirmation of its
+   relationship to Euliina (Lepidoptera: Tortricidae).
+AU Brown, John W. (tortrici-dae.jwb@gmail.com) 
+   Aarvik, Leif
+   Heikkila, Maria
+   Brown, Richard
+   Mutanen, Marko
+SO Systematic Entomology
+VL 45
+IS 1
+PS 160-174
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 2
+AB This work presents a multiple-gene phylogenetic analysis of 70 species
+   representing 24 genera of Cochylina and eight species representing eight
+   genera of Euliina, and a maximum-likelihood analysis based on 293
+   barcodes representing over 220 species of Cochylina. The results confirm
+   the hypothesis that Cochylina is a monophyletic group embedded within a
+   paraphyletic Euliina. Six major monophyletic lineages are recognized and
+   defined within Cochylina: a Phtheochroa Group, a Henricus Group, an
+   Aethes Group, a Saphenista Group, a Phalonidia Group and a Cochylis
+   Group. The work summarizes the groups (including related genera not
+   included in our analysis), provides morphological characters that
+   support the molecular data, and compares results to previous phylogenies
+   of Cochylina. The following nomenclatural changes are proposed:
+   Brevicornutia, rev.stat.; Neocochylis, rev.stat.; Paracochylis,
+   rev.stat.; Pontoturania, rev.stat.; and Platphalonidia, rev.stat.
+C1 Brown, John W.; Smithsonian Inst, Natl Museum Nat Hist, Washington, DC,
+   20560, USA, USA.
+EM tortrici-dae.jwb@gmail.com
+OI Heikkila, Maria/0000-0002-9048-4381
+SC Zoology; Anatomy &Morphology
+SN 0307-6970
+BD Systematics; Nomenclature; Combination; Synonymy; Taxonomy; Taxonomic
+   position; Status; General morphology; Genetics; Evolution
+DE Cochylina [General morphology / Morphological characters / systematics]
+   [Molecular genetics / Mt & nDNA sequences / ] [Phylogeny / Molecular
+   phylogeny / ]. 
+TN Arthropods; Insects; Invertebrates; Lepidopterans
+ST Animalia, Arthropoda, Insecta, Lepidoptera, Glossata, Heteroneura,
+   Tortricoidea, Tortricidae
+OR Brevicornutia - Razowski (Tortricidae): [Raised from, Cochylis
+   (Brevicornutia), p. 171]. 
+   Brevicornutia dolosana - (Kennel) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+   Brevicornutia pallidana - (Zeller) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+   Cochylina - Guenee 1845 (Tortricidae). 
+   Cochylis (Brevicornutia) - Razowski (Tortricidae): [Raised to,
+   Brevicornutia, p. 171]. 
+   Cochylis (Neocochylis) - Razowski (Tortricidae): [Raised to,
+   Neocochylis, p. 170]. 
+   Cochylis (Paracochylis) - Razowski (Tortricidae): [Raised to,
+   Paracochylis, p. 170]. 
+   Cochylis (Pontoturania) - Obraztsov (Tortricidae): [Raised to,
+   Pontoturania, p. 171]. 
+   Cochylis aestiva - Walsingham (Tortricidae): [Referred to, Pontoturania,
+   p. 171]. 
+   Cochylis amoenana - Kennel (Tortricidae): [Referred to, Paracochylis, p.
+   170]. 
+   Cochylis defessana - Mann (Tortricidae): [Referred to, Pontoturania, p.
+   171]. 
+   Cochylis dolosana - Kennel (Tortricidae): [Referred to, Brevicornutia,
+   p. 171]. 
+   Cochylis dubitana - Huebner (Tortricidae): [Referred to, Neocochylis, p.
+   170]. 
+   Cochylis faustana - Kennel (Tortricidae): [Referred to, Pontoturania, p.
+   171]. 
+   Cochylis hybridella - Huebner (Tortricidae): [Referred to, Neocochylis,
+   p. 170]. 
+   Cochylis indica - Razowski (Tortricidae): [Referred to, Pontoturania, p.
+   171]. 
+   Cochylis lutosa - Razowski (Tortricidae): [Referred to, Pontoturania, p.
+   171]. 
+   Cochylis maestana - Kennel (Tortricidae): [Referred to, Pontoturania, p.
+   171]. 
+   Cochylis millierana - Peyerimhoff (Tortricidae): [Referred to,
+   Neocochylis, p. 170]. 
+   Cochylis molliculana - Zeller (Tortricidae): [Referred to, Neocochylis,
+   p. 170]. 
+   Cochylis pallidana - Zeller (Tortricidae): [Referred to, Brevicornutia,
+   p. 171]. 
+   Cochylis piana - Kennel (Tortricidae): [Referred to, Pontoturania, p.
+   171]. 
+   Cochylis posterana - Zeller (Tortricidae): [Referred to, Pontoturania,
+   p. 171]. 
+   Cochylis salebrana - Mann (Tortricidae): [Referred to, Neocochylis, p.
+   170]. 
+   Neocochylis - Razowski (Tortricidae): [Raised from, Cochylis
+   (Neocochylis), p. 170]. 
+   Neocochylis dubitana - (Huebner) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 170]. 
+   Neocochylis hybridella - (Huebner) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 170]. 
+   Neocochylis millierana - (Peyerimhoff) (Tortricidae): [Comb nov,
+   Transferred from Cochylis, p. 170]. 
+   Neocochylis molliculana - (Zeller) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 170]. 
+   Neocochylis salebrana - (Mann) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 170]. 
+   Paracochylis - Razowski (Tortricidae): [Raised from, Cochylis
+   (Paracochylis), p. 170]. 
+   Paracochylis amoenana - (Kennel) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 170]. 
+   Phalonidia - Le Marchand (Tortricidae): [Removal from synonymy,
+   Platphalonidia Razowski, p. 170]. 
+   Platphalonidia - Razowski (Tortricidae): [Removal from synonymy, With
+   Phalonidia Le Marchand, p. 170]. 
+   Pontoturania - Obraztsov (Tortricidae): [Raised from, Cochylis
+   (Pontoturania), p. 171]. 
+   Pontoturania aestiva - (Walsingham) (Tortricidae): [Comb nov,
+   Transferred from Cochylis, p. 171]. 
+   Pontoturania defessana - (Mann) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+   Pontoturania faustana - (Kennel) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+   Pontoturania indica - (Razowski) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+   Pontoturania lutosa - (Razowski) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+   Pontoturania maestana - (Kennel) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+   Pontoturania piana - (Kennel) (Tortricidae): [Comb nov, Transferred from
+   Cochylis, p. 171]. 
+   Pontoturania posterana - (Zeller) (Tortricidae): [Comb nov, Transferred
+   from Cochylis, p. 171]. 
+UT ZOOREC:ZOOR15603019254
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603021017
+DT Article
+TI Expect the unexpected: a new ant from a backyard in Utah.
+AU Longino, John T. (john.longino@utah.edu) 
+   Booher, Douglas B.
+SO Western North American Naturalist
+VL 79
+IS 4
+PS 496-499
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB Urban centers are not where one expects to find new species. Yet, we
+   report here a newly recognized ant, Strumigenys ananeotes sp. nov., in
+   an urban yard in Salt Lake City, Salt Lake County, Utah, USA. The genus
+   Strumigenys is a major radiation of litter ants that are found primarily
+   in the wet tropics and subtropics. They are extremely rare in western
+   North America, known only from sites hundreds of kilometers south and
+   west of Salt Lake City. The new species is related to species from
+   southern Arizona and is presumed native. We propose that it is normally
+   restricted to moist, subterranean microhabitats in an otherwise arid
+   region, but that anthropogenic activity has created an urban forest with
+   summer conditions similar to eastern deciduous forest. Strumigenys
+   ananeotes may now have a greatly expanded habitat and visibility, a case
+   of a native species benefiting from human development rather than being
+   displaced.
+C1 Longino, John T.; Univ Utah, Dept Biol, Salt Lake City, UT, 84112, USA,
+   USA.
+EM john.longino@utah.edu
+SC Zoology
+SN 1527-0904
+BD Systematics; Nomenclature; New taxa; Land zones; Nearctic region; North
+   America; USA
+DE Strumigenys ananeotes [Utah /  / New species]. 
+TN Arthropods; Hymenopterans; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Hymenoptera, Apocrita, Aculeata,
+   Formicoidea, Formicidae
+OR Strumigenys ananeotes (Formicidae): [Sp nov, Utah, P. 498]. 
+UT ZOOREC:ZOOR15603021017
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603019419
+DT Article
+TI Novel sexual dimorphism in a new genus of Bathynellidae from Russia,
+   with a revision of phylogenetic relationships.
+AU Camacho, Ana I. (mcnac22@mncn.csic.es) 
+   Mas-Peinado, Paloma
+   Iepure, Sanda
+   Perina, Giulia
+   Dorda, Beatriz A.
+   Casado, Adrian
+   Rey, Isabel
+SO Zoologica Scripta
+VL 49
+IS 1
+PS 47-63
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 1
+AB Bathynellidae is the neglected family of Bathynellacea, a groundwater
+   group of crustaceans with 33 genera and 107 species described and almost
+   half of them included in the 'catch-all' genus Bathynella. Due to the
+   morphological homogeneity of the species, the taxonomic uncertainties
+   have accumulated over time. Therefore, to explore the phylogenetic
+   relationships among taxa, a combined approach using morphological and
+   molecular data is needed. In this paper, we performed a phylogenetic
+   analysis based on partial sequences of COI and 18S including 30 species
+   of Bathynellidae. This data set represents the most updated one,
+   including a new genus and a new species (Altainella calcarata gen. n.
+   sp. n.) of Bathynellidae described here from Altai Mountain (Russia).
+   The new taxon presents a new type of sexual dimorphisms with a peculiar
+   structure on the coxopod of the male thoracopod VII and also sexual
+   dimorphism on the mandibular palp, as some species of the subfamily
+   Gallobathynellinae. This is the first species of Bathynellidae that
+   presents both variants of sexual dimorphism. The molecular phylogeny
+   supports the morphology and the erection of the new genus and displays
+   highly divergent genetic units corresponding to subfamilies, with the
+   new genus closer to Bathynellinae genera than other subfamilies. With
+   the description of this new species and its molecular characterization,
+   the existence of the other genera beyond Bathynella is confirmed in
+   Eurasia.
+C1 Camacho, Ana I.; CSIC, Museo Nacl Ciencias Nat, C Jose Gutierrez Abascal
+   2, Madrid, E-28006, Spain, Spain.
+EM mcnac22@mncn.csic.es
+RI Iepure, Sanda/AAA-6388-2019; Camacho, Ana I/K-3565-2014
+OI Iepure, Sanda/0000-0002-3748-3478; Camacho, Ana I/0000-0003-0596-7678;
+   Mas-Peinado, Paloma/0000-0002-9290-5805
+SC Zoology; Reproductive Biology; Genetics &Heredity; Evolutionary Biology
+SN 0300-3256
+BD Systematics; Nomenclature; New taxa; Reproduction; Genetics; Evolution;
+   Land zones; Palaearctic region; Eurasia
+DE Altainella calcarata [Russia /  / New species]. 
+   Bathynellidae [Sex differences / Sexual dimorphism / systematics]
+   [Molecular genetics / COI & 18S sequences / ] [Phylogeny / Molecular
+   phylogeny / ]. 
+TN Arthropods; Crustaceans; Invertebrates
+ST Animalia, Arthropoda, Crustacea, Malacostraca, Eumalacostraca,
+   Syncarida, Bathynellacea
+OR Altainella - Camacho 2020 (Bathynellacea): [Gen nov, Of family
+   Bathynellidae, Type species Altainella calcarata Camacho 2020, p. 54]. 
+   Altainella calcarata - Camacho 2020 (Bathynellacea): [Sp nov, Russia, P.
+   54]. 
+   Bathynellidae (Bathynellacea). 
+UT ZOOREC:ZOOR15603019419
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603019420
+DT Article
+TI Molecular phylogeny places the enigmatic subfamily Masoninae within the
+   Ichneumonidae, not the Braconidae.
+AU Quicke, Donald L.J.
+   Austin, Andrew D.
+   Fagan-Jeffries, Erinn P.
+   Hebert, Paul D.N.
+   Butcher, Buntika (buntika.a@chula.ac.th) 
+SO Zoologica Scripta
+VL 49
+IS 1
+PS 64-71
+PD Jan 2020
+PY 2020
+LA English
+U1 2
+U2 5
+AB The Masoninae (type genus Masona van Achterberg) is a widespread but
+   seldom collected group of morphologically aberrant tiny (body length 2
+   mm or less) wasps that have always been considered as a subfamily of
+   Braconidae, albeit on little supporting evidence. Discovery of a fully
+   winged female of Masona from remote Australia has enabled a reassessment
+   of its relationships. This specimen yielded sequence data for the
+   nuclear 28S and 18S rDNA genes, the barcoding fragment of mitochondrial
+   cytochrome oxidase subunit 1 and the mitochondrial 16S rDNA gene. These
+   were analysed separately and together, along with representatives of
+   Braconidae and Ichneumonidae. Maximum likelihood analyses of all four
+   genes separately and combined concur that Masona is nested within the
+   Ichneumonidae and, therefore, is not a member of Braconidae. This is
+   also supported by the position of the sternaulus low on mesopleuron,
+   absence of fore wing vein (RS + M)a (though the great reduction in wing
+   venation makes further interpretation problematic) and the articulated
+   junction of metasomal tergites 2 and 3. On balance, molecular analyses
+   place Masona basally among the ophioniformes lineage of Ichneumonidae.
+   Formal description of the Australian species as Masona timpaynei Quicke
+   sp. n. and a revised diagnosis of Masoninae are provided in S1 together
+   with illustration of the holotype.
+C1 Butcher, Buntika; Chulalongkorn Univ, Integrat Ecol Lab, Phayathai Rd,
+   Bangkok, Bkk, 10330, Thailand, Thailand.
+EM buntika.a@chula.ac.th
+OI Quicke, Donald/0000-0003-4471-6775; Butcher, Buntika/0000-0002-0541-0709
+SC Zoology; Genetics &Heredity; Evolutionary Biology
+SN 0300-3256
+BD Systematics; Nomenclature; New taxa; Diagnosis; Taxonomy; Taxonomic
+   position; Genetics; Evolution; Land zones; Australasian region;
+   Australasia; Australia
+DE Braconidae; Ichneumonidae; Masona [Molecular genetics / DNA sequences /
+   taxonomic implications] [Phylogeny / Molecular phylogeny / ]. 
+   Masona timpaynei [Western Australia /  / New species]. 
+TN Arthropods; Hymenopterans; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Hymenoptera, Apocrita, Terebrantia,
+   Ichneumonoidea, Braconidae
+OR Braconidae (Ichneumonoidea). 
+   Ichneumonidae (Ichneumonoidea). 
+   Masona (Braconidae). 
+   Masona timpaynei - Quicke 2019 (Braconidae): [Sp nov, Western Australia,
+   P. 67]. 
+   Masoninae - van Achterberg 1995 (Braconidae): [Emended diagnosis, Extant
+   taxa, p. 69; Referred to, Ichneumonidae, p. 69]. 
+UT ZOOREC:ZOOR15603019420
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020213
+DT Article
+TI Systematic revision of Mexican threatened tarantulas Brachypelma
+   (Araneae: Theraphosidae: Theraphosinae), with a description of a new
+   genus, and implications on the conservation.
+AU Mendoza, Jorge (nomeireth@hotmail.com) 
+   Francke, Oscar
+SO Zoological Journal of the Linnean Society
+VL 188
+IS 1
+PS 82-147
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 3
+AB The tarantula genus Brachypelma includes colourful species that are
+   highly sought after in the commercial pet trade. They are all included
+   in CITES appendix II. We present phylogenetic analyses using molecular
+   and morphological characters to revise Brachypelma, in which we include
+   all currently known species. Our results agree with a previous study
+   that shows the non- monophyly of Brachypelma. Both phylogenies strongly
+   favour the division of Brachypelma into two smaller genera. The first
+   clade (Brachypelma s.s.) is formed by B.albiceps, B. auratum, B.
+   baumgarteni, B. boehmei, B. emilia, B. hamorii, B. klaasi and B. smithi.
+   The species included in the second clade are transferred to the new
+   genus Tliltocatl and is formed by T. albopilosum comb. nov., T.
+   epicureanum comb. nov., T. kahlenbergi comb. nov., T. sabulosum comb.
+   nov., T. schroederi comb. nov., T. vagans comb. nov. and T. verdezi
+   comb. nov. Both genera can be differentiated by their coloration and the
+   shape of the genitalia. We transfer to Tliltocatl: T. alvarezi, T.
+   andrewi and T. aureoceps, but should be considered as nomina dubia. In
+   addition, we transfer B. fossorium to Stichoplastoris. We discuss the
+   implications of these taxonomical changes for CITES and for the Mexican
+   Laws for wildlife protection.
+C1 Mendoza, Jorge; Univ Nacl Autonoma Mexico, Posgrad Ciencias Biol, Ave
+   Univ 3000, Coyoacan, DF, 04510, Mexico, Mexico.
+EM nomeireth@hotmail.com
+SC Biodiversity &Conservation; Environmental Sciences &Ecology; Zoology
+SN 0024-4082
+BD Systematics; Nomenclature; New taxa; Type species; Diagnosis;
+   Description; Combination; Available name; Taxonomy; Taxonomic position;
+   Key; Conservation; General morphology; Genetics; Evolution; Land zones;
+   Nearctic region; North America
+DE Brachypelma [Conservation /  / taxonomic revision] [General morphology /
+   Morphological characters / ] [Molecular genetics / mtDNA COI gene
+   sequences / ] [Phylogeny /  / ] [Mexico /  / distribution]. 
+TN Arachnids; Arthropods; Chelicerates; Invertebrates
+ST Animalia, Arthropoda, Arachnida, Araneae
+OR Brachypelma - Simon 1891 (Araneae): [Emended diagnosis, P. 92; Key to
+   species, Adult males, p. 129, adult females, p. 130]. 
+   Brachypelma albiceps - Pocock 1903 (Araneae): [Redescription, P. 95]. 
+   Brachypelma albopilosum - (Valerio 1980) (Araneae): [Referred to, New
+   genus Tliltocatl, p. 131]. 
+   Brachypelma andrewi - Schmidt 1992 (Araneae): [Referred to, New genus
+   Tliltocatl, p. 136]. 
+   Brachypelma auratum - Schmidt 1992 (Araneae): [Redescription, P. 101]. 
+   Brachypelma aureoceps - (Chamberlin 1917) (Araneae): [Referred to, New
+   genus Tliltocatl, p. 137]. 
+   Brachypelma boehmei - Schmidt & Klaas 1993 (Araneae): [Redescription, P.
+   108]. 
+   Brachypelma emilia - (White 1856) (Araneae): [Redescription, P. 113]. 
+   Brachypelma epicureanum - (Chamberlin 1925) (Araneae): [Referred to, New
+   genus Tliltocatl, p. 131]. 
+   Brachypelma fossoria - Valerio 1980 (Araneae): [Referred to,
+   Stichoplastoris, p. 138]. 
+   Brachypelma kahlenbergi - (Rudloff 2008) (Araneae): [Referred to, New
+   genus Tliltocatl, p. 131]. 
+   Brachypelma klaasi - (Schmidt & Krausse 1994) (Araneae): [Redescription,
+   P. 120]. 
+   Brachypelma sabulosum - (Pickard-Cambridge 1897) (Araneae): [Referred
+   to, New genus Tliltocatl, p. 131]. 
+   Brachypelma schroederi - (Rudloff 2003) (Araneae): [Referred to, New
+   genus Tliltocatl, p. 131]. 
+   Brachypelma vagans - (Ausserer 1875) (Araneae): [Referred to, New genus
+   Tliltocatl, p. 131]. 
+   Brachypelma verdezi - (Schmidt 2003) (Araneae): [Referred to, New genus
+   Tliltocatl, p. 131]. 
+   Citharacanthus alvarezi - Estrada-Alvarez et al. 2013 (Araneae):
+   [Referred to, New genus Tliltocatl, p. 137]. 
+   Eurypelma vagans - Ausserer 1875 (Araneae): [Designated type species for
+   new genus, Tliltocatl, p. 131]. 
+   Stichoplastoris fossorius - (Valerio 1980) (Araneae): [Comb nov,
+   Transferred from Brachypelma, p. 138]. 
+   Tliltocatl (Araneae): [Gen nov, Of subfamily Theraphosinae, Type species
+   Eurypelma vagans Ausserer 1875, p. 131]. 
+   Tliltocatl albopilosum - (Valerio 1980) (Araneae): [Comb nov,
+   Transferred from Brachypelma, p. 131]. 
+   Tliltocatl alvarezi - (Estrada-Alvarez et al. 2013) (Araneae): [Comb
+   nov, Transferred from Citharacanthus, p. 137; Nomen dubium, P. 138]. 
+   Tliltocatl andrewi - (Schmidt 1992) (Araneae): [Comb nov, Transferred
+   from Brachypelma, p. 136; Nomen dubium, P. 136]. 
+   Tliltocatl aureoceps - (Chamberlin 1917) (Araneae): [Comb nov,
+   Transferred from Brachypelma, p. 137; Nomen dubium, P. 137]. 
+   Tliltocatl epicureanum - (Chamberlin 1925) (Araneae): [Comb nov,
+   Transferred from Brachypelma, p. 131]. 
+   Tliltocatl kahlenbergi - (Rudloff 2008) (Araneae): [Comb nov,
+   Transferred from Brachypelma, p. 131]. 
+   Tliltocatl sabulosum - (Pickard-Cambridge 1897) (Araneae): [Comb nov,
+   Transferred from Brachypelma, p. 131]. 
+   Tliltocatl schroederi - (Rudloff 2003) (Araneae): [Comb nov, Transferred
+   from Brachypelma, p. 131]. 
+   Tliltocatl vagans - (Ausserer 1875) (Araneae): [Comb nov, Transferred
+   from Brachypelma, p. 131]. 
+   Tliltocatl verdezi - (Schmidt 2003) (Araneae): [Comb nov, Transferred
+   from Brachypelma, p. 131]. 
+UT ZOOREC:ZOOR15603020213
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15603020216
+DT Article
+TI A new ichthyosaur from the Late Jurassic of north-west Patagonia
+   (Argentina) and its significance for the evolution of the narial complex
+   of the ophthalmosaurids.
+AU Campos, Lisandro (lcampos@fcnym.unlp.edu.ar) 
+   Fernandez, Marta S.
+   Herrera, Yanina
+SO Zoological Journal of the Linnean Society
+VL 188
+IS 1
+PS 180-201
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 4
+AB Ophthalmosaurids were highly derived and the youngest clade of
+   ichthyosaurs. Their evolutionary history comprises [approximately]76 Myr
+   (from the early Middle Jurassic to the final extinction of the group at
+   the Cenomanian-Turonian boundary). Fossil records indicate that soon
+   after they emerged they achieved a widespread geographical distribution.
+   Analyses of disparity based on craniodental morphologies, and the
+   co-occurrence of different bone histology and microstructure among the
+   members of the group, indicate that ophthalmosaurids are not only
+   taxonomically but also ecologically diverse. A region of the skull that
+   is particularly complex among ophthalmosaurid taxa is the external nares
+   and surrounding areas, but there have been few attempts to explore this
+   topic. We describe a new ophthalmosaurid from the Late Jurassic of
+   Patagonia (Argentina) in the genus Arthropterygius and analyse its
+   phylogenetic relationships. A detailed exploration of the skull, using
+   computed tomography, reveals the division of the external nares by means
+   of a stout bony pillar. This condition was previously known only in some
+   Cretaceous forms and, within a phylogenetic framework, its distribution
+   among ophthalmosaurids indicates that this morphology was the result of
+   convergent evolution. Based on available data on extant (and some
+   extinct) forms, we explore putative soft structures involved in the
+   narial region. We propose that the division of the external nares
+   (complete or partly osseous) was related functionally to the separation
+   of the air passage from the outlet of nasal salt glands in such a way
+   that the salt glands could be evacuated underwater, while the air
+   passage could be closed by a valvular system.
+C1 Campos, Lisandro; UNLP, Unidades Invest Anexo Museo, 60 & 122,B1900AVW,
+   La Plata, Buenos Aires, Argentina, Argentina.
+EM lcampos@fcnym.unlp.edu.ar
+SC Zoology; Respiratory System; Evolutionary Biology; Paleontology
+SN 0024-4082
+BD Systematics; Nomenclature; New taxa; Diagnosis; Respiration; Respiratory
+   system; Respiratory passages; Evolution; Land zones; Neotropical region;
+   South America; Geological time periods; Mesozoic
+DE Arthropterygius thalassonotus [Argentina /  / new species] [Jurassic / 
+   / ]. 
+   Ophthalmosauridae [Nasal passages / Narial complex / significance of new
+   species] [Evolution /  / ] [Mesozoic /  / ]. 
+TN Chordates; Reptiles; Vertebrates
+ST Animalia, Chordata, Vertebrata, Reptilia, Euryapsida, Ichthyosauria
+OR Arthropterygius - Maxwell 2010 (Ichthyosauria): [Emended diagnosis, P.
+   184; Fossil]. 
+   Arthropterygius thalassonotus (Ichthyosauria): [Sp nov, Argentina,
+   Jurassic, P. 184; Fossil]. 
+   Ophthalmosauridae - Baur 1887 (Ichthyosauria): [Fossil]. 
+UT ZOOREC:ZOOR15603020216
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013282
+DT Article
+TI A large artematopodid beetle (Coleoptera: Elateroidea: Artematopodidae)
+   from the Early Cretaceous of China and its systematic position.
+AU Cai, Chenyang
+   Fu, Yanzhe
+   Huang, Diying (dyhuang@nigpas.ac.cn) 
+SO Cretaceous Research
+VL 105
+PS 103986
+PD Jan 2020
+PY 2020
+LA English
+U1 3
+U2 7
+AB Artematopodidae is small basal group of elateroid beetles. Definitive
+   Mesozoic artematopodids are currently confined to the Middle Jurassic
+   Daohugou biota. Here we report a new genus and species, Cretobrevipogon
+   breviantennatus gen.et sp. nov., from the Lower Cretaceous Yixian
+   Formation (ca. 125 Ma) in Liaoning Province, northeastern China.
+   Cretobrevipogon exhibit many diagnostic features of the extant family
+   Artematopodidae, such as paired carinae on prosternum and more
+   importantly, an apical interlocking tongue on the ventral side of
+   elytron. Phylogenetic analyses indicate that Cretobrevipogon is closely
+   related to the Middle Jurassic Sinobrevipogon. They share a presumably
+   plesiomorphic character, i.e. mesocoxal cavitiy closed by mesepimeron
+   and anterolateral edge of metanepisternum. The discovery of a new genus
+   from the Early Cretaceous highlights the morphological disparity and
+   palaeodiversity of the family in the Mesozoic. Artematopodidae probably
+   represent a relictual elateroid family that once diversified in the
+   middle-late Mesozoic. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 Huang, Diying; Chinese Acad Sci, Nanjing Inst Geol & Palaeontol, 39 East
+   Beijing Rd, Nanjing, Jiangsu, 210008, China, China.
+EM dyhuang@nigpas.ac.cn
+SC Zoology
+SN 0195-6671
+BD Systematics; Nomenclature; New taxa; Land zones; Palaearctic region;
+   Eurasia; Asia; China; Geological time periods; Mesozoic
+DE Cretobrevipogon [Cretaceous /  / New genus]. 
+   Cretobrevipogon breviantennatus [Liaoning /  / new species] [Cretaceous
+   /  / ]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Elateroidea,
+   Artematopidae
+OR Cretobrevipogon (Artematopidae): [Gen nov, Of family Artematopodidae,
+   subfamily incertae sedis, Type species Cretobrevipogon breviantennatus,
+   p. 3, Cretaceous; Fossil]. 
+   Cretobrevipogon breviantennatus (Artematopidae): [Sp nov, Liaoning,
+   Cretaceous, P. 3; Fossil]. 
+UT ZOOREC:ZOOR15602013282
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013283
+DT Article
+TI Ostracod faunas from the Dalazi and Tongfosi formations (Yanji Basin,
+   northeast China): Biostratigraphic, palaeogeographic and
+   palaeoecological implications.
+AU Choi, Byung-Do
+   Wang, Yaqiong (yqwang@nigpas.ac.cn) 
+   Hu, Liang
+   Huh, Min
+SO Cretaceous Research
+VL 105
+PS 104018
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB This work provides a detailed taxonomic study of ostracod species from
+   the Dalazi and Tongfosi formations of the Yanji Basin (Jilin Province,
+   NE China). Fourteen species including one new species belonging to nine
+   genera have been recovered: Scabriculocypris tonfosiensis,
+   Scabriculocypris yanbianensis, Cypridea concinaformis, Mongolocypris
+   yanjiensis, Mongolianella kyranbeki sp. nov., Lycopterocypris
+   infantilis, Lycopterocypris sp., Yumenella toorojensis, Candona spp.,
+   Cyprois sp., Vlakomia ustinovskii and Vlakomia jilinensis. With the
+   recovery of well-preserved specimens, the sieve pore, ontogeny and
+   sexual dimorphism of Vlakomia jilinensis and Vlakomia ustinovskii are
+   recognized for the first time. The ostracod biostratigraphic
+   correlations suggest that the age of the Tongfosi Formation is Albian
+   and may extend upwards into the Upper Cretaceous, and the Dalazi
+   Formation is not older than the Albian, probably of early Late
+   Cretaceous age. The ostracod faunas of the Tongfosi and Dalazi
+   formations show affinities to faunas of Eastern Mongolia and South
+   Korea, providing evidence of potential faunal exchanges between
+   Northeastern China, Eastern Mongolia and South Korea during the Albian
+   to early Late Cretaceous time. On the basis of their ostracod faunas,
+   the Tongfosi and Dalazi formations represent a shallow-littoral
+   lacustrine depositional environment that potentially included small
+   ephemeral water bodies. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 Wang, Yaqiong; Chinese Acad Sci, CAS Key Lab Econ Stratig & Palaeogeog,
+   39 East Beijing Rd, Nanjing, Jiangsu, 210008, China, China.
+EM yqwang@nigpas.ac.cn
+OI Choi, Byung-Do/0000-0002-8308-5243
+SC Zoology
+SN 0195-6671
+BD Systematics; Nomenclature; New taxa; Diagnosis; Combination; Taxonomy;
+   Taxonomic position; Ecology; Zoogeography; Land zones; Palaearctic
+   region; Eurasia; Asia; China; Geological time periods; Mesozoic
+DE Mongolianella kyranbeki [Jilin /  / new species] [Cretaceous /  / ]. 
+   Ostracoda [Ecology / Palaeoecology / systematics] [Fossil assemblages / 
+   / ] [Zoogeography / Palaeogeography / ] [Jilin / Yanji Basin /
+   stratigraphical distribution] [Cretaceous / Late Early Cretaceous / ]. 
+TN Arthropods; Crustaceans; Invertebrates
+ST Animalia, Arthropoda, Crustacea, Ostracoda
+OR Ostracoda (Crustacea): [Fossil]. 
+   Cypridea concinaformis - Su 1974 (Ostracoda): [Emended diagnosis, P. 8;
+   Fossil]. 
+   Cyprois philipsiana - (Anderson 1966) (Ostracoda): [Comb nov,
+   Transferred from Mantelliana, p. 14]. 
+   Eucypris - Vavra 1891 (Ostracoda): [Status, P. 12]. 
+   Eucypris toorojensis - Khand 1977 (Ostracoda): [Referred to, Yumenella,
+   p. 12]. 
+   Ilyocyprimorpha yanbianensis - Gou 1983 (Ostracoda): [Referred to,
+   Scabriculocypris, p. 6; Fossil]. 
+   Lycopterocypris - Mandelstam 1956 (Ostracoda): [Status, P. 12; Fossil]. 
+   Mantelliana philipsiana - Anderson 1966 (Ostracoda): [Referred to,
+   Cyprois, p. 14; Fossil]. 
+   Mongolianella - Mandelstam 1955 (Ostracoda): [Referred to,
+   Monglianellinae (Cyprididae), p. 9; Fossil]. 
+   Mongolianella kyranbeki - Wang 2020 (Ostracoda): [Sp nov, Jilin,
+   Cretaceous, P. 9; Fossil]. 
+   Mongolocypris yanjiensis - Gou 1983 (Ostracoda): [Emended diagnosis, P.
+   9]. 
+   Scabriculocypris - Anderson 1941 (Ostracoda): [Referred to,
+   Alloiocyprideidae from Trapezoidellidae, p. 6; Fossil]. 
+   Scabriculocypris tonfosiensis - Gou 1983 (Ostracoda): [Emended
+   diagnosis, P. 6; Fossil]. 
+   Scabriculocypris yanbianensis - (Gou 1983) (Ostracoda): [Emended
+   diagnosis, P. 6; Comb nov, Transferred from Ilyocyprimorpha, p. 6;
+   Fossil]. 
+   Vlakomia - Gramm 1966 (Ostracoda): [Emended diagnosis, P. 15]. 
+   Vlakomia jilinensis - (Gou 1983) (Ostracoda): [Emended diagnosis, P.
+   16]. 
+   Vlakomia ustinovskii - Gramm 1966 (Ostracoda): [Emended diagnosis, P.
+   16]. 
+   Yumenella toorojensis - (Khand 1977) (Ostracoda): [Emended diagnosis, P.
+   12; Comb nov, Transferred from Eucypris, p. 12]. 
+UT ZOOREC:ZOOR15602013283
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013280
+DT Article
+TI Shajia, a new genus of polyconitid rudist from the Langshan Formation of
+   the Lhasa block, Tibet, and its palaeogeographical implications.
+AU Rao, Xin (xinrao@nigpas.ac.cn) 
+   Skelton, Peter W.
+   Sano, Shin-ichi
+   Zhang, Yiqiang
+   Zhang, Yichun
+   Pan, Yanhong
+   Cai, Huawei
+   Peng, Bo
+   Zhang, Tong
+   Ma, Zhaoxiong
+SO Cretaceous Research
+VL 105
+PS 104151
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB A new polyconitid rudist Shajia tibetica gen. et sp. nov., of late
+   Aptian to Albian age, is described from the Langshan Formation of Nyima
+   County, northern Lhasa Block, Tibet. Though comparable in size and
+   external morphology with Horiopleura haydeni Douville, which is a common
+   endemic species in southwestern Asia, Shajia differs from the latter
+   species in its possession of an inwardly inclined, instead of outwardly
+   facing, posterior myophore in the right valve. In addition, a single
+   specimen from Ladakh, which was previously assigned to Polyconites? sp.,
+   on account of a similar myophoral distinction from H. haydeni, is
+   transferred to the new genus. Shajia is considered most likely to have
+   been derived from one of a group of Horiopleura species that lived on
+   the southern margin of the Mediterranean Tethys. The so-called 'Yasin
+   fauna' represented by the late Aptian to Albian Horiopleura
+   haydeni/Auroradiolites gilgitensis rudist association, is considered to
+   be restricted to southwestern Asia, including Afghanistan, Kohistan in
+   northern Pakistan and Ladakh in northern India, though those two species
+   in particular have not so far been recorded from the Lhasa Block of
+   Tibet. Nevertheless, S. tibetica co-occurs with Auroradiolites
+   biconvexus (Yang et al.), which probably evolved directly from A.
+   gilgitensis (Douville), and the age of the latter association is in
+   accordance with the generally accepted age of the Yasin fauna as late
+   Aptian to Albian. Hence the S. tibetica and A. biconvexus association
+   can be considered a regional variant of the Yasin fauna, which had
+   evidently already dispersed to the Lhasa Block by the late Aptian. So
+   the Langshan Formation can be considered palaeogeographically linked
+   with other mid-Cretaceous shallow-marine carbonate deposits in adjacent
+   southwestern Asian regions. These findings also provide new evidence
+   that the age of the rudist assemblage of the Lhasa Block is late Aptian
+   to Albian, although a slightly younger age cannot be excluded. (C) 2019
+   Elsevier Ltd. All rights reserved.
+C1 Rao, Xin; Chinese Acad Sci, State Key Lab Palaeobiol & Stratig, 39 East
+   Beijing Rd, Nanjing, Jiangsu, 210008, China, China.
+EM xinrao@nigpas.ac.cn
+SC Zoology
+SN 0195-6671
+BD Systematics; Nomenclature; New taxa; Zoogeography; Land zones;
+   Palaearctic region; Eurasia; Asia; China; Geological time periods;
+   Mesozoic
+DE Hippuritoida; Polyconitidae [Zoogeography / Palaeobiogeography /
+   Significance of new taxon from Tibet] [Cretaceous /  / ]. 
+   Shajia [Cretaceous /  / New genus]. 
+   Shajia tibetica [Xizang /  / new species] [Cretaceous /  / ]. 
+TN Invertebrates; Molluscs
+ST Animalia, Mollusca, Bivalvia, Heterodonta, Hippuritoida
+OR Hippuritoida (Heterodonta): [Fossil]. 
+   Polyconitidae (Hippuritoida): [Fossil]. 
+   Shajia (Hippuritoida): [Gen nov, Of family Polyconitidae, Type species
+   Shajia tibetica, p. 4, Cretaceous; Fossil]. 
+   Shajia tibetica (Hippuritoida): [Sp nov, Xizang, Cretaceous, P. 6;
+   Fossil]. 
+UT ZOOREC:ZOOR15602013280
+OA Green Accepted
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013951
+DT Article
+TI Neolamprologus sp. "Mwila" a new snail cichlid from Mwila Island in the
+   Kipili Archipelago and the truth about the little known N. sp. "Eseki".
+FT Neolamprologus sp. "Mwila" eine neue Schneckencichlidenart von Mwila
+   Island im Kipili-Archipel und die Wahrheit ueber den weniger bekannten
+   N. sp. "Eseki".
+AU Karlsson, Magnus
+   Karlsson, Mikael
+SO DCG-Informationen
+VL 51
+IS 1
+PS 2-14
+PD Jan 2020
+PY 2020
+NT Translation by: Rosentritt, H.
+LA German
+U1 0
+U2 0
+SC Evolutionary Biology; Zoology; Environmental Sciences &Ecology; Marine
+   &Freshwater Biology
+SN 0724-7435
+BD Systematics; Evolution; Variation; Habitat; Freshwater habitat; Lentic
+   water; Land zones; Afrotropical region; Africa
+DE Neolamprologus [Morphological variation /  / Taxonomic implications]
+   [Lake / Lake benthic habitat / ] [Tanzania /  / ] [Lake Tanganyika /  /
+   ]. 
+TN Chordates; Fish; Vertebrates
+ST Animalia, Chordata, Vertebrata, Pisces, Osteichthyes, Actinopterygii,
+   Perciformes, Cichlidae
+OR Neolamprologus (Cichlidae). 
+UT ZOOREC:ZOOR15602013951
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602012675
+DT Article
+TI North Africa's first stegosaur: Implications for Gondwanan thyreophoran
+   dinosaur diversity.
+AU Maidment, Susannah C.R. (susannah.maidment@nhm.ac.uk) 
+   Raven, Thomas J.
+   Ouarhache, Driss
+   Barrett, Paul M.
+SO Gondwana Research
+VL 77
+PS 82-97
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 5
+AB Eurypoda, the major radiation of armoured dinosaurs, comprises the
+   ankylosaurs and their sister group, the stegosaurs. As the
+   earliest-branching major clade of ornithischian dinosaurs, the
+   evolutionary history of Eurypoda is significant for understanding both
+   the palaeobiology of bird-hipped dinosaurs and the composition of middle
+   Mesozoic ecosystems. Eurypodans were diverse and abundant throughout the
+   Late Jurassic and Cretaceous in Laurasia; in contrast, their remains are
+   extremely rare in Gondwana. Herein, we describe a new genus and species
+   of stegosaur from the Middle Jurassic of Morocco, Adratiklit boulahfa.
+   Adratiklit is the first eurypodan from north Africa and the oldest
+   definitive stegosaur from anywhere in the world. The genus is more
+   closely related to the European stegosaurs Dacentrurus and Miragaia than
+   it is to the southern African taxa Kentrosaurus and Paranthodon.
+   Statistically significant correlations between the number of
+   dinosaur-bearing formations, dinosaur-bearing collections, and eurypodan
+   occurrences in Gondwana indicates that their fossil record is biased by
+   both geological and anthropogenic factors. Tantalizing but fragmentary
+   remains and trackways suggest that eurypodan diversity in Gondwana may
+   have been as rich as that of Laurasia, and the prospects for future
+   discoveries of new genera across Gondwana are therefore very good. (C)
+   2019 International Association for Gondwana Research. Published by
+   Elsevier B.V. All rights reserved.
+C1 Maidment, Susannah C.R.; Nat Hist Museum, Dept Earth Sci, Cromwell Rd,
+   London, SW7 5BD, United Kingdom, United Kingdom.
+EM susannah.maidment@nhm.ac.uk
+RI Barrett, Paul M/A-2648-2010
+OI Barrett, Paul M/0000-0003-0412-3000; OUARHACHE,
+   Driss/0000-0001-5941-0977
+SC Zoology
+SN 1342-937X
+BD Systematics; Nomenclature; New taxa; Land zones; Afrotropical region;
+   Palaearctic region; Africa; Geological time periods; Mesozoic
+DE Adratiklit [Jurassic /  / New genus]. 
+   Adratiklit boulahfa [Morocco /  / new species] [Jurassic /  / ]. 
+   Thyreophora [Africa / North Africa / new record; systematics] [Jurassic
+   / Middle Jurassic / ]. 
+TN Chordates; Reptiles; Vertebrates
+ST Animalia, Chordata, Vertebrata, Reptilia, Archosauria, Ornithischia,
+   Stegosauria
+OR Thyreophora (Ornithischia): [Fossil; New record]. 
+   Adratiklit (Stegosauria): [Gen nov, Of clade (higher taxon) Stegosauria,
+   Type species Adratiklit boulahfa, p. 85, Jurassic; Fossil]. 
+   Adratiklit boulahfa (Stegosauria): [Sp nov, Morocco, Jurassic, P. 85;
+   Fossil]. 
+UT ZOOREC:ZOOR15602012675
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013114
+DT Article
+TI The first report of a vauxiid sponge from the Cambrian Chengjiang Biota.
+AU Luo, Cui (cluo@nigpas.ac.cn) 
+   Zhao, Fangchen
+   Zeng, Han
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 28-33
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 1
+AB Non-spicular sponges constitute >8% of the extant sponge biodiversity at
+   the species level, yet their evolutionary history is poorly known due to
+   a sparse fossil record. The genus Vauxia, previously only known from
+   middle Cambrian (Miaolingian, Wuliuan) Lagerstatten, was regarded as the
+   earliest fossil record of non-spicular demosponges. Here we describe the
+   first vauxiid sponge, Vauxia leioia new species, from the early Cambrian
+   Chengjiang Biota (Series 2, Stage 3). This sponge exhibits a
+   double-layered fibrous skeleton: the mesh and fiber thickness of the
+   endosomal layer are irregular while the dermal layer, which directly
+   connects with the endosomal skeleton without intermediate supporting
+   fibers, is regular in both aspects. Measurements using scanning electron
+   microscope and Raman spectroscopy revealed that the endosomal fibers are
+   composed of carbonaceous material, but are tomographically indiscernible
+   from the host rock, while the dermal fibers are preserved as impressions
+   without obvious accumulation of carbonaceous material. Although the
+   original composition of the dermal skeleton is now hard to establish, we
+   cannot rule out that it was siliceous. The morphological characters of
+   V. leioia n. sp. represent an intermediate state between other Vauxia
+   species and the recently established vauxiid genus Angulosuspongia.
+   However, more data are required to reconstruct the phylogenetic
+   relationship among these taxa. UUID:
+   http://zoobank.org/0ebb91b8-5dad-420f-bb2c-dc203d37bebd
+C1 Luo, Cui; Chinese Acad Sci, CAS Key Lab Econ Stratig & Palaeogeog, 39
+   East Beijing Rd, Nanjing, Jiangsu, 210008, China, China.
+EM cluo@nigpas.ac.cn
+OI luo, cui/0000-0001-7513-3172; Zeng, Han/0000-0002-5728-7896
+SC Zoology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Palaearctic
+   region; Eurasia; Asia; China; Geological time periods; Palaeozoic
+DE Vauxia leioia [Yunnan /  / new species] [Cambrian /  / ]. 
+   Vauxiidae [Yunnan / Chengjiang area / new record] [Cambrian / Early
+   Cambrian / ]. 
+TN Invertebrates; Sponges
+ST Animalia, Porifera, Demospongiae
+OR Vauxia leioia (Demospongiae): [Sp nov, Yunnan, Cambrian, P. 29; Fossil].
+   
+   Vauxiidae - Walcott 1920 (Demospongiae): [Emended diagnosis, P. 29;
+   Fossil; New record]. 
+UT ZOOREC:ZOOR15602013114
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013115
+DT Article
+TI Ordovician sponges from the Lenoir Limestone, Tennessee: new evidence
+   for a differential sponge distribution along the margins of Laurentia.
+AU Carrera, Marcelo G. (mcarrera@unc.edu.ar) 
+   Sumrall, Colin D.
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 34-44
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 3
+AB Five genera of anthaspidellid and streptosollenid demosponges are
+   described from the Ordovician Lenoir Limestone near Lenoir City, Loudon
+   County, Tennessee, USA including: Rhopalocoelia regularis Raymond and
+   Okulitch, Rugocoelia loudonensis n. sp., Psarodictyum sp.
+   (Anthaspidellidae), Allosacus pedunculatus n. sp., and Zitelella varians
+   Raymond and Okulitch (Streptosolenidae). These findings confirm the
+   major paleobiogeographic picture for Laurentian sponges (i.e., the
+   differential distribution of sponge faunas along both North American
+   margins), because none of these eastern margin species has been reported
+   from western margin faunas. Only one genus typical of the Great Basin
+   fauna, Rugocoelia Johns, 1994, is reported from Tennessee, but as a new
+   species. Possible explanations are discussed for this differential
+   distribution, mainly related to climatic constraints or sedimentary
+   differences, preventing the free distribution of sponge species between
+   Laurentian continental margins. UUID:
+   http://zoobank.org/2b990a4c-7bc8-4eb6-b8a9-fe4ecf7bdbf9
+C1 Carrera, Marcelo G.; Univ Nacl Cordoba, Fac Cs Exactas Fis & Nat,
+   X5016GCA, Cordoba, Argentina, Argentina.
+EM mcarrera@unc.edu.ar
+OI Sumrall, Colin/0000-0002-9678-0114; Carrera, Marcelo/0000-0003-0013-9195
+SC Zoology; Paleontology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Taxonomy; Ecology; Zoogeography;
+   Land zones; Nearctic region; North America; USA; Geological time
+   periods; Palaeozoic
+DE Allosacus; Psarodictyum; Rhopalocoelia; Zittelella [Tennessee /  / new
+   record] [Ordovician /  / ]. 
+   Allosacus pedunculatus; Rugocoelia loudonensis [Tennessee /  / new
+   species] [Ordovician /  / ]. 
+   Anthaspidellidae; Streptosolenidae [Fossil assemblages /  / systematics]
+   [Zoogeography / Palaeobiogeography / ] [Tennessee / Loudon County,
+   Lenoir city aea / ] [Ordovician /  / ]. 
+TN Invertebrates; Sponges
+ST Animalia, Porifera, Demospongiae
+OR Allosacus (Demospongiae): [Fossil; New record]. 
+   Allosacus pedunculatus (Demospongiae): [Sp nov, Tennessee, Ordovician,
+   P. 38; Fossil]. 
+   Anthaspidellidae - Ulrich in Miller 1889 (Demospongiae): [Fossil]. 
+   Patellispongia - Bassler 1927 (Demospongiae): [Status, P. 37; Fossil]. 
+   Psarodictyum - Raymond & Okulitch 1940 (Demospongiae): [Status, P. 37;
+   Fossil; New record]. 
+   Rhopalocoelia (Demospongiae): [Fossil; New record]. 
+   Rugocoelia loudonensis (Demospongiae): [Sp nov, Tennessee, Ordovician,
+   P. 35; Fossil]. 
+   Streptosolenidae - Johns 1994 (Demospongiae): [Fossil]. 
+   Zittelella (Demospongiae): [Fossil; New record]. 
+UT ZOOREC:ZOOR15602013115
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013116
+DT Article
+TI A fourteen-faced hexangulaconulariid from the early Cambrian (Stage 2)
+   Yanjiahe Formation, South China.
+AU Guo, Junfeng
+   Han, Jian (junfengg@chd.edu.cn) 
+   Van Iten, Heyo
+   Wang, Xing
+   Qiang, Yaqin
+   Song, Zuchen
+   Wang, Wenzhe
+   Zhang, Zhifei
+   Li, Guoxiang
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 45-55
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 4
+AB Extant medusozoans (phylum Cnidaria) are dominated by forms showing
+   tetraradial symmetry, but stem-group medusozoans of early Cambrian age
+   collectively exhibit tetra-, bi-, penta-, and hexaradial symmetry.
+   Moreover, the developmental and evolutionary relationships between
+   four-fold and other types of radial symmetry in medusozoans remain
+   poorly understood. Here we describe a new hexangulaconulariid,
+   Septuconularia yanjiaheensis new genus new species, from Bed 5 of the
+   Yanjiahe Formation (Cambrian Stage 2) in the Three Gorges area of Hupei
+   Province, China. The laterally compressed, biradially symmetrical
+   periderm of this species possesses 14 gently tapered faces, the most of
+   any hexangulaconulariid described thus far. The faces are bordered by
+   longitudinal ridges and crossed by short, irregularly spaced transverse
+   ribs. Longitudinally, the periderm consists of three regions that
+   probably correspond, respectively, to an embryonic stage, a transient
+   juvenile stage, and a long adult stage. Septuconularia yanjiaheensis may
+   have been derived from six-faced Hexaconularia (Fortunian Stage), which
+   is morphologically intermediate between Septuconularia yanjiaheensis and
+   Arthrochites. Furthermore, conulariids sensu stricto, carinachitids, and
+   hexangulaconulariids may constitute a monophyletic group united by
+   possession of an organic or organophosphatic periderm exhibiting
+   longitudinal (corner) sulci, a facial midline, and offset of transverse
+   ribs along the facial midline. UUID:
+   http://zoobank.org/01a972aa-aef3-4eef-a9a5-c2d8c3dda615
+C1 Han, Jian; Northwest Univ, Dept Geol, 229 Taibai Rd, Xian, Shaanxi,
+   710069, China, China.
+EM junfengg@chd.edu.cn
+OI Han, Jian/0000-0002-2134-4078
+SC Zoology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Palaearctic
+   region; Eurasia; Asia; China; Geological time periods; Palaeozoic
+DE Septuconularia [Cambrian /  / New genus]. 
+   Septuconularia yanjiaheensis [Hubei /  / new species] [Cambrian /  / ]. 
+TN Coelenterates; Invertebrates
+ST Animalia, Cnidaria
+OR Hexangulaconulariidae - He 1987 (Cnidaria): [Emended diagnosis, P. 48]. 
+   Septuconularia (Cnidaria): [Gen nov, Of family Hexangulaconulariidae,
+   Type species Septuconularia yanjiaheensis, p. 48, Cambrian; Fossil]. 
+   Septuconularia yanjiaheensis (Cnidaria): [Sp nov, Hubei, Cambrian, P.
+   50; Fossil]. 
+UT ZOOREC:ZOOR15602013116
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013117
+DT Article
+TI Solemyidae (Bivalvia, Protobranchia) from the lower Miocene of
+   south-central Chile, with description of a new species.
+AU Perez-Barria, Leonardo
+   Nielsen, Sven N. (leonardo.perez@museoschile.gob.cl) 
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 56-63
+PD Jan 2020
+PY 2020
+LA English
+U1 3
+U2 5
+AB The Miocene Solemyidae of Chile are revised. The holotype of Solemya
+   antarctica Philippi, 1887, originally described as Solenomya, is lost.
+   Due to the lack of information on internal characters, its systematic
+   position is considered as uncertain. A new species, Solemya lucifuga n.
+   sp., is described from the lower Miocene Ranquil Formation of
+   south-central Chile. Its dense radial external ornamentation shows that
+   it is clearly different from S. antarctica. It is currently the only
+   confirmed and described Miocene solemyid bivalve from the Southern
+   Hemisphere. UUID:
+   http://zoobank.org/a35ee02e-600b-4e9f-ad06-1887e9493ff8
+C1 Nielsen, Sven N.; Univ Austral Chile, Inst Ciencias Tierra, Valdivia,
+   Chile, Chile.
+EM leonardo.perez@museoschile.gob.cl
+RI Nielsen, Sven N/A-2187-2009
+OI Nielsen, Sven N/0000-0003-2064-8050
+SC Zoology; Paleontology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Land zones; Neotropical region;
+   South America; Geological time periods; Caenozoic; Tertiary; Neogene
+DE Solemya lucifuga [Chile /  / new species] [Miocene /  / ]. 
+   Solemyidae [Chile /  / taxonomic revision] [Miocene /  / ]. 
+TN Invertebrates; Molluscs
+ST Animalia, Mollusca, Bivalvia, Protobranchia, Solemyoida, Solemyoidea
+OR Solemya lucifuga (Solemyoidea): [Sp nov, Chile, Miocene, P. 59; Fossil].
+   
+   Solemyidae - Adams & Adams 1857 (Solemyoidea): [Fossil]. 
+UT ZOOREC:ZOOR15602013117
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013118
+DT Article
+TI An Ordovician nectocaridid hints at an endocochleate origin of
+   Cephalopoda.
+AU Smith, Martin R. (martin.smith@durham.ac.uk) 
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 64-69
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 7
+AB Nectocaridids are soft-bodied Cambrian organisms that have been
+   controversially interpreted as primitive cephalopods, at odds with the
+   long-held belief that these mollusks evolved from a shell-bearing
+   ancestor. Here, I document a new nectocaridid from the Whetstone Gulf
+   Formation, extending the group's range into the Late Ordovician.
+   Nectocotis rusmithi n. gen. n. sp. possesses a robust internal element
+   that resembles a non-mineralized phragmocone or gladius. Nectocaridids
+   can be accommodated in the cephalopod total group if the earliest
+   cephalopods (1) inherited a non-mineralized shell field from the
+   ancestral mollusk; and (2) internalized this shell field. This
+   evolutionary scenario would overturn the traditional ectocochleate,
+   Nautilus-like reconstruction of the ancestral cephalopod, and indicate a
+   trend towards increased metabolic efficiency through the course of
+   Cambrian-Ordovician evolution. UUID:
+   http://zoobank.org/ed594200-37b9-4642-bd8f-4fb72dc544eb
+C1 Smith, Martin R.; Durham Univ, Dept Earth Sci, Durham, DH1 3LE, United
+   Kingdom, United Kingdom.
+EM martin.smith@durham.ac.uk
+RI Smith, Martin Ross/B-8461-2012
+OI Smith, Martin Ross/0000-0001-5660-1727
+SC Zoology; Evolutionary Biology; Paleontology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Taxonomy; Evolution; Land zones;
+   Nearctic region; North America; USA; Geological time periods; Palaeozoic
+DE Cephalopoda [Evolution /  / Significance of new fossil taxon]. 
+   Nectocarididae [New York /  / new record; systematics] [Ordovician /  /
+   ]. 
+   Nectocotis [Ordovician /  / New genus]. 
+   Nectocotis rusmithi [New York /  / new species] [Ordovician /  / ]. 
+TN Invertebrates; Molluscs
+ST Animalia, Mollusca
+OR Nectocarididae - Conway Morris 1976 (Animalia): [Taxonomic position, P.
+   67; Fossil; New record]. 
+   Nectocotis (Animalia): [Gen nov, Of family Nectocarididae, Type species
+   Nectocotis rusmithi, p. 65, Ordovician; Fossil]. 
+   Nectocotis rusmithi (Animalia): [Sp nov, New York, Ordovician, P. 65;
+   Fossil]. 
+   Cephalopoda (Mollusca). 
+UT ZOOREC:ZOOR15602013118
+OA Green Accepted
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013120
+DT Article
+TI Species of the Devonian aulacopleurid trilobite Cyphaspides from
+   southeastern Morocco.
+AU Chatterton, Brian D.E. (brianchatterton@yahoo.com) 
+   Gibb, Stacey
+   McKellar, Ryan C.
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 99-114
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 1
+AB Three new species of Cyphaspides are proposed: C. ammari, C. nicoleae,
+   and C. pankowskiorum. These species are based on specimens obtained from
+   Middle Devonian (Eifelian) strata of the Bou Tchrafine Group, near
+   Erfoud, in the Province of Errachidia, southeastern Morocco. The present
+   contribution enhances our knowledge of Cyphaspides by providing details
+   of three new species that are based on well-preserved, complete, and
+   articulated types. The genus Cyphaspides is discussed, and an emended
+   diagnosis is provided. The paleobiogeography, ontogeny, and
+   relationships of the genus are discussed. UUID:
+   http://zoobank.org/4a7aab8f-8c8e-4498-9cc2-6f8c69b85213
+C1 Chatterton, Brian D.E.; Univ Alberta, Dept Earth & Atmospher Sci,
+   Edmonton, AB, T6G 0R2, Canada, Canada.
+EM brianchatterton@yahoo.com
+OI Chatterton, Brian/0000-0003-3043-0127
+SC Zoology; Developmental Biology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Diagnosis; Life cycle and
+   development; Zoogeography; Land zones; Palaearctic region; Africa;
+   Geological time periods; Palaeozoic
+DE Cyphaspides [Development / Ontogeny / systematics] [Zoogeography /
+   Palaeobiogeography / ] [Devonian /  / ]. 
+   Cyphaspides ammari; Cyphaspides nicoleae; Cyphaspides pankowskiorum
+   [Morocco /  / new species] [Devonian /  / ]. 
+TN Arthropods; Invertebrates; Trilobites
+ST Animalia, Arthropoda, Trilobitomorpha, Trilobita
+OR Cyphaspides - Novak 1890 (Trilobita): [Emended diagnosis, P. 103;
+   Fossil]. 
+   Cyphaspides ammari (Trilobita): [Sp nov, Morocco, Devonian, P. 104;
+   Fossil]. 
+   Cyphaspides nicoleae (Trilobita): [Sp nov, Morocco, Devonian, P. 110;
+   Fossil]. 
+   Cyphaspides pankowskiorum (Trilobita): [Sp nov, Morocco, Devonian, P.
+   112; Fossil]. 
+UT ZOOREC:ZOOR15602013120
+OA Other Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013121
+DT Article
+TI New rhenopyrgid edrioasteroids (Echinodermata) and their implications
+   for taxonomy, functional morphology, and paleoecology.
+AU Ewin, Timothy A.M. (T.ewin@nhm.ac.uk) 
+   Martin, Markus
+   Isotalo, Phillip
+   Zamora, Samuel
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 115-130
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 1
+AB Rhenopyrgids are rare, turreted edrioasterid edrioasteroids from the
+   lower Paleozoic with a distinctive and apparently conservative
+   morphology. However, new, well-preserved rhenopyrgid edrioasteroid
+   material from Canada, along with a review of described taxa, has
+   revealed broader structural diversity in the oral surface and enabled a
+   re-evaluation of rhenopyrgid functional morphology and paleoecology. The
+   floor plates in Rhenopyrgus viviani n. sp., R. coronaeformis Rievers,
+   1961 and, R. flos Klug et al., 2008 are well fused to each other and the
+   interradial oral plate and lack obvious sutures, thereby forming a
+   single compound interradial plate. This differs from other rhenopyrgids
+   where sutures are more apparent. Such fused oral surface construction is
+   only otherwise seen in some derived edrioblastoids and in the
+   cyathocystids, suggesting homoplasy. Our analysis further suggests that
+   the suboral constriction could contract but the flexible pyrgate zone
+   could not. Thus, specimens apparently lacking a sub-oral constriction
+   should not necessarily be placed in separate genera within the
+   Rhenopyrgidae. It also supports rhenopyrgids as epifaunal mud-stickers
+   with only the bulbous, textured, entire holdfasts (coriaceous sacs)
+   anchored within the substrate rather than as burrow dwellers or
+   encrusters. Rhenopyrgus viviani n. sp. is described from the Telychian
+   (lower Silurian) Jupiter Formation of Anticosti Island, Quebec, Canada
+   and is differentiated by a high degree of morphological variability of
+   pedunculate plates, broader oral plates, and narrower distal ambulacral
+   zones. Specimens lacking or with obscured diagnostic plates from the
+   Ordovician of Montagne Noire, France, and the Ordovician and Silurian of
+   Girvan, Scotland are also described. UUID:
+   http://zoobank.org/7f81d67f-4155-4719-8a45-b278ad70739d
+C1 Ewin, Timothy A.M.; Nat Hist Museum London, Cromwell Rd, London, SW7
+   5BD, United Kingdom, United Kingdom.
+EM T.ewin@nhm.ac.uk
+RI Ewin, Timothy A. M./AAU-8816-2020
+OI Ewin, Timothy A. M./0000-0002-0933-9954
+SC Zoology; Anatomy &Morphology; Environmental Sciences &Ecology;
+   Paleontology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Diagnosis; Skeletal and supporting
+   structures; Ecology; Fossilization; Land zones; Nearctic region; North
+   America; Canada; Geological time periods; Palaeozoic
+DE Rhenopyrgidae [Test /  / Functional morphology; systematics] [Ecology /
+   Palaeoecology / ] [Taphonomy /  / ] [Palaeozoic / Lower Palaeozoic / ]. 
+   Rhenopyrgus viviani [Quebec /  / new species] [Silurian /  / ]. 
+TN Echinoderms; Invertebrates
+ST Animalia, Echinodermata, Edrioasteroidea
+OR Rhenopyrgidae - Holloway & Jell 1983 (Edrioasteroidea): [Emended
+   diagnosis, P. 118; Fossil]. 
+   Rhenopyrgus - Dehm 1961 (Edrioasteroidea): [Emended diagnosis, P. 120;
+   Fossil]. 
+   Rhenopyrgus grayae - (Bather 1915) (Edrioasteroidea): [Emended
+   diagnosis, P. 122; Fossil]. 
+   Rhenopyrgus viviani (Edrioasteroidea): [Sp nov, Quebec, Silurian, P.
+   120; Fossil]. 
+UT ZOOREC:ZOOR15602013121
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013122
+DT Article
+TI Kalana Lagerstaette crinoids: Early Silurian (Llandovery) of central
+   Estonia.
+AU Ausich, William I. (ausich.1@osu.edu) 
+   Wilson, Mark A.
+   Tinn, Oive
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 131-144
+PD Jan 2020
+PY 2020
+LA English
+U1 4
+U2 5
+AB The Kalana Lagerstatte of early Aeronian (Llandovery, Silurian) age in
+   central Estonia preserves a diverse shallow marine biota dominated by
+   non-calcified algae. This soft-tissue flora and decalcified and
+   calcified crinoids are preserved in situ, in a lens of microlaminated,
+   dolomitized micrite interbedded in a sequence of dolomitized packstones
+   and wackestones. Although the Lagerstatte is dominated by non-calcified
+   algae, crinoids (together with brachiopods and gastropods) are among the
+   most common organisms that were originally comprised of a carbonate
+   skeleton. Two new crinoids are described from this unit, Kalanacrinus
+   mastikae n. gen. n. sp. (large camerate) and Tartucrinus kalanaensis n.
+   gen. n. sp. (small disparid). Interestingly, these two crinoids display
+   contrasting preservation, with the more common large camerate preserved
+   primarily as a decalcified organic residue, whereas the smaller disparid
+   is preserved primarily in calcite. Preservation was assessed using
+   elemental mapping of C, Ca, S, and Si. Columns have the highest portion
+   of Ca, once living soft tissue is indicated by C, S was dispersed as
+   pyrite or associated with organics, and Si is probably associated with
+   clay minerals in the matrix. This new fauna increases our understanding
+   of the crinoid radiation on Baltica following Late Ordovician
+   extinctions. UUID:
+   http://zoobank.org/fb1f98c4-d35a-43f4-aa0d-75e4f8154a13
+C1 Ausich, William I.; Ohio State Univ, Dept Geol Sci, 125 South Oval Mall,
+   Columbus, OH, 43210, USA, USA.
+EM ausich.1@osu.edu
+SC Paleontology; Zoology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Land zones; Palaearctic region;
+   Eurasia; Europe; Geological time periods; Palaeozoic
+DE Kalanacrinus; Tartucrinus [Silurian /  / New genus]. 
+   Kalanacrinus mastikae; Tartucrinus kalanaensis [Estonia /  / new
+   species] [Silurian /  / ]. 
+TN Echinoderms; Invertebrates
+ST Animalia, Echinodermata, Crinoidea
+OR Kalanacrinus (Crinoidea): [Gen nov, Of family Dimerocrinitidae, Type
+   species Kalanacrinus mastikae, p. 136, Silurian; Fossil]. 
+   Kalanacrinus mastikae (Crinoidea): [Sp nov, Estonia, Silurian, P. 138;
+   Fossil]. 
+   Tartucrinus (Crinoidea): [Gen nov, Of family Iocrinidae, Type species
+   Tartucrinus kalanaensis, p. 140, Silurian; Fossil]. 
+   Tartucrinus kalanaensis (Crinoidea): [Sp nov, Estonia, Silurian, P. 142;
+   Fossil]. 
+UT ZOOREC:ZOOR15602013122
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013124
+DT Article
+TI A new echimyid genus (Rodentia, Caviomorpha) in Central Argentina:
+   uncovered diversity of a Brazilian group of mammals in the Pleistocene.
+AU Candela, Adriana M. (acandela@fcnym.unlp.edu.ar) 
+   Cenizo, Marcos
+   Tassara, Daniel
+   Rasia, Luciano L.
+   Robinet, Celine
+   Munoz, Nahuel A.
+   Canon Valenzuela, Carola
+   Pardinas, Ulyses F.J.
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 165-179
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB We describe a new extinct spiny rat, Proclinodontomys dondasi n. gen. n.
+   sp. (Rodentia, Caviomorpha, Echimyidae), represented by a noteworthy
+   preserved skull and mandible from the early-middle Pleistocene outcrops
+   at the coastal cliffs of SE Buenos Aires Province (Central Argentina).
+   Phylogenetic analyses allow us to propose that the new species described
+   here and the already known Eurzygomatomys mordax (Winge) represent a new
+   genus closely related to the living Euryzygomatomys spinosus and Clyomys
+   laticeps. The new genus differs from Euryzygomatomys and Clyomys by
+   having much more procumbent upper incisors, a more developed fossa for
+   the M. temporalis, more flared and laterally expanded zygomatic arches,
+   frontal less markedly expanded posteriorly, jugals much deeper
+   anteriorly than posteriorly, with the dorsal border descending more
+   abruptly posteriorly, smaller orbital cavity, and external auditory
+   meatus relatively smaller and slanted upward and backward. Several
+   features of the new species reflect a higher degree of adaptation to
+   semifossorial habits than those of E. spinosus. The origin of the
+   semifossorial ecomorphotype within echimyids may have been triggered by
+   the expansion of relatively open and arid environments that arose near
+   the Miocene-Pliocene boundary. The record of this new echimyid in
+   Central Argentina indicates that during the early-middle Pleistocene,
+   the southern limit of the geographic range of extinct representatives of
+   the Brazilian lineage of semifossorial echimyids extended farther south
+   than that of their living members. UUID:
+   http://zoobank.org/c30ec1fe-4352-4867-a02f-e0d45c884bfe
+C1 Candela, Adriana M.; Museo La Plata, Div Paleontol, Paseo Bosque
+   S-N,B1900FWA, La Plata, Buenos Aires, Argentina, Argentina.
+EM acandela@fcnym.unlp.edu.ar
+RI Cenizo, Marcos/M-5144-2019
+OI Cenizo, Marcos/0000-0001-9301-0205; munoz, nahuel/0000-0001-8017-8949
+SC Zoology; Paleontology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Combination; Taxonomy; Taxonomic
+   position; Land zones; Neotropical region; South America; Geological time
+   periods; Caenozoic; Quaternary
+DE Proclinodontomys [Pleistocene /  / New genus]. 
+   Proclinodontomys dondasi [Argentina /  / new species] [Pleistocene /  /
+   ]. 
+TN Chordates; Mammals; Rodents; Vertebrates
+ST Animalia, Chordata, Vertebrata, Mammalia, Rodentia, Echimyidae
+OR Euryzygomatomys mordax - (Winge 1887) (Echimyidae): [Referred to, New
+   genus Proclinodontomys, p. 174]. 
+   Proclinodontomys (Echimyidae): [Gen nov, Of subfamily Eumysopinae, Type
+   species Proclinodontomys dondasi, p. 168, Pleistocene; Fossil]. 
+   Proclinodontomys dondasi (Echimyidae): [Sp nov, Argentina, Pleistocene,
+   P. 169; Fossil]. 
+   Proclinodontomys mordax - (Winge 1887) (Echimyidae): [Comb nov,
+   Transferred from Euryzygomatomys, p. 174; Fossil]. 
+UT ZOOREC:ZOOR15602013124
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013125
+DT Article
+TI Pinegopora chilensis, a new Permian bryozoan species of the Andean
+   bryozoan province in southwestern Gondwana.
+AU Carrera, Marcelo G. (mcarrera@unc.edu.ar) 
+   Sterren, Andrea F.
+   Cisterna, Gabriela A.
+   Niemeyer, Hans R.
+SO Journal of Paleontology
+VL 94
+IS 1
+PS 180-184
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 2
+C1 Carrera, Marcelo G.; Univ Nacl Cordoba, Fac Cs Exactas Fis & Nat,
+   X5016GCA, Cordoba, Argentina, Argentina.
+EM mcarrera@unc.edu.ar
+SC Zoology
+SN 0022-3360
+BD Systematics; Nomenclature; New taxa; Zoogeography; Land zones;
+   Neotropical region; South America; Geological time periods; Palaeozoic
+DE Bryozoa [Zoogeography / Palaeobiogeography / ] [Permian /  / ]. 
+   Pinegopora chilensis [Chile /  / new species] [Permian /  / ]. 
+TN Bryozoans; Invertebrates
+ST Animalia, Bryozoa
+OR Bryozoa (Animalia): [Fossil]. 
+   Pinegopora chilensis (Bryozoa): [Sp nov, Chile, Permian, P. 180;
+   Fossil]. 
+UT ZOOREC:ZOOR15602013125
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013714
+DT Article
+TI New species of Turbo (Marmarostoma) ( Gastropods, Turbinidae) from the
+   Miocene limestone in central Japan: a window into the Miocene marine
+   biodiversity in the northeastern Philippine Sea.
+AU Kase, Tomoki (neritopsis@gmail.com) 
+   Tomida, Susumu
+   Inoue, Keisuke
+   Kadota, Masahito
+SO Paleontological Research
+VL 24
+IS 1
+PS 14-25
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 2
+AB The late early to middle Miocene limestone bodies in the Sagara and Izu
+   Peninsula areas of central Japan are reefal deposits that were deposited
+   under a tropical climate and provide a window into the paleodiversity of
+   tropical volcanic islands in the northeastern Philippine Sea Plate.
+   Specimens from the early middle Miocene Megami Limestone in the Sagara
+   area and from the middle Miocene limestone blocks within the Yugashima
+   Group on the Izu Peninsula are described as Turbo (Marmarostoma)
+   histrioides sp. nov. and Turbo (Marmarostoma) i: uensis sp. nov.,
+   respectively. Discovery of these two new species raises the number of
+   Marmarostoma species from four to six in the Sagara and Izu Peninsula
+   areas, demonstrating that the subgenus was more diverse in the
+   northeastern Philippines Sea Plate during the middle Miocene than it is
+   today. In particular, there are double the number of Marmarostoma
+   species (four species) from the middle Miocene in the Izu Peninsula
+   compared with the modern fauna on the tropical islands of the
+   Izu-Ogasawara Arc. The highest richness of modern species of
+   Marmarostoma is found in the central Indo-West Pacific, where molecular
+   phylogenetic studies have suggested that the subgenus rapidly
+   diversified in the late Oligocene or early Miocene. Nevertheless,
+   Miocene species of this subgenus are sparse in the central IWP, being
+   incongruent to the diversity pattern expected from the molecular
+   studies. The findings reported herein provide an insight into the origin
+   of the central IPW biodiversity hotspot.
+C1 Kase, Tomoki; Kanagawa Univ, Dept Biol Sci, 2946 Tsuchiya, Hiratsuka,
+   Kanagawa, 2591293, Japan, Japan.
+EM neritopsis@gmail.com
+SC Zoology; Paleontology
+SN 1342-8144
+BD Systematics; Nomenclature; New taxa; Documentation; Publications;
+   Zoogeography; Land zones; Palaearctic region; Eurasia; Asia; Geological
+   time periods; Caenozoic; Tertiary; Neogene
+DE Turbo (Marmarostoma) [Checklists /  / ] [Zoogeography /
+   Palaeozoogeography / Systematics] [Japan /  / ] [Miocene /  / ] [ /  /
+   ]. 
+   Turbo (Marmarostoma) histrioides; Turbo (Marmarostoma) izuensis [Japan /
+    / new species] [Miocene /  / ]. 
+TN Invertebrates; Molluscs
+ST Animalia, Mollusca, Gastropoda, Prosobranchia, Archaeogastropoda,
+   Trochoidea
+OR Turbo (Marmarostoma) - Swainson 1829 (Trochoidea): [Fossil]. 
+   Turbo (Marmarostoma) histrioides (Trochoidea): [Sp nov, Japan, Miocene,
+   P. 17; Fossil]. 
+   Turbo (Marmarostoma) izuensis (Trochoidea): [Sp nov, Japan, Miocene, P.
+   20; Fossil]. 
+UT ZOOREC:ZOOR15602013714
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013715
+DT Article
+TI Graptolites from Silurian (Llandovery Series) sedimentary deposits
+   attributed to a forearc setting, Co To Formation, Co To archipelago,
+   northeast Vietnam.
+AU Saparin, Muhammad Aqqid
+   Williams, Mark (mri@le.ac.uk) 
+   Zalasiewicz, Jan
+   Komatsu, Toshifumi
+   Rushton, Adrian
+   Hung Dinh Doan
+   Ha Thai Trinh
+   Hung Nguyen
+   Minh Trung Nguyen
+   Vandenbroucke, Thijs R.A.
+SO Paleontological Research
+VL 24
+IS 1
+PS 26-40
+PD Jan 2020
+PY 2020
+LA English
+U1 1
+U2 2
+AB Newly collected graptolites from the Co To Formation, Co To archipelago,
+   NE Vietnam, comprise assemblages indicative of two biostratigraphical
+   levels within the lower Silurian, Llandovery Series, Telychian Stage:
+   the co-occurrence of Spirograptus turriculatus and Torquigraptus
+   proteus? suggests an interval most likely within the upper part of the
+   Spirograptus turriculatus Biozone or 'Monograptus' crispus Biozone,
+   whilst Oktavites spirally and Monoclimacis cf. suhgeinitzi identify the
+   Oktavites spiralis Biozone. The graptolites provide important
+   biostratigraphical evidence for the age of the upper part of the lower
+   Co To Formation, biostratigraphical ties between the NE Vietnamese
+   succession of the Bac Bo Region and graptolite assemblages of the Long
+   Dai Formation in the Viet-Lao Region of central Vietnam, and include the
+   new species Monograptus hanutlus sp. nov. co-occurring with S.
+   turriculatus, which is perhaps an ancestral form to the later Telychian
+   species Monograptus drepanoformis. We also report the lirst
+   chitinozoans, including Belonechitina, from the Co To Formation.
+C1 Williams, Mark; Univ Leicester, Sch Geog Geol & Environm, Leicester,
+   Leics, LE1 7RH, United Kingdom, United Kingdom.
+EM mri@le.ac.uk
+RI Vandenbroucke, Thijs R. A./B-7974-2009; Williams, Mark/B-7590-2009
+OI Vandenbroucke, Thijs R. A./0000-0002-8182-3708; Williams,
+   Mark/0000-0002-7987-6069
+SC Zoology; Paleontology; Environmental Sciences &Ecology
+SN 1342-8144
+BD Systematics; Nomenclature; New taxa; Ecology; Land zones; Oriental
+   region; Eurasia; Asia; Geological time periods; Palaeozoic
+DE Belonechitina; Chitinozoa [Vietnam / Co To Archipelago / new record]
+   [Silurian /  / ]. 
+   Graptolithina [Fossil assemblages /  / systematics] [Environmental
+   indicators / Palaeoenvironmental reconstruction / ] [Vietnam / Co To
+   Archipelago / stratigraphical distribution] [Silurian /  / ]. 
+   Monograptus hamulus [Vietnam /  / new species] [Silurian /  / ]. 
+TN Graptolites; Invertebrates; Protozoans
+ST Animalia, Graptolithina, Protozoa, Chitinozoa
+OR Graptolithina (Animalia): [Fossil]. 
+   Monograptus hamulus - Saparin, Zalasiewicz, Rushton & Williams 2020
+   (Graptolithina): [Sp nov, Vietnam, Silurian, P. 38; Fossil]. 
+   Chitinozoa (Protozoa): [Fossil; New record]. 
+   Belonechitina (Chitinozoa): [Fossil; New record]. 
+UT ZOOREC:ZOOR15602013715
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013716
+DT Article
+TI A new species of Nyanzachoerus ( Mammalia, Artiodactyla, Suidae,
+   Tetraconodontinae) from the upper Miocene Nakali Formation, Kenya.
+AU Tsubamoto, Takehisa (tsubamoto@sci.ehime-u.ac.jp) 
+   Kunimatsu, Yutaka
+   Sakai, Tetsuya
+   Saneyoshi, Mototaka
+   Shimizu, Daisuke
+   Morimoto, Naoki
+   Nakaya, Hideo
+   Handa, Naoto
+   Tanabe, Yoshiki
+   Manthi, Fredrick Kyalo
+   Nakatsukasa, Masato
+SO Paleontological Research
+VL 24
+IS 1
+PS 41-63
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB A new species of Nyanzachoerus (Mammalia, Artiodactyla, Suidae,
+   Tetraconodontinae), Nyanzachoerus nakaliensis, is described on the basis
+   of gnathodental specimens from the basal upper Miocene Nakali Formation
+   (ca. 10 Ma) of central Kenya. Ny. nakaliensis is characterized by a
+   lower crown height and relatively weaker furrows of the molars and
+   proportionally larger P3-P4 compared to M3 among the species of the
+   genus. It is the oldest and morphologically most primitive species of
+   the genus. It shows close morphological similarities of the dentition
+   with the Pliocene Asian tetraconodontine genus Sivachoerus, implying a
+   possible closer phyletic relationship of Sivachoerus prior with Ny.
+   nakaliensis rather than with Nyanzachoerus tulotos or Nyanzachoerus
+   devauxi. This phyletic relationship implies a possibility that S. prior
+   diverged from a stock of Ny. nakaliensis during the early late Miocene
+   (Tortonian) in East Africa and then the lineage moved from East Africa
+   to Asia. Finally, it should be stressed that there seems to be a problem
+   of the paraphyly of the genus Nyanzachoerus.
+C1 Tsubamoto, Takehisa; Ehime Univ, Grad Sch Sci & Engn, 2-5 Bunkyo Cho,
+   Matsuyama, Ehime, 7908577, Japan, Japan.
+EM tsubamoto@sci.ehime-u.ac.jp
+OI Handa, Naoto/0000-0003-2944-8725
+SC Zoology; Paleontology; Evolutionary Biology
+SN 1342-8144
+BD Systematics; Nomenclature; New taxa; Evolution; Ecology; Zoogeography;
+   Land zones; Afrotropical region; Africa; Geological time periods;
+   Caenozoic; Tertiary; Neogene
+DE Mammalia [Fossil assemblages /  / ] [Kenya / Nakali / faunal list]
+   [Miocene / Upper Miocene / ]. 
+   Nyanzachoerus [Phylogeny / Phylogeography / Systematics; oldest record]
+   [Zoogeography /  / ] [Kenya /  / ] [Miocene / Upper Miocene / ]. 
+   Nyanzachoerus nakaliensis [Kenya /  / new species] [Miocene /  / ]. 
+TN Chordates; Mammals; Ungulates; Vertebrates
+ST Animalia, Chordata, Vertebrata, Mammalia, Artiodactyla, Suidae
+OR Mammalia (Vertebrata): [Fossil]. 
+   Nyanzachoerus - Leakey 1958 (Suidae): [Fossil]. 
+   Nyanzachoerus nakaliensis (Suidae): [Sp nov, Kenya, Miocene, P. 46;
+   Fossil]. 
+UT ZOOREC:ZOOR15602013716
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15602013717
+DT Article
+TI Madygella humioi sp. nov. from the Upper Triassic Mine Group, southwest
+   Japan: the oldest record of a sawfly (Hymenoptera: Symphyta) in East
+   Asia.
+AU Oyama, Nozomu (716o.nonn@gmail.com) 
+   Maeda, Haruyoshi
+SO Paleontological Research
+VL 24
+IS 1
+PS 64-71
+PD Jan 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB A primitive sawfly, Madygella humioi sp. nov., belonging to the family
+   Xyelidae (Hymenoptera: Symphyta), is newly described from the Upper
+   Triassic Mine Group, Yamaguchi Prefecture, southwest Japan. The new
+   species differs from the five previously known Madygella species in
+   having a cell length of 1r plus 2r shorter than that of 3r+4r and a cell
+   height of 3r+4r lower than 2r plus pterostigma in a forewing. To date,
+   this is the oldest fossil record of sawflies in East Asia. Regarding
+   genus Madygella, this is the first example found outside of the Kyrgyz
+   Republic. This discovery provides an insight into the early evolution of
+   the order Hymenoptera and suggests a widespread distribution of the
+   pioneering genus Madygella during the Triassic period.
+C1 Oyama, Nozomu; Kyushu Univ, Grad Sch Sci, 744 Motooka, Fukuoka, Fukuoka,
+   8190395, Japan, Japan.
+EM 716o.nonn@gmail.com
+SC Zoology; Paleontology
+SN 1342-8144
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Palaearctic
+   region; Eurasia; Asia; Geological time periods; Mesozoic
+DE Madygella humioi [Japan /  / new species] [Triassic /  / ]. 
+   Symphyta [Asia / East / oldest record] [Triassic / Upper Triassic / ]. 
+TN Arthropods; Hymenopterans; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Hymenoptera, Symphyta, Xyeloidea,
+   Xyelidae
+OR Symphyta (Hymenoptera): [Fossil]. 
+   Madygella - Rasnitsyn 1969 (Xyelidae): [Diagnostic characters of
+   subordinate taxa, Forewing characters of selected species, p. 68;
+   Emended diagnosis, P. 66; Fossil]. 
+   Madygella humioi (Xyelidae): [Sp nov, Japan, Triassic, P. 66; Fossil]. 
+UT ZOOREC:ZOOR15602013717
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15601006179
+DT Article
+TI A new species of freshwater amphipod (Crustacea, Amphipoda, Hyalellidae)
+   from state of Rio Grande do Sul, Southern Brazil.
+AU Streck Marx, Morgan Tais
+   Castiglioni, Daniela da Silva (danielacastiglioni@yahoo.com.br) 
+SO Biota Neotropica
+VL 20
+IS 1
+PS e20190802
+PD 2020
+PY 2020
+LA English
+U1 0
+U2 0
+AB The current study describes a new species of Hyalella found in a natural
+   pond at the municipality of Palmeira das Missoes, located in the
+   northwestern region of state of Rio Grande do Sul, southern Brazil. The
+   new species differs from other species found in state of Rio Grande do
+   Sul (Hyalella bonariensis, H. castroi, H. kaigang, H. imbya, H.
+   georginae, H. gauchensis, H. montenegrinae and H. pampeana) in the type
+   and number of setae on uropods, on telson and on the inner face of
+   gnathopod 1. Besides, Hyalella palmeirensis is morphologically similar
+   to H. curvispina, especially in the shape and number of setae of
+   uropods. However, H. palmeirensis differs from H. curvispina in having
+   only two simple setae on telson, the inner face of gnathopod 1 with five
+   serrate setae and only the posterior distal margin with denticles in
+   comb-scales, and especially by the tubular sternal gills, present on
+   segments 3 to 7. These new records increase from 11 to 12 the number of
+   species known from state of Rio Grande do Sul.
+C1 Castiglioni, Daniela da Silva; Univ Fed Santa Maria, Lab Zool & Ecol, Av
+   Independencia 3751, Palmeira Das Missoes, RS, BR-98300000 BC, Brazil,
+   Brazil.
+EM danielacastiglioni@yahoo.com.br
+SC Zoology
+SN 1806-129X; 1676-0611
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Neotropical
+   region; South America
+DE Hyalella [Brazil / Rio Grande do Sul / Distribution; systematics]. 
+   Hyalella palmeirensis [Brazil /  / New species]. 
+TN Arthropods; Crustaceans; Invertebrates
+ST Animalia, Arthropoda, Crustacea, Malacostraca, Eumalacostraca,
+   Peracarida, Amphipoda
+OR Hyalella - S.I. Smith 1874 (Amphipoda): [Diagnostic characters of
+   subordinate taxa, Species from Rio Grande do Sul, Brazil, p. 10]. 
+   Hyalella palmeirensis (Amphipoda): [Sp nov, Brazil, P. 2]. 
+UT ZOOREC:ZOOR15601006179
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15601007191
+DT Article
+TI Water diversion induced changes in aquatic biodiversity in
+   monsoon-dominated rivers of Western Himalayas in Nepal: Implications for
+   environmental flows.
+AU Shah, Ram Devi Tachamo (ramdevi.env@gmail.com) 
+   Sharma, Subodh
+   Bharati, Luna
+SO Ecological Indicators
+VL 108
+PS 105735
+PD Jan 2020
+PY 2020
+LA English
+U1 3
+U2 19
+AB Water diversion projects across the world, for drinking water, energy
+   production and irrigation, have threatened riverine ecosystems and
+   organisms inhabiting those systems. However, the impacts of such
+   projects on aquatic biodiversity in monsoon-dominated river ecosystems
+   are little known, particularly in Nepal. This study examines the effects
+   of flow reduction due to water diversion projects on the
+   macroinvertebrate communities in the rivers of the Karnali and Mahakali
+   basins in the Western Himalayas in Nepal. Macroinvertebrates were
+   sampled during post-monsoon (November), baseflow (February) and
+   pre-monsoon (May) seasons during 2016 and 2017. Non-metric
+   Multidimensional Scaling (NMDS) was performed to visualize clustering of
+   sites according to percentage of water abstractions (extraction of water
+   for various uses) and Redundancy Analysis (RDA) was used to explore
+   environmental variables that explained variation in macroinvertebrate
+   community composition. A significant pattern of macroinvertebrates
+   across the water abstraction categories was only revealed for the
+   baseflow season. NMDS clustered sites into three clumps: "none to slight
+   water abstraction ( < 30% - Class 1)", "moderate water abstraction ( >
+   30% to < 80% - Class 2)" and "heavy water abstraction ( > 80% - Class
+   3)". The study also showed that water abstraction varied seasonally in
+   the region (Wilk's Lambda = 0.697, F(2, 28) = 4.215, P = 0.025,
+   n<sup>2</sup> = 0.23). The RDA plot indicated that taxa such as
+   Acentrella sp., Paragenetina sp., Hydropsyche sp., Glossosomatinae,
+   Elmidae, Orthocladiinae and Dimesiinae were rheophilic i.e. positively
+   correlated with water velocity. Taxa like Torleya sp., Caenis sp.,
+   Cinygmina sp., Choroterpes sp., Limonidae and Ceratopogoniidae were
+   found in sites with high proportion of pool sections and relative high
+   temperature induced by flow reduction among the sites. Indicator
+   taxonomic groups for Class 1, 2 and 3 water abstraction levels, measured
+   through high relative abundance values, were Trichoptera, Coleoptera,
+   Odonata and Lepidoptera, respectively. Macroinvertebrate abundance was
+   found to be the more sensitive metric than taxonomic richness in the
+   abstracted sites. It is important to understand the relationship between
+   flow alterations induced by water abstractions and changes in
+   macroinvertebrates composition in order to determine sustainable and
+   sound management strategies for river ecosystems.
+C1 Shah, Ram Devi Tachamo; Kathmandu Univ, Aquat Ecol Ctr, Dhulikhel,
+   Nepal, Nepal.
+EM ramdevi.env@gmail.com
+RI Tachamo, Ram Devi/AAA-8590-2019
+OI Tachamo, Ram Devi/0000-0002-1061-2903
+SC Zoology; Environmental Sciences &Ecology; Marine &Freshwater Biology
+SN 1470-160X
+BD Ecology; Habitat; Freshwater habitat; Lotic water; Abiotic factors; Land
+   zones; Oriental region; Eurasia; Asia
+DE Macroinvertebrata [Community structure / Biodiversity / benthon]
+   [Environmental indicators / Bioindicators / ] [River / Monsoon-dominated
+   rivers / ] [Abiotic factors / Water physico-chemical parameters / ]
+   [Nepal / Western Himalayas, Karnali & Mahakali basins / ]. 
+TN Invertebrates
+ST Animalia
+OR Macroinvertebrata (Animalia). 
+UT ZOOREC:ZOOR15601007191
+OA Bronze
+DA 2020-09-17
+ER
+
+EF

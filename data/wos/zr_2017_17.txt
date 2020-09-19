@@ -1,0 +1,1271 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN ZOOR15511071964
+DT Article
+TI Evidence of a marine Albian in Tiaret region (north-western Algeria):
+   new paleontological data, biostratigraphic and paleogeographic
+   implications.
+FT Mise en evidence d'un Albien marin a cephalopodes dans la region de
+   Tiaret (Algerie nord-occidentale) : nouvelles donnees paleontologiques,
+   implications biostratigraphiques et paleogeographiques.
+AU Boualem, Noureddine (boualem.noureddine@hotmail.fr) 
+   Benhamou, Miloud
+SO Revue de Paleobiologie
+VL 36
+IS 2
+PS 433-445
+PD 2017
+PY 2017
+LA French
+U1 0
+U2 0
+AB In the locality of Mcharref (Tiaret, Algeria northwest), an Upper Albian
+   (Lower Cretaceous) new fossiliferous deposit with cephalopods is
+   reported in the "Mcharref Formation". The deposit is composed of
+   marl-limestones, which contains a rich fauna of bivalves/oysters,
+   echinoids, gastropods, ostracods, benthic and planktic foraminifera.
+   Cephalopods occur in the lower member (ammonite's bed; level n[degree]
+   6). The study of ammonites allowed a precise biostratigraphic
+   assignment. The Mortoniceras pricei zone is identified on the basis of
+   the occurrence of the specimen of Elobiceras (craginites) sp. aff.
+   newtoni Spath, 1925. A palaeoenvironmental and palaeogeographic
+   interpretation is established by studying the different facies found in
+   this formation.
+C1 Boualem, Noureddine; Univ Oran 2 Mohamed Ben Ahmed, Fac Sci Terre &
+   Univers, BP 1015, El Mnaouer, Oran, 31000, Algeria, Algeria.
+EM boualem.noureddine@hotmail.fr
+SC Environmental Sciences &Ecology; Zoology; Marine &Freshwater Biology
+SN 0253-6730
+BD Ecology; Habitat; Abiotic factors; Zoogeography; Land zones; Palaearctic
+   region; Africa; Geological time periods; Mesozoic
+DE Bivalvia; Cephalopoda; Echinoidea; Foraminiferida; Gastropoda; Ostracoda
+   [Environmental indicators / Palaeoenvironmental indicators / ] [Marine
+   habitat /  / stratigraphical distribution] [Abiotic factors /
+   Palaeoenvironmental parameters / ] [Zoogeography / Palaeogeography / ]
+   [Algeria / Tiaret, Mcharref / ] [Cretaceous / Albian / ]. 
+TN Arthropods; Crustaceans; Echinoderms; Invertebrates; Molluscs;
+   Protozoans
+ST Animalia, Arthropoda, Crustacea, Echinodermata, Mollusca, Protozoa,
+   Sarcomastigophora, Sarcodina, Rhizopoda, Granuloreticulosea
+OR Ostracoda (Crustacea): [Fossil]. 
+   Echinoidea (Echinodermata): [Fossil]. 
+   Bivalvia (Mollusca): [Fossil]. 
+   Cephalopoda (Mollusca): [Fossil]. 
+   Gastropoda (Mollusca): [Fossil]. 
+   Foraminiferida (Granuloreticulosea): [Fossil]. 
+UT ZOOREC:ZOOR15511071964
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15502010112
+DT Article
+TI Genus transfer for the species Afrosmicronyx clavofulvus Hoffmann, 1962
+   (Curculionidae, Curculioninae), and biogeographic implications.
+AU Haran, Julien (julien.haran@cirad.fr) 
+SO Snudebiller
+VL 18
+PS 3pp.
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Afrosmicronyx clavofulvus Hoffmann, 1962 (Curculionidae, Curculioninae,
+   Smicronychini) from Tunisia is transferred from the genus Afrosmicronyx
+   to the genus Sharpia (comb. nov.). The genus Afrosmicronyx is thus
+   restricted in distribution to the Afrotropical region.
+C1 Haran, Julien; CIRAD, UMR CBGP, Montpellier, France, France.
+EM julien.haran@cirad.fr
+SC Zoology
+SN 1439-4650; 2197-036X
+BD Systematics; Nomenclature; Combination; Taxonomy; Taxonomic position;
+   Zoogeography
+DE Afrosmicronyx; Sharpia [Zoogeography / Biogeography / Systematics]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Curculionoidea,
+   Curculionidae
+OR Afrosmicronyx - Hustache 1935 (Curculionidae). 
+   Afrosmicronyx clavofulvus - Hoffmann 1962 (Curculionidae): [Referred to,
+   Sharpia, p. 3]. 
+   Sharpia - Tournier 1873 (Curculionidae). 
+   Sharpia clavofulvus - (Hoffmann 1962) (Curculionidae): [Comb nov,
+   Transferred from Afrosmicronyx, p. 3]. 
+UT ZOOREC:ZOOR15502010112
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15502010109
+DT Article
+TI Digital-Weevil-Determination for Curculionoidea of the West Palearctic:
+   Transalpina: Apionidae III - Kalcapiini, Oxystomatini (Oxystoma & black
+   species).
+FT Digital-Weevil-Determination der westpalaearktischen Curculionoidea:
+   Transalpina: Apionidae III - Kalcapiini, Oxystomatini (Oxystoma &
+   schwarze Arten).
+AU Stueben, P.E.
+   Bayer, Ch.
+   Bahr, F.
+   Sprick, P.
+   Braunert, C.
+   Behne, L.
+SO Snudebiller
+VL 18
+PS 63pp.
+PD 2017
+PY 2017
+LA English; German
+U1 0
+U2 0
+AB In the framework of the 'Digital Weevil Determination' project a digital
+   and interactive determination work for the tribes Kalcapiini,
+   Oxystomatini (Oxystoma & black species) (Apionidae part III) is
+   presented for the first time as a pictorial key in both English and
+   German. In case of doubt regarding the colour (elytra black or blue) in
+   Oxystomatini, these species are considered twice in the following
+   pictorial key (see SNUDEBILLER 19/2018: Apionidae IV). 64 species of the
+   West Palaearctic region "Transalpina" - the zoogeographical region north
+   of the Alps, the Pyrenees and the Balkan mountains (the eastern
+   delimitation is orientated approximately along the eastern borderlines
+   of the EU members) [Fig. Transalpina] - were taken into account.
+   Information in the key is depicted visually and it is also - more
+   traditionally - 'translated' into text. Thus, we follow a basic
+   principle of modern entomological and taxonomical work: to see by
+   light-optical microscope exactly what the digital image is displaying on
+   the screen. We suggest that Apion serpyllicola Wencker, 1864 is a
+   synonym of Squamapion minutissimum (Rosenhauer, 1856) based on
+   morphological assessments. Information on distribution, host plants and
+   data on the general biology of the Kalcapiini und Oxystomatini complete
+   this work.
+SC Zoology
+SN 1439-4650; 2197-036X
+BD Systematics; Nomenclature; Synonymy; Taxonomy; Key; Land zones
+DE Apionidae [Palaearctic region / West Palaearctic, Transalpina / Key to
+   tribes]. 
+   Kalcapiini; Oxystomatini [Palaearctic region / West Palaearctic,
+   Transalpina / Key to genera & species] [ /  / Biology; distribution;
+   systematics]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Curculionoidea,
+   Apionidae
+OR Apionidae (Curculionoidea): [Key to tribes, Palaearctic region, West
+   Palaearctic, Transalpina, P. 1]. 
+   Kalcapiini - Alonso-Zarazaga 1990 (Apionidae): [Key to genera,
+   Palaearctic region, West Palaearctic, Transalpina, P. 2; Key to species,
+   Palaearctic region, West Palaearctic, Transalpina, P. 2]. 
+   Oxystomatini - Alonso-Zarazaga 1990 (Apionidae): [Key to genera,
+   Palaearctic region, West Palaearctic, Transalpina, P. 5; Key to species,
+   Palaearctic region, West Palaearctic, Transalpina, P. 5]. 
+   Squamapion minutissimum - (Rosenhauer 1856) (Apionidae): [Syn nov, Apion
+   serpyllicola Wencker 1864, p. 3]. 
+UT ZOOREC:ZOOR15502010109
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15502010108
+DT Article
+TI New nomenclatural and taxonomic acts, and Comments (2016/2017).
+AU Stueben, Peter E. (P.Stueben@t-online.de) 
+SO Snudebiller
+VL 18
+PS 16pp.
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB A. New synonyms: Caulotrupis subnitidus Wollaston, 1860 syn nov (=
+   Caulotrupis lacertosus Wollaston, 1854); Caulotrupis terebrans
+   Wollaston, 1854 syn. nov. (= Caulotrupis impius Wollaston, 1854);
+   Rhopalomesites palmi Folwaczny, 1979 syn. nov. (= Rhopalomesites
+   euphorbiae (Wolla s- ton, 1854). B. Changes in rank: Madeiracalles te r
+   minalis tolpis (Stuben, 2002) stat. nov. ( M. tolpis downgraded to
+   subspecies status); Kalcapion sagittiferum (Wollaston, 1854) stat. nov.
+   ( K. semivittatum sagittiferum (Wo llaston, 1854) upgraded to species
+   status); Kalcapion fortunatum (Roudier, 1963) stat. nov . ( K.
+   semivittatum fortunatum (Roudier, 1963) upgraded to species status). C.
+   Designation of lectotypes: Pachytychius robustus (Wollaston, 1854)
+   (Tychius), Rhopalomes ites maderensis (Wollaston, 1854) (Mesites),
+   Kalcapion semivittatum sagittiferum (Wollaston, 1854) ( Apion
+   sagittiferum ); Caulotrupis chevrolati Wollaston, 1854; Caulotrupis
+   conicollis Wollaston, 1854; Caulotrupis impius Wollaston, 1854;
+   Caulotrupis lacerto sus Wollaston, 1854; Caulotrupis lucifugus
+   Wollaston, 1854; Caulotrupis opacus Wollaston, 1854; Caulotrupis
+   pyricollis Wollaston, 1871; Caulotrupis subnitidus Wollaston, 1860;
+   Caulotrupis terebrans Wollaston, 1854; Leipommata calcarata Wollaston,
+   1857. The designations of lectotypes of the Caulotrupis species are
+   undertaken with regard to a revision of the genus Caulotrupis Wollaston,
+   1854, from the Madeira archipelago.
+C1 Stueben, Peter E.; CURCULIO-Institute, Hauweg 62, D-41066
+   Moenchengladbach, Germany, Germany.
+EM P.Stueben@t-online.de
+SC Zoology
+SN 1439-4650; 2197-036X
+BD Systematics; Nomenclature; Type material; Synonymy; Taxonomy; Status
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Curculionoidea,
+   Apionidae, Curculionidae, Nanophyidae
+OR Apion sagittiferum - Wollaston 1854 (Apionidae): [Lectotype designated,
+   P. 4]. 
+   Kalcapion fortunatum - (Roudier 1963) (Apionidae): [Raised from,
+   Kalcapion semivittatum fortunatum, p. 3]. 
+   Kalcapion sagittiferum - (Wollaston 1854) (Apionidae): [Raised from,
+   Kalcapion semivittatum sagittiferum, p. 2]. 
+   Kalcapion semivittatum fortunatum - (Roudier 1963) (Apionidae): [Raised
+   to, Kalcapion fortunatum, p. 3]. 
+   Kalcapion semivittatum sagittiferum - (Wollaston 1854) (Apionidae):
+   [Raised to, Kalcapion sagittiferum, p. 2]. 
+   Caulotrupis chevrolati - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 4]. 
+   Caulotrupis conicollis - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 4]. 
+   Caulotrupis impius - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 4; Syn nov, Caulotrupis terebrans Wollaston 1854, p. 2]. 
+   Caulotrupis lacertosus - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 5; Syn nov, Caulotrupis subnitidus Wollaston 1860, p. 1].
+   
+   Caulotrupis lucifugus - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 5]. 
+   Caulotrupis opacus - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 5]. 
+   Caulotrupis pyricollis - Wollaston 1871 (Curculionidae): [Lectotype
+   designated, P. 5]. 
+   Caulotrupis subnitidus - Wollaston 1860 (Curculionidae): [Lectotype
+   designated, P. 5]. 
+   Caulotrupis terebrans - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 5]. 
+   Cleonus lunulatus - Wollaston 1864 (Curculionidae): [Lectotype
+   designated, P. 3]. 
+   Leipommata calcarata - Wollaston 1857 (Curculionidae): [Lectotype
+   designated, P. 4]. 
+   Madeiracalles terminalis tolpis - (Stueben 2002) (Curculionidae):
+   [Downgraded from, Madeiracalles tolpis, p. 2]. 
+   Madeiracalles tolpis - (Stueben 2002) (Curculionidae): [Downgraded to,
+   Madeiracalles terminalis tolpis, p. 2]. 
+   Mesites maderensis - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 3]. 
+   Rhopalomesites euphorbiae - (Wollaston 1854) (Curculionidae): [Syn nov,
+   Rhopalomesites palmi Folwaczny 1979, p. 2]. 
+   Tychius robustus - Wollaston 1854 (Curculionidae): [Lectotype
+   designated, P. 3]. 
+   Nanophyes lunulatus - Wollaston 1863 (Nanophyidae): [Lectotype
+   designated, P. 3]. 
+UT ZOOREC:ZOOR15502010108
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15504019484
+DT Article
+TI The genus Sphaerocypraea (Schilder, 1927) (Mollusca, Cypraeoidea) in the
+   Eocene of Vicentinian area (NE Italy).
+FT Il genere Sphaerocypraea (schilder, 1927) (mollusca, Cypraeoidea)
+   nell'eocene del vicentino (italia nord-orientale).
+AU Checchi, Andrea (checchiand@gmail.com) 
+   Zamberlan, Fiorenzo
+SO Studi e Ricerche Associazione Amici Museo Civico "G. Zannato" Montecchio
+   Maggiore (VI)
+VL 24
+PS 5-17
+PD 2017
+PY 2017
+LA Italian
+U1 0
+U2 0
+AB Five specimens of Cypraeoidea belonging to the genus Sphaerocypraea
+   (Schilder, 1927) are described from the Eocene of the Vicentinian area,
+   with the description of three new species: Sphaerocypraea parvula sp.
+   nov. and Sphaerocypraea lessinea sp. nov. from the uppermost Ypresian /
+   basal Lutetian of "Rossi Quarry" of Monte di Malo (Vicenza) and
+   Sphaerocypraea conternoi sp. nov. from the Lutetian of "Albanello
+   Quarry" of Nogarole Vicentino (Vicenza). The presence of the genus
+   Sphaerocypraea (Schilder, 1927) in the Vicenza area is also
+   reconsidered.
+C1 Checchi, Andrea; Associaz Amici Museo Zannato, Piazza Marconi 17,
+   Montecchio Maggiore, Vicenza, I-36075, Italy, Italy.
+EM checchiand@gmail.com
+SC Zoology
+SN 1127-3100
+BD Systematics; Nomenclature; New taxa; Land zones; Palaearctic region;
+   Eurasia; Europe; Geological time periods; Caenozoic; Tertiary;
+   Palaeogene
+DE Sphaerocypraea [Italy / Vicenza / biology; distribution; systematics]
+   [Eocene /  / ]. 
+   Sphaerocypraea conternoi; Sphaerocypraea lessinea; Sphaerocypraea
+   parvula [Italy /  / new species] [Eocene /  / ]. 
+TN Invertebrates; Molluscs
+ST Animalia, Mollusca, Gastropoda, Prosobranchia, Mesogastropoda,
+   Cypraeoidea
+OR Sphaerocypraea - Schilder 1927 (Cypraeoidea): [Fossil]. 
+   Sphaerocypraea conternoi (Cypraeoidea): [Sp nov, Italy, Eocene, P. 7;
+   Fossil]. 
+   Sphaerocypraea lessinea (Cypraeoidea): [Sp nov, Italy, Eocene, P. 8;
+   Fossil]. 
+   Sphaerocypraea parvula (Cypraeoidea): [Sp nov, Italy, Eocene, P. 7;
+   Fossil]. 
+UT ZOOREC:ZOOR15504019484
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15504019486
+DT Article
+TI The Aethridae (Crustacea, Decapoda, Brachyura) from the Tertiary of
+   Veneto (NE Italy), with description of a new species.
+FT Gli Aethridae (crustacea, Decapoda, Brachyura) nel terziario del Veneto
+   (italia nordorientale) con descrizione di una nuova specie.
+AU Beschin, Claudio (beschin.cl@libero.it) 
+   De Angeli, Antonio
+SO Studi e Ricerche Associazione Amici Museo Civico "G. Zannato" Montecchio
+   Maggiore (VI)
+VL 24
+PS 23-30
+PD 2017
+PY 2017
+LA Italian
+U1 0
+U2 0
+AB Eohepatella plana n. gen., n. sp. (Crustacea, Decapoda, Brachyura) from
+   the Middle Eocene of "Main" quarry at Arzignano (Vicenza) is described.
+   The crabs of the family Aethridae from Eocene of the Venetian region are
+   also considered. The known species are: Hepatiscus neumayri Bittner,
+   1875, H. pukhellus Bittner, 1875, Mainhepatiscus zannatoi De Angeli &
+   Beschin, 1999, Osachila berica De Angeli & Beschin, 1999, Priabonella
+   violatii Beschin, De Angeli, Checchi & Mietto, 2006, Pseudohepatiscus
+   minimus (Beschin, Busulini, De Angeli & Tessier, 1994), and
+   Pseudohepatiscus silvanoi De Angeli & Beschin, 1999.
+C1 Beschin, Claudio; Assoc Amici Museo Zannato, Piazza Marconi 17,
+   Montecchio Maggiore, Vicenza, I-36075, Italy, Italy.
+EM beschin.cl@libero.it
+SC Paleontology; Zoology
+SN 1127-3100
+BD Systematics; Nomenclature; New taxa; Ecology; Land zones; Palaearctic
+   region; Eurasia; Europe; Geological time periods; Caenozoic; Tertiary;
+   Palaeogene
+DE Aethridae [Fossil assemblages /  / Systematics] [Italy / Veneto /
+   biology; distribution; faunal list] [Tertiary /  / ]. 
+   Eohepatella [Eocene /  / New genus]. 
+   Eohepatella plana [Italy /  / new species] [Eocene /  / ]. 
+TN Arthropods; Crustaceans; Invertebrates
+ST Animalia, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida,
+   Decapoda, Reptantia, Brachyura
+OR Aethridae (Brachyura): [Fossil]. 
+   Eohepatella (Brachyura): [Gen nov, Of family Aethridae, Type species
+   Eohepatella plana, p. 24, Eocene; Fossil]. 
+   Eohepatella plana (Brachyura): [Sp nov, Italy, Eocene, P. 24; Fossil]. 
+UT ZOOREC:ZOOR15504019486
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15506032677
+DT Article
+TI Revision of the tribe Caenoculini (Insecta: Ephemeroptera: Caenidae) and
+   its position within the Brachycercinae.
+AU Malzacher, Peter (malzacher.lb@t-online.de) 
+   Sangpradub, Narumon
+SO Stuttgarter Beitraege zur Naturkunde Serie A (Biologie)
+VL 10
+PS 1-17
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 1
+AB The tribe Caenoculini Sun & McCafferty, 2008 is revised, now including
+   the genera Caenoculis Soldan, 1986, and Tigrocercus Malzacher, 2006.
+   Improved diagnoses of these two genera are given. Caenoculis dangi
+   Soldan, 1986 is transferred to the genus Tigrocercus and Tigrocercus
+   nastassjae Malzacher, 2013 to the genus Caenoculis. Caenoculis acutalis
+   Zhou, Sun & Mccafferty, 2003 is regarded as representative of a separate
+   genus Brachoculis n.gen. A diagnosis of the new genus is given.
+   Relationships within the Brachycercinae are discussed.
+C1 Malzacher, Peter; Friedrich Ebert Str 63, Ludwigsburg, D-71638, Germany,
+   Germany.
+EM malzacher.lb@t-online.de
+SC Anatomy &Morphology; Zoology
+SN 0341-0145
+BD Systematics; Nomenclature; New taxa; Type genus; Type species;
+   Diagnosis; Combination; Taxonomy; Taxonomic position; General morphology
+DE Caenoculis [General morphology /  / Larva]. 
+TN Arthropods; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Ephemeroptera
+OR Brachoculis (Ephemeroptera): [Gen nov, Of tribe Caenoculini, Type
+   species Caenoculis acutalis Zhou Sun & Mccafferty 2003, p. 15]. 
+   Brachoculis acutalis - (Zhou Sun & Mccafferty 2003) (Ephemeroptera):
+   [Comb nov, Transferred from Caenoculis, p. 15]. 
+   Caenoculini - Sun & McCafferty 2008 (Ephemeroptera): [Systematics, P.
+   1]. 
+   Caenoculis - Soldan 1986 (Ephemeroptera): [Emended diagnosis, P. 2]. 
+   Caenoculis acutalis - Zhou Sun & Mccafferty 2003 (Ephemeroptera):
+   [Designated type species for new genus, Brachoculis, p. 15]. 
+   Caenoculis dangi - Soldan 1986 (Ephemeroptera): [Referred to,
+   Tigrocercus, p. 10]. 
+   Niandancini (Ephemeroptera): [Tribe nov, Of subfamily Brachycercinae,
+   Type genus Niandancus Malzacher 2009, p. 17]. 
+   Niandancus - Malzacher 2009 (Ephemeroptera): [Designated type genus for
+   new tribe, Niandancini, p. 17]. 
+   Tigrocercus - Malzacher in Malzacher & Staniczek 2006 (Ephemeroptera):
+   [Emended diagnosis, P. 9]. 
+   Tigrocercus dangi - (Soldan 1986) (Ephemeroptera): [Diagnostic
+   characters, P. 14; Comb nov, Transferred from Caenoculis, p. 10]. 
+UT ZOOREC:ZOOR15506032677
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15506032680
+DT Article
+TI New and little known species of Tenebrionidae (Coleoptera) from Borneo
+   (7).
+AU Grimm, Roland (grimm.tenebrio@t-online.de) 
+SO Stuttgarter Beitraege zur Naturkunde Serie A (Biologie)
+VL 10
+PS 175-180
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB The following new species from Malaysia/Borneo are described:
+   Microbolitonaeus loebli n.sp., Thesilea bosuangi n.sp., and T.
+   convexicollis n.sp. New combination: Zophophilus bosuangi (Grimm, 2016)
+   n.comb. = Promethis bosuangi Grimm, 2016. The male of Ceropria
+   speciosissima Gebien, 1914 is described. Platydema becvari Schawaller,
+   2004 is recorded for the first time from Borneo. New faunistic data of
+   five further species are added.
+C1 Grimm, Roland; Unterer Sagerweg 74, Neuenburg, D-75305, Germany,
+   Germany.
+EM grimm.tenebrio@t-online.de
+SC Zoology
+SN 0341-0145
+BD Systematics; Nomenclature; New taxa; Diagnosis; Description;
+   Combination; Taxonomy; Taxonomic position; Land zones; Oriental region;
+   Palaearctic region; Eurasia; Asia
+DE Cryptobrachys crassecostatus; Platydema becvari [Malaysia / Sarawak /
+   New record]. 
+   Microbolitonaeus loebli; Thesilea bosuangi; Thesilea convexicollis
+   [Malaysia /  / New species]. 
+   Platydema saundersi [Asia / Borneo / New record]. 
+   Tenebrionidae [Asia / Borneo / Distribution; new record; systematics]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Tenebrionoidea,
+   Tenebrionidae
+OR Tenebrionidae (Tenebrionoidea): [New record]. 
+   Ceropria speciosissima - Gebien 1914 (Tenebrionidae): [First time
+   described, Male, p. 176]. 
+   Cryptobrachys crassecostatus (Tenebrionidae): [New record]. 
+   Microbolitonaeus armatus - Grimm 2014 (Tenebrionidae): [Diagnostic
+   characters, P. 176]. 
+   Microbolitonaeus loebli (Tenebrionidae): [Sp nov, Malaysia, P. 175]. 
+   Platydema becvari (Tenebrionidae): [New record]. 
+   Platydema saundersi (Tenebrionidae): [New record]. 
+   Promethis bosuangi - Grimm 2016 (Tenebrionidae): [Referred to,
+   Zophophilus, p. 180]. 
+   Thesilea bosuangi (Tenebrionidae): [Sp nov, Malaysia, P. 177]. 
+   Thesilea chrysoptera - Kulzer 1951 (Tenebrionidae): [Diagnostic
+   characters, P. 177]. 
+   Thesilea convexicollis (Tenebrionidae): [Sp nov, Malaysia, P. 178]. 
+   Zophophilus bosuangi - (Grimm 2016) (Tenebrionidae): [Comb nov,
+   Transferred from Promethis, p. 180]. 
+UT ZOOREC:ZOOR15506032680
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15506032681
+DT Article
+TI Two new species of Ceropria Laporte & Brulle from West Malaysia and
+   Sumatra (Coleoptera: Tenebrionidae: Diaperini).
+AU Grimm, Roland (grimm.tenebrio@t-online.de) 
+SO Stuttgarter Beitraege zur Naturkunde Serie A (Biologie)
+VL 10
+PS 181-183
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Ceropria adelpha n.sp. from West Malaysia and C. foveata n.sp. from
+   Sumatra are described, illustrated, and compared with the similar
+   species C. speciosissima Gebien, 1914. The male of C. adelpha is
+   distinguished by different shape of elytral mucro and aedeagus,
+   different structure of last abdominal ventrite, and densely punctured
+   elytral striae. The female is unknown. C. foveata is known only from the
+   female, but the species is readily identifiable by foveate outer
+   punctural rows of elytra.
+C1 Grimm, Roland; Unterer Sagerweg 74, Neuenburg, D-75305, Germany,
+   Germany.
+EM grimm.tenebrio@t-online.de
+SC Zoology
+SN 0341-0145
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Oriental
+   region; Eurasia; Asia
+DE Ceropria adelpha [Malaysia /  / New species]. 
+   Ceropria foveata [Indonesia /  / New species]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Tenebrionoidea,
+   Tenebrionidae
+OR Ceropria adelpha (Tenebrionidae): [Sp nov, Malaysia, P. 181]. 
+   Ceropria foveata (Tenebrionidae): [Sp nov, Indonesia, P. 182]. 
+   Ceropria speciosissima - Gebien 1914 (Tenebrionidae): [Diagnostic
+   characters, P. 182]. 
+UT ZOOREC:ZOOR15506032681
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15506032682
+DT Article
+TI Leaf beetles of the tribe Cryptocephalini (Coleoptera: Chrysomelidae:
+   Cryptocephalinae) from Borneo.
+AU Medvedev, Lev (lev.n.medvedev@mail.ru) 
+   Romantsov, Pavel
+SO Stuttgarter Beitraege zur Naturkunde Serie A (Biologie)
+VL 10
+PS 185-201
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 3
+AB Twelve species of Bornean Cryptocephalini are described as new for
+   science: Coenobius matangi n.sp., C. sabahensis n.sp., C. sarawacensis
+   n.sp., C. schawalleri n.sp., Cryptocephalus borneoensis n.sp., Cr.
+   geiseri n.sp., Cr. klimenkoi n.sp., Cr. nigrofulvus n.sp., Cr.
+   nitidicornis n.sp., Cr. sepilocus n.sp., Cr. subcostipennis n.sp., and
+   Cr. subserricornis n.sp. The genus Bucharis Baly, 1865 is recorded from
+   Borneo for the first time. Cryptocephalus moultoni Bryant, 1954 is
+   transferred to the genus Melixanthus Suffrian, 1854. New replacement
+   names are proposed: Coenobius weiseanus nom. nov. for C. basalis Weise,
+   1913, and C. pici nom. nov. for C. bicolor Pic, 1943. Keys for all
+   species of Bornean Cryptocephalini are given.
+C1 Medvedev, Lev; Severtsov Inst Problems Ecol & Evolut, Leninsky Prospect
+   33, Moscow, 119071, Russia, Russia.
+EM lev.n.medvedev@mail.ru
+SC Zoology
+SN 0341-0145
+BD Systematics; Nomenclature; New taxa; Available name; Taxonomy; Key; Land
+   zones; Oriental region; Palaearctic region; Eurasia; Asia
+DE Coenobius; Cryptocephalus; Melixanthus [Asia / Borneo / Key to species].
+   
+   Coenobius matangi; Coenobius sabahensis; Coenobius sarawacensis;
+   Coenobius schawalleri; Cryptocephalus borneoensis; Cryptocephalus
+   geiseri; Cryptocephalus klimenkoi; Cryptocephalus nigrofulvus;
+   Cryptocephalus nitidicornis; Cryptocephalus sepilocus; Cryptocephalus
+   subserricornis [Malaysia /  / New species]. 
+   Cryptocephalinae [Asia / Borneo / Key to genera]. 
+   Cryptocephalus subcostipennis [Indonesia /  / New species]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Chrysomeloidea,
+   Chrysomelidae
+OR Adiscus - Gistl 1857 (Chrysomelidae): [Key to species, P. 198]. 
+   Coenobius - Suffrian 1857 (Chrysomelidae): [Key to species, Asia,
+   Borneo, P. 198]. 
+   Coenobius basalis - Weise 1913 (Chrysomelidae): [Preoccupied name
+   replaced by, Coenobius weiseanus, p. 188]. 
+   Coenobius matangi (Chrysomelidae): [Sp nov, Malaysia, P. 187]. 
+   Coenobius sabahensis (Chrysomelidae): [Sp nov, Malaysia, P. 187]. 
+   Coenobius sarawacensis (Chrysomelidae): [Sp nov, Malaysia, P. 187]. 
+   Coenobius schawalleri (Chrysomelidae): [Sp nov, Malaysia, P. 187]. 
+   Coenobius weiseanus (Chrysomelidae): [Nom nov, For Coenobius basalis
+   Weise 1913, p. 188]. 
+   Cryptocephalinae - Gyllenhal 1813 (Chrysomelidae): [Key to genera, Asia,
+   Borneo, P. 198]. 
+   Cryptocephalus - Geoffroy 1762 (Chrysomelidae): [Key to species, Asia,
+   Borneo, P. 200]. 
+   Cryptocephalus borneoensis (Chrysomelidae): [Sp nov, Malaysia, P. 188]. 
+   Cryptocephalus geiseri (Chrysomelidae): [Sp nov, Malaysia, P. 189]. 
+   Cryptocephalus klimenkoi (Chrysomelidae): [Sp nov, Malaysia, P. 189]. 
+   Cryptocephalus nigrofulvus (Chrysomelidae): [Sp nov, Malaysia, P. 190]. 
+   Cryptocephalus nitidicornis (Chrysomelidae): [Sp nov, Malaysia, P. 190].
+   
+   Cryptocephalus sepilocus (Chrysomelidae): [Sp nov, Malaysia, P. 197]. 
+   Cryptocephalus subcostipennis (Chrysomelidae): [Sp nov, Indonesia, P.
+   197]. 
+   Cryptocephalus subserricornis (Chrysomelidae): [Sp nov, Malaysia, P.
+   197]. 
+   Melixanthus - Suffrian 1854 (Chrysomelidae): [Key to species, Asia,
+   Borneo, P. 199]. 
+UT ZOOREC:ZOOR15506032682
+OA Bronze
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15608061205
+DT Article
+TI New species of the genus Tmesisternus from New Guinea and the Maluku
+   Islands (Coleoptera: Cerambycidae, Laminae, Tmesisternini).
+AU Withaar, Gerrit (g.withaar@hetnet.nl) 
+SO Suara Serangga Papua
+VL 10
+IS 2
+PS 42-53
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Eight new species in the genus Tmesisternus Latreille, 1829 have been
+   identified. Three of the new species are found in Papua New Guinea, four
+   in Papua, Indonesia and one in the Maluku Islands. The species are
+   described and a comparison is made between some similar species. The
+   habitus of the holotypes and male genital drawings are depicted.
+C1 Withaar, Gerrit; Meidoornstr 20, Stadskanaal, NL-9501 VZ, Netherlands,
+   Netherlands.
+EM g.withaar@hetnet.nl
+SC Zoology
+SN 1978-9807
+BD Systematics; Nomenclature; New taxa; Land zones; Australasian region;
+   Oriental region; Eurasia; Asia; Australasia
+DE Tmesisternus araucarius; Tmesisternus ellenae; Tmesisternus nielsius;
+   Tmesisternus wajaus [Indonesia /  / New species]. 
+   Tmesisternus bosavius; Tmesisternus burgersi; Tmesisternus carlae;
+   Tmesisternus ingeae [Papua New Guinea /  / New species]. 
+TN Arthropods; Beetles; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Coleoptera, Polyphaga, Chrysomeloidea,
+   Cerambycidae
+OR Tmesisternus araucarius (Cerambycidae): [Sp nov, Indonesia, P. 43]. 
+   Tmesisternus bosavius (Cerambycidae): [Sp nov, Papua New Guinea, P. 44].
+   
+   Tmesisternus burgersi (Cerambycidae): [Sp nov, Papua New Guinea, P. 45].
+   
+   Tmesisternus carlae (Cerambycidae): [Sp nov, Papua New Guinea, P. 42]. 
+   Tmesisternus ellenae (Cerambycidae): [Sp nov, Indonesia, P. 46]. 
+   Tmesisternus ingeae (Cerambycidae): [Sp nov, Papua New Guinea, P. 46]. 
+   Tmesisternus nielsius (Cerambycidae): [Sp nov, Indonesia, P. 47]. 
+   Tmesisternus wajaus (Cerambycidae): [Sp nov, Indonesia, P. 48]. 
+UT ZOOREC:ZOOR15608061205
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15608061208
+DT Article
+TI Notes on Graphium eurypylus Linnaeus, 1758 (Lepidoptera: Papilionidae)
+   with descriptions of two new subspecies from Papua, Indonesia.
+AU Goode, Mark (markrg68@gmail.com) 
+SO Suara Serangga Papua
+VL 10
+IS 2
+PS 69-75
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Graphium eurypylus magnificus ssp.nov. is described from Japen Island,
+   Papua Province, Indonesia, and Graphium eurypylus argenteus ssp.nov.
+   described from Misool Island, West Papua Province, Indonesia. The
+   general ecology and taxonomy of Graphium eurypylus is discussed, in
+   addition to the relationships of the new subspecies to geographically
+   proximate populations of the same species.
+C1 Goode, Mark; 38 Cornwall Rd, Tettenhall, W Midlands, WV6 8XB, United
+   Kingdom, United Kingdom.
+EM markrg68@gmail.com
+SC Zoology; Environmental Sciences &Ecology
+SN 1978-9807
+BD Systematics; Nomenclature; New taxa; Ecology; Land zones; Oriental
+   region; Eurasia; Asia
+DE Graphium eurypylus [Ecology /  / Systematics]. 
+   Graphium eurypylus argenteus; Graphium eurypylus magnificus [Indonesia /
+    / New subspecies]. 
+TN Arthropods; Insects; Invertebrates; Lepidopterans
+ST Animalia, Arthropoda, Insecta, Lepidoptera, Glossata, Heteroneura,
+   Papilionoidea, Papilionidae
+OR Graphium eurypylus - Linnaeus 1758 (Papilionidae). 
+   Graphium eurypylus argenteus (Papilionidae): [Subsp nov, Indonesia, P.
+   72]. 
+   Graphium eurypylus magnificus (Papilionidae): [Subsp nov, Indonesia, P.
+   71]. 
+UT ZOOREC:ZOOR15608061208
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15608061210
+DT Article
+TI Delias maaikeae, a new species from the Cyclops Mountains, Papua,
+   Indonesia (Lepidoptera: Pieridae).
+AU Davenport, Chris
+   Pequin, Olivier
+   de Vries, Peter Jan Andre
+SO Suara Serangga Papua
+VL 10
+IS 2
+PS 84-88
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB A new species of genus Delias Hubner, 1819 (Lepidoptera: Pieridae) from
+   the Cyclops Mountains of Papua Province, Indonesia is described and
+   illustrated: Delias maaikeae spec.nov. A comparison is made with some
+   allied species.
+SC Zoology
+SN 1978-9807
+BD Systematics; Nomenclature; New taxa; Land zones; Australasian region;
+   Oriental region; Eurasia; Asia; Australasia
+DE Delias [Indonesia / Papua / Distribution; systematics] [Papua New Guinea
+   /  / ]. 
+   Delias maaikeae [Indonesia /  / New species]. 
+TN Arthropods; Insects; Invertebrates; Lepidopterans
+ST Animalia, Arthropoda, Insecta, Lepidoptera, Glossata, Heteroneura,
+   Papilionoidea, Pieridae
+OR Delias - Huebner 1819 (Pieridae). 
+   Delias maaikeae (Pieridae): [Sp nov, Indonesia, P. 85]. 
+UT ZOOREC:ZOOR15608061210
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15305032247
+DT Article
+TI An integrative approach underscores the taxonomic status of Lamellidens
+   exolescens, a freshwater mussel from the Oriental tropics (Bivalvia:
+   Unionidae).
+AU Konopleva, Ekaterina S. (es.konopleva@gmail.com) 
+   Bolotov, Ivan N.
+   Vikhrev, Ilya V.
+   Gofarov, Mikhail Y.
+   Kondakov, Alexander V.
+SO Systematics and Biodiversity
+VL 15
+IS 3
+PS 204-217
+PD 2017
+PY 2017
+LA English
+U1 1
+U2 1
+AB The Oriental Region harbours the second richest fauna of freshwater
+   bivalves in the world, including many endangered endemic taxa. However,
+   the Oriental fauna of the Unionidae have been very poorly studied using
+   an integrative taxonomic approach, which may provide reasonable
+   revisions of complicated (cryptic) taxa based on morphological,
+   molecular, biogeographic and ecological evidence. Here, we present the
+   first example of an integrative taxonomic revision concerning the status
+   of Unio exolescens Gould (1843), a nominal mussel taxon that was
+   accepted as a valid species within the genus Trapezoideus Simpson
+   (1900). Currently, Trapezoideus exolescens is considered the type of the
+   genus as far as the originally designated type species, U. foliaceus
+   Gould (1843), was considered to be a synonym of T. exolescens. Using
+   nucleotide sequences obtained from mitochondrial (COI and 16S rRNA) and
+   nuclear (28S rDNA) genes, we found that the topotypes of Unio exolescens
+   Gould (1843) cluster together with representatives of another mussel
+   genus, Lamellidens Simpson (1900). Based on these results and on
+   morphological data, we transfer Unio exolescens Gould (1843) from
+   Trapezoideus to Lamellidens and propose Lamellidens exolescens (Gould,
+   1843) comb. nov. In addition, we revisited the status of Unio foliaceus
+   Gould (1843) as a valid species and the type of the genus Trapezoideus
+   based on the morphological study of the type specimen, although a
+   question concerning the true position of this taxon is still open
+   because its molecular sequences are not available. Our findings
+   highlight that an integrative taxonomic approach is an important tool,
+   particularly when dealing with such species-rich Unionidae fauna as
+   those of the Oriental Realm.
+C1 Konopleva, Ekaterina S.; Russian Acad Sci, Fed Ctr Integrated Arct Res,
+   Severnaya Dvina Emb 23, Arkhangelsk, 163000, Russia, Russia.
+EM es.konopleva@gmail.com
+RI Bolotov, Ivan N/P-2892-2015; Kondakov, Alexander/C-9202-2018; Gofarov,
+   Mikhail Y/U-9024-2017; Vikhrev, Ilya V/F-2902-2017
+OI Kondakov, Alexander/0000-0002-6305-6496; Gofarov, Mikhail
+   Y/0000-0002-8532-0307; Vikhrev, Ilya V/0000-0002-8612-7736
+SC Zoology; Anatomy &Morphology
+SN 1477-2000
+BD Systematics; Nomenclature; Combination; Synonymy; Taxonomy; Taxonomic
+   position; Skeletal and supporting structures; Shell; Genetics; Evolution
+DE Unio exolescens; Unio foliaceus; Unio scutum [Shell morphology /  /
+   taxonomic implications] [Molecular genetics / Mt & nuclear gene
+   sequences / ] [Phylogeny /  / ]. 
+TN Invertebrates; Molluscs
+ST Animalia, Mollusca, Bivalvia, Palaeoheterodonta, Unionoida, Unionoidea
+OR Lamellidens exolescens - (Gould 1843) (Unionoidea): [Comb nov,
+   Transferred from Trapezoideus, p. 214]. 
+   Trapezoideus exolescens - (Gould 1843) (Unionoidea): [Removal from
+   synonymy, Trapezoideus foliaceus (Gould 1843), p. 214; Referred to,
+   Lamellidens, p. 214]. 
+   Trapezoideus foliaceus - (Gould 1843) (Unionoidea): [Removal from
+   synonymy, With Trapezoideus exolescens (Gould 1843), p. 214]. 
+   Unio exolescens - Gould 1843 (Unionoidea). 
+   Unio foliaceus - Gould 1843 (Unionoidea). 
+   Unio scutum - Sowerby 1868 (Unionoidea). 
+UT ZOOREC:ZOOR15305032247
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15507046142
+DT Article
+TI Two new species of plant parasitic nematodes Hirschmanniella bananae
+   n.sp. (Nematoda: Pratylenchidae) and Scutellonema tanlamense n.sp.
+   (Nematoda: Hoplolaimidae) associated with banana in Vienam [Vietnam].
+AU Nguyen, Ngoc Chau
+SO Tap Chi Sinh Hoc
+VL 39
+IS 3
+PS 253-263
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB During investigation on the plant parasitic nematodes on bananas in
+   North and Central provinces of Vietnam carried out in 1995 two new
+   species were found, Hirschmanniella bananae n.sp. and Scutellonema
+   tanlamese n.sp. Hirschmanniella bananae n.sp. is characterized by having
+   6 annuli in lip region, areolation of entire lateral field and presence
+   of a mid-terminal mucro at the tail end. The new species is close to H.
+   shamini Ahmad, 1972 but differs from H. shamini by longer body length in
+   females (1450-1750 [mu]m vs 1190-1360 mm), longer stylet longer (18-20.5
+   mm vs 16-19 mm) and longer spicule longer (28-29.5 mm vs 22-25 mm).
+   Scutellonema tanlamese n.sp. is characterized by lip region with three
+   annuli and numerous longitudinal ridges (18) in basal annulus and
+   structure of lateral field at the tail region with inner lines extending
+   to tail terminus. The new species is closest to S. brachyurus type B
+   (African populations) described by Van Den Berg et al. in 2013 but can
+   be distinguished by body length shorter (643-708 [mu]m vs 777-820
+   [mu]m), stylet length shorter ((24.5-26.5 [mu]m vs 28-29.5 mm, and also
+   by structure of lateral field with two inner lines going throught at
+   tail region and vulval edge distinct with epiptygma appearing double and
+   folded into vagina.
+SC Parasitology; Zoology
+SN 0866-7160
+BD Systematics; Nomenclature; New taxa; Parasites diseases and disorders;
+   Hosts; Land zones; Oriental region; Eurasia; Asia
+DE Hirschmanniella bananae; Scutellonema tanlamense [Plant hosts / Musa
+   paradisiaca / New parasite species] [Vietnam /  / New species from plant
+   host]. 
+TN Invertebrates; Nematodes
+ST Animalia, Nematoda
+OR Hirschmanniella bananae (Nematoda): [Sp nov, Vietnam, Parasite of Musa
+   paradisiaca (Plant), p. 254; Parasite]. 
+   Scutellonema tanlamense (Nematoda): [Sp nov, Vietnam, Parasite of Musa
+   paradisiaca (Plant), p. 258; Parasite]. 
+UT ZOOREC:ZOOR15507046142
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15507046147
+DT Article
+TI First records of bats (Mammalia: Chiroptera) from Muong Phang cultural
+   and historical site, Dien Bien province, Northwestern Vietnam.
+AU Loi, Dao Nhan
+   Thong, Vu Dinh
+SO Tap Chi Sinh Hoc
+VL 39
+IS 3
+PS 296-302
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB The internationally renowned Muong Phang Cultural and Historical Site is
+   located in the Dien Bien Phu region, northwestern Vietnam, and has
+   received special attention from the public because of its great
+   biodiversity. This site has a large forest area and other habitats
+   including lakes, streams, rivers and paddyfield. These habitats would be
+   ideal homes for bats and other biological taxa. However, in general, the
+   wildlife of the Muong Phang Cultural and Historical Site receives little
+   attention from scientists and authorities. Between 2014 and 2016, we
+   conducted series of surveys for bats in Muong Phang. Bat capture and
+   sound recordings were the main procedure to obtain materials and data
+   necessary for the assessment of diversity and conservation status. The
+   results of the surveys this time revealed that there are 19 species of
+   bats belonging to 7 genera, 5 families in the study area. Of these, a
+   Myotis sp. is different from all the previously recorded Myotis bats
+   from Vietnam, and, a Rhinolophus sp. is different from every described
+   species of the family Rhinolophidae. This paper provides the first
+   records of bats from Muong Phang with remarks on their taxonomy and
+   conservation status.
+SC Zoology; Biodiversity &Conservation; Environmental Sciences &Ecology
+SN 0866-7160
+BD Systematics; Conservation; Land zones; Oriental region; Eurasia; Asia
+DE Chiroptera [Endangered status / Conservation status / New record;
+   systematics] [Vietnam / Dien Bien Phu Province, Muong Phang / faunal
+   list]. 
+TN Bats; Chordates; Mammals; Vertebrates
+ST Animalia, Chordata, Vertebrata, Mammalia
+OR Chiroptera (Mammalia): [New record]. 
+UT ZOOREC:ZOOR15507046147
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15508050196
+DT Article
+TI New records of rare genera of the subfamily Doryctinae (Hymenoptera:
+   Braconidae), with description of five new species from Vietnam.
+AU Long, Khuat Dang
+   Hoa, Dang Thi
+   Duong, Nguyen Van
+SO Tap Chi Sinh Hoc
+VL 39
+IS 4
+PS 383-397
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Three small genera of the subfamily Doryctinae are newly recorded for
+   the Braconidae fauna of Vietnam, viz. Euscelinus Westwood, 1882;
+   Leptospathius Szepligeti, 1902 and Sonanus Belokobylskij & Konishi,
+   2001. Five new species of these genera are described and illustrated,
+   namely Euscelinus vietnamicus Long, sp. n.; Leptospathius langsoni Long,
+   sp. n.; Leptospathius phamvanluci Long, sp. n.; Leptospathius simulatus
+   Long, sp. n. and Sonanus mocchaui Long, sp. n.. The checklist and
+   distribution of the already known species of three genera are provided.
+   Keys to species of the genera are also given.
+SC Zoology
+SN 0866-7160
+BD Systematics; Nomenclature; New taxa; Taxonomy; Key; Land zones; Oriental
+   region; Eurasia; Asia
+DE Euscelinus; Leptospathius; Sonanus [Vietnam /  / New record]. 
+   Euscelinus vietnamicus; Leptospathius langsoni; Leptospathius
+   phamvanluci; Leptospathius simulatus; Sonanus mocchaui [Vietnam /  / New
+   species]. 
+TN Arthropods; Hymenopterans; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Hymenoptera, Apocrita, Terebrantia,
+   Ichneumonoidea, Braconidae
+OR Euscelinus - Westwood 1882 (Braconidae): [Key to species, P. 384; New
+   record]. 
+   Euscelinus vietnamicus - Long 2017 (Braconidae): [Sp nov, Vietnam, Host
+   unknown, p. 385]. 
+   Leptospathius - Szepligeti 1902 (Braconidae): [Key to species, Females,
+   p. 386; New record]. 
+   Leptospathius langsoni - Long 2017 (Braconidae): [Sp nov, Vietnam, Host
+   unknown, p. 388]. 
+   Leptospathius phamvanluci - Long 2017 (Braconidae): [Sp nov, Vietnam,
+   Host unknown, p. 390]. 
+   Leptospathius simulatus - Long 2017 (Braconidae): [Sp nov, Vietnam, Host
+   unknown, p. 392]. 
+   Sonanus - Belokobylskij & Konishi 2001 (Braconidae): [Key to species, P.
+   393; New record]. 
+   Sonanus mocchaui - Long 2017 (Braconidae): [Sp nov, Vietnam, Host
+   unknown, p. 394]. 
+UT ZOOREC:ZOOR15508050196
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15508050198
+DT Article
+TI Three new earthworm species of the genus Metaphire Sims & Easton, 1972
+   (Oligochaeta, Megascolecidae) from Dong Nai Province, Vietnam.
+AU Nguyen, Thanh Tung
+   Lam, Hai Dang
+SO Tap Chi Sinh Hoc
+VL 39
+IS 4
+PS 406-415
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Three new earthworm species are described from Dong Nai Province,
+   Vietnam, namely Metaphire malayanoides sp. n., Metaphire
+   grandiverticulata sp. n., and Metaphire xuanlocensis sp. n. Both M.
+   malayanoides sp. n. and M. grandiverticulata sp. n. have four pairs of
+   spermathecal pores in ventrolateral 5/6/7/8/9. However, M. malayanoides
+   is distinguished by having two to eight pairs of genital markings
+   located in intersegmental furrows, starting from 19/20; M.
+   grandiverticulata sp. n. is characterized by having only one pair of
+   genital markings between male porophores in xviii, and very large
+   tube-shaped diverticulum. M. xuanlocensis sp. n. has one pair of
+   spermathecal pores inside the spermathecal chambers in 7/8, accessory
+   glands stalked and attached to the enlarged base of protastic duct, and
+   the presence of penial setae.
+OI Lam, Dang Hai/0000-0002-1236-1087
+SC Zoology
+SN 0866-7160
+BD Systematics; Nomenclature; New taxa; Diagnosis; Land zones; Oriental
+   region; Eurasia; Asia
+DE Metaphire [Vietnam /  / Distribution; systematics]. 
+   Metaphire grandiverticulata; Metaphire malayanoides; Metaphire
+   xuanlocensis [Vietnam /  / New species]. 
+TN Annelids; Invertebrates
+ST Animalia, Annelida, Oligochaeta
+OR Metaphire - Sims & Easton 1972 (Oligochaeta): [Diagnostic characters of
+   subordinate taxa, P. 410]. 
+   Metaphire grandiverticulata (Oligochaeta): [Sp nov, Vietnam, P. 410]. 
+   Metaphire malayanoides (Oligochaeta): [Sp nov, Vietnam, P. 407]. 
+   Metaphire xuanlocensis (Oligochaeta): [Sp nov, Vietnam, P. 412]. 
+UT ZOOREC:ZOOR15508050198
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15508050203
+DT Article
+TI First record of the genus Eugalta Cameron, 1899 (Hymenoptera:
+   Ichneumonidae: Poemeninae) from Vietnam.
+AU Nhi, Pham Thi
+   Long, Khuat Dang
+   van Achterberg, Cornelis
+SO Tap Chi Sinh Hoc
+VL 39
+IS 4
+PS 467-473
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB The genus Eugalta Cameron, 1899 (Ichneumonidae: Poemeniinae) is reported
+   for the first time from Vietnam after studying the Ichneumonidae
+   collections recently assembled at the Institute of Ecology and
+   Biological Resources (Ha Noi) and the Naturalis Biodiversity
+   Center(Leiden). A key to seven species of Eugaltais compiled.
+   Eugaltapunctulatayamuna(Gupta, 1980), is a junior synonym of the
+   nominate subspecies, E. punctulatapunctulata Cameron, 1899, syn. nov.
+SC Zoology
+SN 0866-7160
+BD Systematics; Nomenclature; Synonymy; Taxonomy; Key; Land zones; Oriental
+   region; Eurasia; Asia
+DE Eugalta [Vietnam /  / New record; systematics]. 
+TN Arthropods; Hymenopterans; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Hymenoptera, Apocrita, Terebrantia,
+   Ichneumonoidea, Ichneumonidae
+OR Eugalta - Cameron 1899 (Ichneumonidae): [Key to species, P. 467; New
+   record]. 
+   Eugalta punctulata punctulata - Cameron 1899 (Ichneumonidae): [Syn nov,
+   Eugalta punctulata yamuna (Gupta 1980), p. 467]. 
+UT ZOOREC:ZOOR15508050203
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15506032837
+DT Article
+TI ITALOPHIOPSIS DERASMOI GEN. AND SP NOV (IONOSCOPIFORMES, ITALOPHIOPSIDAE
+   FAM. NOV.) FROM THE CRETACEOUS OF PIETRAROJA (ITALY).
+AU Taverne, Louis (louis.taverne@gmail.com) 
+   Capasso, Luigi
+SO Thalassia Salentina
+VL 39
+PS 9-23
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB The skeleton of Italophiopsis derasmoi gen. and sp. nov., an
+   ionoscopiform fish (Halecomorphi) from the marine Albian of Pietraroja
+   (Campania, southern Italy), is studied in details. The new Italian genus
+   has parietals and dermopterotics of approximately the same length,
+   unornamented infraorbitals and diplospondylous vertebrae in the caudal
+   region, three features characterizing Ophiopsidae. Italophiopsis also
+   exhibits crests and fossae on the first abdominal vertebrae and thin
+   ovoid and slightly ornamented scales, two characters that are absent in
+   Ophiopsidae but announce the lateral fossae of the vertebrae and the
+   thin ovoid amioid-like scales present in Ionoscopidae. Italophiopsis
+   probably has around 20 supraneurals between the head and the dorsal fin,
+   a number found in Ionoscopidae but differing from that of Ophiopsidae.
+   Such a situation does not allow the inclusion Italophiopsis in one of
+   these two families. The new family Italophiopsidae is erected and
+   considered as intermediate between Ophiopsidae and Ionoscopidae.
+C1 Taverne, Louis; Royal Inst Nat Sci Belgium, Directorate Earth & Hist
+   Life, Vautier St 29, Brussels, B-1000, Belgium, Belgium.
+EM louis.taverne@gmail.com
+SC Zoology
+SN 0563-3745; 1591-0725
+BD Systematics; Nomenclature; New taxa; Land zones; Palaearctic region;
+   Eurasia; Europe; Geological time periods; Mesozoic
+DE Italophiopsidae [Cretaceous /  / New family]. 
+   Italophiopsis [Cretaceous /  / New genus]. 
+   Italophiopsis derasmoi [Italy /  / new species] [Cretaceous /  / ]. 
+TN Chordates; Fish; Vertebrates
+ST Animalia, Chordata, Vertebrata, Pisces, Osteichthyes, Actinopterygii
+OR Italophiopsidae (Actinopterygii): [Fam nov, Of order Ionoscopiformes,
+   Type genus Italophiopsis, p. 11, Cretaceous; Fossil]. 
+   Italophiopsis (Actinopterygii): [Gen nov, Of new family italophiopsidae,
+   Type species Italophiopsis derasmoi, p. 11, Cretaceous; Fossil]. 
+   Italophiopsis derasmoi (Actinopterygii): [Sp nov, Italy, Cretaceous, P.
+   11; Fossil]. 
+UT ZOOREC:ZOOR15506032837
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15506033618
+DT Article
+TI Morphometric parameters of ninespine stickleback Pungitius pungitius
+   (Linnaeus, 1758) from Black Sea basin reservoirs.
+AU Rizevsky, V.K. (RVK869@mail.ru) 
+SO Vyestsi Natsyyanal'nai Akademii Navuk Byelarusi Syeryya Biyalahichnykh
+   Navuk
+VL 4
+PS 33-39
+PD 2017
+PY 2017
+LA Russian
+U1 0
+U2 1
+AB Native for the water bodies of the Baltic Sea basin, the circumpolar
+   fish species - the ninespine stickleback Pungitius pungitius (Linnaeus,
+   1758)- penetrated into the Black Sea basin's water bodies on the
+   territory of Belarus, was naturalized and in recent years is widely
+   distributed in the Pripyat River basin. The morphometric characteristics
+   of the ninespine stickleback from the Pripyat River basin's water bodies
+   (a new sea basin for this species - Black Sea basin) are given for the
+   first time in present paper. It is shown that individuals of the
+   ninespine stickleback from the Krechet River and Tur River don't have
+   bone plates on the each side of the body. However, variation in the
+   meristic features obtained for the ninespine stickleback coincide with
+   values in the range and make up: D1 8-11, D2 8-12, A 7-11, P 9-11, vert.
+   29-34, sp. br. 7-13. The materials presented in this article are the
+   first description of the morphometric characteristics of the ninespine
+   stickleback not only in new habitats (water bodies of the Black Sea
+   basin - the Pripyat River basin), but also for the water bodies of
+   Belarus in general.
+C1 Rizevsky, V.K.; Natl Acad Sci Belarus, Sci & Pract Ctr Bioresources, 27
+   Akad Skaya Str, Minsk, 220072, Belarus, Belarus.
+EM RVK869@mail.ru
+SC Anatomy &Morphology; Zoology; Evolutionary Biology
+SN 1029-8940
+BD Systematics; Nomenclature; Description; Biometrics; Evolution;
+   Variation; Morphological variation; Land zones; Palaearctic region;
+   Eurasia; Europe
+DE Pungitius pungitius [Size / Morphometric characters / new record]
+   [Meristic morphometrics / Meristic characters / ] [Size variation /
+   Meristic characters variation / ] [Belarus / River Pripyat basin /
+   distribution]. 
+TN Chordates; Fish; Vertebrates
+ST Animalia, Chordata, Vertebrata, Pisces, Osteichthyes, Actinopterygii,
+   Gasterosteiformes, Gasterosteidae
+OR Pungitius pungitius - (Linnaeus 1758) (Gasterosteidae): [First time
+   described, Meristic characters p. 35, morphometric characters, p. 36;
+   New record]. 
+UT ZOOREC:ZOOR15506033618
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15510065424
+DT Article
+TI Preliminary description of new Isophya (Orthoptera: Tettigonioidea:
+   Phaneropteridae) from Serbia with remarks on some known species.
+AU Pavicevic, Dragan (dragan.pavicevic@zzps.rs) 
+SO Zashtita Prirode
+VL 67
+IS 1-2
+PS 25-35
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Out of over 45 species of the genus Isophya in Europe, six of them have
+   been recorded in Serbia thus far (Adamovic, 1975; Pavicevic et al.,
+   2014b). Of these six species, two have been described from
+   Serbia-Isophya modestior Brunner von Wattenwyl, 1882 (Nis-Bela Palanka)
+   and Isophya obtusa Brunner von Wattenwyl, 1882 (Stara Planina Mt.-Tri
+   Cuke). The species Isophya miksici Peshev, 1985 recorded at the
+   Beljanica Mt. in eastern Serbia is new for the fauna of Serbia. This
+   paper presents the preliminary descriptions of three new taxa, Isophya
+   radmilae sp. n. from Radan Mt., Isophya pancici sp. n. from Tara and
+   Zlatibor Mts. and Isophya clara orientalis ssp. n. from Belgrade
+   (Miljakovac and Stepin Lug). The morphology of the new taxa has been
+   analyzed with an overview of the relevant sketches and scans of
+   stridulatory files of males.
+C1 Pavicevic, Dragan; Inst Nat Conservat Serbia, Dr Ivana Ribara 91,
+   Belgrade, 11070, Serbia, Serbia.
+EM dragan.pavicevic@zzps.rs
+SC Anatomy &Morphology; Zoology
+SN 0514-5899
+BD Systematics; Nomenclature; New taxa; General morphology; Land zones;
+   Palaearctic region; Eurasia; Europe
+DE Isophya [General morphology /  / Systematics; historical survey] [Serbia
+   /  / distribution]. 
+   Isophya clara orientalis [Serbia /  / New subspecies]. 
+   Isophya miksici [Serbia /  / New record]. 
+   Isophya pancici; Isophya radmilae [Serbia /  / New species]. 
+TN Arthropods; Insects; Invertebrates
+ST Animalia, Arthropoda, Insecta, Orthoptera, Saltatoria
+OR Isophya (Saltatoria). 
+   Isophya clara orientalis (Saltatoria): [Subsp nov, Serbia, P. 30]. 
+   Isophya miksici (Saltatoria): [New record]. 
+   Isophya pancici (Saltatoria): [Sp nov, Serbia, P. 28]. 
+   Isophya radmilae (Saltatoria): [Sp nov, Serbia, P. 26]. 
+UT ZOOREC:ZOOR15510065424
+OA DOAJ Gold
+DA 2020-09-17
+ER
+
+PT J
+AN ZOOR15311072652
+DT Article
+TI East Asian Cymonomid Crabs (Crustacea: Brachyura).
+AU Ahyong, Shane T. (shane.ahyong@austmus.gov.au) 
+   Ng, Peter K.L.
+SO Zoological Studies
+VL 56
+PS 1-20
+PD 2017
+PY 2017
+LA English
+U1 0
+U2 0
+AB Cymonomid crabs are small cryptic deep-water brachyurans occurring
+   worldwide. Six species have been reported from East Asia: one from both
+   Taiwan and Japan (C. andamanicus Alcock, 1905) and five from Japan only
+   (C. curvirostris Sakai, 1965, C. japonicus Balss, 1922, C. sagamiensis
+   Sakai, 1983, C. soela Ahyong and Brown, 2003, C. umitakae Takeda, 1981).
+   Cymonomus curvirostris, C. japonicus, C. sagamiensis and C. umitakae
+   were described from Japanese waters, but C. andamanicus and C. soela
+   have much more distant type localities - the Andaman Sea and
+   southeastern Australia, respectively. We review all previous records of
+   Cymonomus from East Asia, describe two new species, and clarify the
+   status of records of C. andamanicus and C. soela from the region.
+   Records of C. andamanicus and C. soela from East Asia are referable to
+   two new species occurring in both Taiwan and Japan. The identities of C.
+   japonicus and C. sagamiensis are fixed by neotype selection; C.
+   sagamiensis is made a junior objective synonym of C. umitakae. Six
+   species of Cymonomus are now recorded from Japan, of which two also
+   occur off Taiwan. We also report on cymonomids collected by Taiwanese
+   research vessels in the South China Sea (Dongsha and Macclesfield Bank)
+   of which four species were collected, including C. hakuhoae Takeda and
+   Moosa, 1990, not previously found in Japan or Taiwan. A key to the
+   species of Cymonomus from East Asia and the South China Sea is included.
+C1 Ahyong, Shane T.; Australian Museum, 1 William St, Sydney, NSW, 2010,
+   Australia, Australia.
+EM shane.ahyong@austmus.gov.au
+SC Zoology
+SN 1021-5506
+BD Systematics; Nomenclature; New taxa; Type material; Synonymy; Taxonomy;
+   Key; Marine zones; Pacific Ocean
+DE Cymonomus [North Pacific / East Asia & South China Sea / Key to species]
+   [ /  / Taxonomic review]. 
+   Cymonomus chani [North Pacific / Japan / New species] [ / Taiwan / ]. 
+   Cymonomus cognatus [North Pacific /  / New species] [ / Japan / ] [ /
+   Taiwan / ]. 
+TN Arthropods; Crustaceans; Invertebrates
+ST Animalia, Arthropoda, Crustacea, Malacostraca, Eumalacostraca, Eucarida,
+   Decapoda, Reptantia, Brachyura
+OR Cymonomus - Bouvier 1898 (Brachyura): [Key to species, North Pacific,
+   East Asia & South China Sea, P. 19]. 
+   Cymonomus chani (Brachyura): [Sp nov, Taiwan (marine), P. 2]. 
+   Cymonomus cognatus (Brachyura): [Sp nov, Taiwan (marine), P. 4]. 
+   Cymonomus granulatus japonicus - Balss 1922 (Brachyura): [Neotype
+   designated, P. 12]. 
+   Cymonomus sagamiensis - Sakai 1983 (Brachyura): [Neotype designated, P.
+   15]. 
+   Cymonomus umitakae - Takeda 1981 (Brachyura): [Syn nov, Cymonomus
+   sagamiensis Sakai 1983, p. 15]. 
+UT ZOOREC:ZOOR15311072652
+DA 2020-09-17
+ER
+
+EF
