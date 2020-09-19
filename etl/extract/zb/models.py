@@ -30,8 +30,8 @@ class Docs(Base):
     """Used to hold the different records being retrieved from TreatmentBank
 
     Args:
-        Base (Base): Classe Base, the base class which all mapped classes
-        inherit
+        Base (Class): Inherits from class Base, the base class which all mapped
+        classes should inherit
     """
     # Declare table name
     __tablename__ = "docs"
