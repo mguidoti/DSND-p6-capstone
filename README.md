@@ -7,6 +7,7 @@
   |--data
     |--wos
       |--*.txt (156x)
+    |--tb_response.p                      # Pickle file containing the full response from TreatmentBank API's, to test .db data consistency later
     |--tb.db                      # Snapshot for TB data used in the project
     |--wos.p                      # Not added due to the file size
     |--zb.db                      # Snapshot for Zoobank data used in the project
