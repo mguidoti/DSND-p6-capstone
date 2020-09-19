@@ -10,5 +10,6 @@ report/
 # Others #
 ##########
 test/
+exp*.ipynb
 __pycache__/
 
