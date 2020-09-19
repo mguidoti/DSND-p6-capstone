@@ -30,7 +30,9 @@
       |--tb.py                      # TreatmentBank processing script
       |--wos.py                      # Zoological Records parser
     |--transform
-      |--sherpa_romeo.py (maybe I'll delete it)
+      |--config.py                      # Uncommited. Contains API keys to SHERPA/RoMEO
+      |--doaj.py                      # Connects to DOAJ
+      |--sherpa_romeo.py                      # Connects to SHERPA/RoMEO
       |--transform.py                      # Transform routine
     |--load.py                      # Load routine
   |--tests
