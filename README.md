@@ -33,6 +33,9 @@
       |--sherpa_romeo.py (maybe I'll delete it)
       |--transform.py                      # Transform routine
     |--load.py                      # Load routine
+  |--tests
+    |--test_extract.py
+    |--test_transform.py
   |--.gitignore
   |--p6-capstone.code-workspace
   |--Pipfile
