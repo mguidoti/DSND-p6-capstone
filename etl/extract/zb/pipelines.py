@@ -14,8 +14,13 @@ from zb.models import db_connect, create_table, Docs
 
 
 class ZbPipeline:
+    """This is a custom Item Pipeline class.
+    """
 
     def __init__(self):
+        """Init method, that instantiates an engine and create a table by
+        calling zb.models.py methods, and start a Session.
+        """
 
         engine = db_connect()
         create_table(engine)
@@ -24,9 +29,21 @@ class ZbPipeline:
 
 
     def process_item(self, item, spider):
+        """Overwrited the process_item() required method for custom Item Proces-
+        sors.
+
+        Args:
+            item (scrapy.Item): Item yield by the spider parser()
+            spider (scrapy.Spider): Spider doing the crawling and passing the
+            Items to be processed in this Pipeline
+
+        Returns:
+            [type]: [description]
+        """
 
         session = self.Session()
 
+        # Instantiates a Docs() object, to hold the information from the Item
         doc = Docs()
 
         doc.authors = item['authors']
@@ -40,6 +57,8 @@ class ZbPipeline:
         doc.end_page = item['end_page']
         doc.from_year = item['from_year']
 
+        # Attempt to add the Docs() object, and commit the changes on the data-
+        #base
         try:
             session.add(doc)
             session.commit()
@@ -49,4 +68,6 @@ class ZbPipeline:
         finally:
             session.close()
 
+        # Required return statement to pass the item to the remaining of the
+        # pipeline (which in this case doesn't exist)
         return item
