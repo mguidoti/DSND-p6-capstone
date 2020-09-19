@@ -2,8 +2,8 @@ from os import path, listdir
 import re
 import pandas as pd
 
-
-my_dir = './data/wos/'      # Define folder where the output files are kept
+# Define folder where the input files are kept
+my_dir = './data/wos/'
 
 # List all files in the specified folder
 my_files = [f for f in listdir(my_dir) if path.isfile(path.join(my_dir, f))]
