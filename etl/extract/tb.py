@@ -1,4 +1,5 @@
 import requests
+import pickle
 import pandas as pd
 
 from sqlalchemy.orm import sessionmaker
@@ -30,6 +31,11 @@ def get_data():
         'treatCount=count&format=JSON')
 
     if r.status_code == 200:
+
+        # Save the full response to test the data consistency with the .db
+        # later
+        with open('./data/tb_response.p', 'wb') as p_file:
+            pickle.dump(r.json(), p_file)
 
         return r.json()['data']
 
