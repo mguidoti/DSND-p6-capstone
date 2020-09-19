@@ -3,6 +3,10 @@
 .vscode/
 p6-capstone.code-workspace
 
+# API Key(s) #
+##############
+etl/transform/config.py
+
 # Report #
 ##########
 report/
