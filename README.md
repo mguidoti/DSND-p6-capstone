@@ -1,5 +1,5 @@
 # README
-> This is my work for the sixth project of the Data Scientist Nanodegree Program from Udacity.
+> This is my work for the sixth project, the capstone project, of the Data Scientist Nanodegree Program from Udacity.
 
 ## Motivation
 
