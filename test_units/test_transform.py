@@ -1,10 +1,11 @@
 import pandas as pd
 
 def wos(wos):
-    """[summary]
+    """Test unit for data transformation of Web of Science/Zoological Records 
+    dataframe
 
     Args:
-        wos ([type]): [description]
+        wos (pandas.DataFrame): Web of Science/Zoological Records dataframe
     """
 
     # Check if the columns were correctly set
@@ -25,10 +26,10 @@ def wos(wos):
 
 
 def tb(tb):
-    """[summary]
+    """Test unit for data transformation of TreatmentBank dataframe
 
     Args:
-        tb ([type]): [description]
+        tb (pandas.DataFrame): TreatmentBank dataframe
     """
 
     # Check if the columns were correctly set
@@ -49,10 +50,10 @@ def tb(tb):
 
 
 def zb(zb):
-    """[summary]
+    """Test unit for data transformation of Zoobank dataframe
 
     Args:
-        zb ([type]): [description]
+        zb (pandas.DataFrame): Zoobank dataframe
     """
 
     # Check if high-ranked journals wrongly named were renamed
