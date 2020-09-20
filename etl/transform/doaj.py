@@ -35,6 +35,8 @@ def check_oa(jrnls_list):
         if data['total'] == 0:
             results[jrnl] = None
         else:
+            # TODO: Can and SHOULD improve this title comparison to accomodate
+            # differne tittle cases and additional words, such as, publishers.
             if data['results'][0]['bibjson']['title'] == jrnl:
                 try:
                     oa_apc = data['results'][0]['bibjson']['apc']
