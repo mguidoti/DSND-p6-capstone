@@ -88,7 +88,7 @@ def zb(zb):
     ('Peckhamia\(', 'Peckhamia'),
     ('ZooKeys\(', 'ZooKeys'),
     ('European Journal of Taxonomy\(', 'European Journal of Taxonomy'),
-    ('Far Eastern Entomologist\(', ''),
+    ('Far Eastern Entomologist\(', 'Far Eastern Entomologist'),
     ('Insecta Mundi\(', 'Insecta Mundi'),
     ('Cesa News\(', 'Cesa News'),
     ('Zootaxa\,', 'Zootaxa'),
