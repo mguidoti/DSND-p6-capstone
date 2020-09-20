@@ -1,5 +1,9 @@
 # README
-> This is my work for the fifth project of the Data Scientist Nanodegree Program from Udacity.
+> This is my work for the sixth project of the Data Scientist Nanodegree Program from Udacity.
+
+## Motivation
+
+## Disclaimer
 
 ## Files
 ```
@@ -46,3 +50,11 @@
   |--README.md
   |--sp_nov.ipynb                      # Notebook with the entire rationale behind this project
 ```
+
+## Libraries
+
+## Installing & Running
+
+## Summary of Results
+
+## Acknowledgements
