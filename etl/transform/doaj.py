@@ -20,20 +20,29 @@ def check_oa(jrnls_list):
 
     for jrnl in jrnls_list:
 
+
         url = ('https://doaj.org/api/v1/search/journals/{}'
             .format(jrnl))
 
-        r = requests.get(url)
-        data = r.json()
+        # Cold bloaded safety lock here. If requests fails, then, no value for
+        # that specific journal
+        try:
+            r = requests.get(url)
+            data = r.json()
+        except:
+            results[jrnl] = None
 
         if data['total'] == 0:
             results[jrnl] = None
         else:
-            try:
-                oa_apc = data['results'][0]['bibjson']['apc']
-                results[jrnl] = 'GOLD'
-            except:
-                results[jrnl] = 'DIAMOND'
+            if data['results'][0]['bibjson']['title'] == jrnl:
+                try:
+                    oa_apc = data['results'][0]['bibjson']['apc']
+                    results[jrnl] = 'GOLD'
+                except:
+                    results[jrnl] = 'DIAMOND'
+            else:
+                results[jrnl] = None
 
     return results
 
