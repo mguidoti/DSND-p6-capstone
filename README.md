@@ -1,11 +1,12 @@
 # README
 > This is my work for the sixth project, the capstone project, of the Data Scientist Nanodegree Program from Udacity.
 
+You can access my [blog post here](https://hackmd.io/@mguidoti/S1veVwNHv).
 
 ## Motivation
 It happens that I'm a PhD in the Biological Sciences, with main focus on zoological taxonomy (actually, a specific family of insects), the science that describes and classifies biodiversity. One of the things that always annoyed me is how the FAIR principles are fairly unknown among my community. Alongside with this, I always wanted to know which journals are the major contributors to the discovery of new species.
 
-Allied to what I just said, this project forced me to work a lot on the ETL part of the Data Scientist's life, which I think is a major skill to acquire. Often we work with ready-to-go datasets, but in this project, I had to work hard to get the data, connecting five different service providers. The analyses might be simplistic, but it does answer the three main questions of this project:
+Allied to what I just said, this project forced me to work a lot on the ETL part of the Data Scientist's life, which I think is a major skill to acquire. Often we work with ready-to-go datasets, but in this project, I had to work hard to get the data, connecting five different service providers. The analyses might be simplistic (in part due to the planned ETL), but it does answer the three main questions of this project:
 
 - How much of the newly discovered data end up behind paywalls?
 - Who are the biggest journals in the science of discovering and describing things?
