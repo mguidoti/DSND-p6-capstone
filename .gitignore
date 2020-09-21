@@ -7,10 +7,6 @@ p6-capstone.code-workspace
 ##############
 etl/transform/config.py
 
-# Report #
-##########
-report/
-
 # Others #
 ##########
 exp*.ipynb
