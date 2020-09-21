@@ -53,8 +53,13 @@ I also used [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/), hence the [
       |--doaj.py                      # Connects to DOAJ
       |--sherpa_romeo.py                      # Connects to SHERPA/RoMEO
       |--transform.py                      # Transform routine
-    |--load.py                      # Load routine
-  |--tests
+    |--load.py                # Load routine
+  |--report
+    |--chart_01.png
+    |--chart_02.png
+    |--chart_03.png
+    |--chart_04.png
+  |--test_units
     |--test_extract.py
     |--test_transform.py
   |--.gitignore
@@ -80,11 +85,11 @@ From the available Pipfile:
 
 
 ## Installing & Running
-First, install [Pipenv], then run close this repository. On the command line, navigate to the cloned repo folder and type `pipenv install`. This should take care of installing all libraries and their dependecies.
+First, install [Pipenv](https://pypi.org/project/pipenv/), then run close this repository. On the command line, navigate to the cloned repo folder and type `pipenv install`. This should take care of installing all libraries and their dependecies.
 
 To run this project, you can simply open `sp_np.ipynb`. This is the jupyter notebook that will guide you through the entire process. Please, note that this notebook calls a lot of modularized functions that I wrote, and you can find them on /etl/extract, /etl/transform and /test_units.
 
-In order to run the web scraper I wrote to gather data from [Zoobank](http://www.zoobank.org), navigate to `/etl/extract` and run `scrapy crawl zoobank`. This is due the fact that I used a [Scrapy]() project, with custom ItemLoaders, in- and out-processors, ItemPipelines, and I can't run a CrawlerProcess with all these custom functionalities from Jupyter Notebook, apparently. However, this is not needed. On `sp_np.ipynb` I simply load the resulting SQLite database from this scraper.
+In order to run the web scraper I wrote to gather data from [Zoobank](http://www.zoobank.org), navigate to `/etl/extract` and run `scrapy crawl zoobank`. This is due the fact that I used a [Scrapy](https://scrapy.org/) project, with custom ItemLoaders, in- and out-processors, ItemPipelines, and I can't run a CrawlerProcess with all these custom functionalities from Jupyter Notebook, apparently. However, this is not needed. On `sp_np.ipynb` I simply load the resulting SQLite database from this scraper.
 
 
 ## Summary of Results
@@ -111,7 +116,7 @@ There are two particular tutorials that I would like to thank:
 - [A minimalist end-to-end Scrapy tutorial - Part III](https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-iii-bcd94a2e8bf3)
 - [SQLite in Python?](https://www.datacamp.com/community/tutorials/sqlite-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377092&utm_targetid=aud-438999696719:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1001686&gclid=Cj0KCQjwtZH7BRDzARIsAGjbK2aeMsVsC9GdjzbWJffg-LtBVHHW10y6XVdl78zuzZ7DPWU4S6gOiacaAql6EALw_wcB)
 
-That and many, many questions and answers on [Stack Overflow](). Too many to count.
+That and many, many questions and answers on [Stack Overflow](https://stackoverflow.com/). Too many to count.
 
 
 ## License
